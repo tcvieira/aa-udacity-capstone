@@ -1,0 +1,11 @@
+LecParam
+
+853 853 392 669 384 48 293 5000000 8 0 0
+Allocation de la mémoire :
+Allocation de lexm réussie, 6288 octets
+Allocation de tnum réussie, 3412 octets
+Allocation de ftext réussie, 15720 octets
+Allocation de list réussie, 192 octets
+Entrée dans OpenDicNum
+Dictionnaire numérisé : AlessandraBlanco01.dic
+Entrée dans OpenTextNum

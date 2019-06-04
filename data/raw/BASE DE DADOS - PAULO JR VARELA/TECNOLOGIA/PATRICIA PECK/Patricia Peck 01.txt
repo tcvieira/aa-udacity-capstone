@@ -1,0 +1,43 @@
+Perfil falso no Twitter
+Advogada Patrícia Peck indica como proteger seu nome ou a marca de sua empresa de perfis falsos.
+
+twitter-falso-88.jpgApós a inovação trazida pelas redes sociais, e todas as polêmicas criadas pelo Orkut e o Youtube com a justiça brasileira, vivemos um novo desafio: o Twitter.
+
+Com o crescimento da adesão a este novo ambiente, algumas empresas já se questionam como devem lidar com o Twitter, qual a melhor estratégia, considerando dois perfis: mais conservador e mais agressivo, para tomar proveito desta nova forma de comunicação que aproxima pessoas e marcas, mas também gera uma série de riscos relacionados a falsa identidade e falsidade ideológica.
+
+
+O Twitter conta com um modelo de plataforma mais aberta, delineado pelo usuário, ferramentas que permitem uma maior interatividade, e a permissão do uso comercial por empresas, que é um grande diferencial se comparado ao modelo da rede social Orkut, do Google, onde as empresas são proibidas de possuir perfis e comunidades próprios, sob pena de terem suas contas excluídas.
+
+O que vemos é o Twitter sendo utilizado por personalidades do meio político (muitos políticos possuem perfis no Twitter para divulgar propostas, projetos de lei), do mundo esportivo (vemos perfis de pilotos de fórmula 1, técnicos de futebol etc.), da própria mídia (perfis de revistas e programas de televisão para participação imediata do telespectador), além de empresas que já perceberam a importância da interatividade com seu público na sociedade digital que vivemos.
+
+Porém, se de um lado o Twitter é um instrumento poderoso para atender às necessidades de troca rápida de informação, de outro, com semelhante agilidade, permite a violação de direitos e a ocorrência de diversos prejuízos.
+
+Casos no Brasil
+Temos acompanhado alguns casos de violação de direitos via Twitter, tais como o caso de um Chief Executive Officer (CEO) de uma grande corporação e outro de um professor de renomada faculdade que foram vítimas da criação de perfis falsos (com nome completo, fotos e a marca da corporação).
+
+Os casos mais comuns, e de maior relevância, são os de uso indevido da marca da empresa, podendo causar confusão junto ao consumidor e desvio de clientela (art. 195 da Lei nº 9.276/96), além do uso indevido da imagem (art. 7º da Lei nº 9.610/98) de pessoas (art. 5º, X da Constituição Federal), trazendo exposição indesejada, ofensas de toda a sorte (injúria, calúnia difamação e seus reflexos em âmbito cível – arts. 186 e 927 do Código Civil), e o que chamamos de “furto de identidade digital” – que ocorre nas hipóteses de perfis falsos. Em geral, este último é muito praticado por desafetos e concorrentes.
+
+O agravante é que nos casos de violação desses direitos via Twitter, os prejuízos se intensificam a medida que agregam-se informações não autorizadas pelo detentor da marca, imagem e identidade digital. Em regra, junto com a imagem são veiculadas informações ofensivas, assim como a marca é aliada a informações inverídicas sobre produtos e serviços, e assim por diante.
+
+Monitoramento
+Daí a necessidade das empresas monitorarem o uso de sua marca e informações (especialmente aquelas de cunho confidencial) no Twitter, ainda que não possuam a intenção de fazerem uso dessa ferramenta. Ou seja, como é inevitável, a empresa mais agressiva pode criar seu perfil oficial e assim controlar melhor as informações associadas a ela, ou dentro de um modelo mais conservador, não aderir à ferramenta, mas monitorá-la para coibir uso indevido.
+
+Além disso, é fundamental orientar colaboradores, parceiros, fornecedores sobre a política institucional da empresa no tocante ao uso destas mídias, deixando claro, em normas internas, o que pode e o que não pode ser feito, já que é comum o uso indevido pelos próprios funcionários, muitas vezes, por desconhecerem os riscos e as conseqüências. 
+
+Para as empresas que se aventuram pelo Twitter, soma-se às recomendações anteriores, a orientação para que mantenham um canal único de comunicação, muito bem sinalizado como canal oficial da empresa e de fácil acesso, a fim de evitar confusão do usuário com outros perfis e mitigar o risco do uso indevido da marca.
+
+Como denunciar
+Se a empresa constatar qualquer violação de direitos pelo Twitter, deve consultar auxílio especializado e atentar-se para a correta preservação das evidências, se possível mediante a lavratura de ata notarial, armazenamento de logs e das imagens das telas eletronicamente (pelo recurso ‘Print Screen’).
+
+O próximo passo é denunciar a violação por intermédio das próprias ferramentas disponibilizadas pelo Twitter, seguindo os termos de uso do site, que têm se demonstrado quase sempre efetivas. A desvantagem é que a denúncia tem que ser escrita em inglês.
+
+Para aqueles que não possuem perfil no twitter a denuncia deve ser feita pelo e-mail terms@twitter.com E, para aqueles que possuem o perfil, basta comunicar a violação das regras do Twitter por meio do link http://twitter.zendesk.com/forums/26257/entries que divulga as medidas para quem quer informar o Twitter acerca da violação de seus termos.
+
+Caso essa medida não cesse a violação, deve-se notificar extrajudicialmente o Twitter, o que é feito com envio de carta ao endereço oficial da empresa nos Estados Unidos e, se conhecido o autor da ofensa aos direitos, a empresa deve também notificá-lo (enviar para o endereço 539 Bryant St., Suite 402, San Francisco, CA 94107, At. Law Enforcement / Copyright – com a referência “Cease and Desist Letter – Identity Thief and Copyright Abuse – Fake Screen Name and Account”).
+
+É comum a primeira notificação ser feita por e-mail, usando recursos de “notificação online” (ex: uso do serviço Comprova.com) e se a mesma não tiver êxito ou resposta envia-se a versão por courrier internacional.
+
+Crime de extorsão
+Devemos destacar que a conduta de “vender” perfis no Twitter pode configurar o crime de extorsão, pelas leis brasileiras, se a parte envolvida não tiver legitimidade para uso daquele nome, imagem, marca (ex: pessoa física que cria o Twitter de uma marca ou empresa famosa, para então cobrar dela para ceder para ela este espaço).
+
+Lembramos, no entanto, que o Twitter ainda não possui representação no País, o que pode dificultar a agilidade das ações judiciais. O procedimento pode levar pelo menos um ano apenas para notificar a autoridade estrangeira do pedido da autoridade brasileira (ex: envio de carta rogatória). Portanto, as empresas devem adotar medidas de prevenção e melhores práticas para proteção da marca em mídias eletrônicas, a fim de evitar os riscos de violação e, assim, os prejuízos que podem se espalhar com a velocidade de um “click”.

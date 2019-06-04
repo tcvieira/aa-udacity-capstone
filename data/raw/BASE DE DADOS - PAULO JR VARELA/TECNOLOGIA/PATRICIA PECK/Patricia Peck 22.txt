@@ -1,0 +1,30 @@
+Novo modelo de software
+Patrícia Peck avalia o modelo de negócios da indústria de software, no Brasil e no exterior.
+
+Temos assistido a uma transformação no modelo de negócios da indústria de software, no Brasil e no exterior. As opções variam desde a encomenda do software com entrega dos códigos fontes ao contratante, até o mero pagamento pelo uso apenas, em um modelo de licença online.
+
+Há ainda o modelo tradicional de compra de software em caixinha, bem como variantes de uso de versões standard ou customizadas, com ou sem suporte e manutenção, com ou sem suporte de melhorias e atualizações.
+
+Neste cenário, muitas vezes, há confusão entre as Empresas Contratantes, compradoras cada vez mais vorazes de soluções e sistemas, e as Empresas Desenvolvedoras e os Representantes Comerciais. Isso ocorre porque normalmente não está claro o que de fato está se comprando. É um serviço, um produto ou um direito de uso apenas que se esgota quando se deixa de pagar?
+
+A necessidade de implementar tecnologias para automação administrativa e operacional faz com que as informações críticas das empresas passem a ser gerenciadas por terceiros, ou melhor, por ferramentas de terceiros. Logo, desde uma aquisição de uma plataforma de ERP, de CRM, de BI até a feitura de uma extranet B2B, tudo se passa por uma análise de gestão de risco.
+
+Isto porque não estamos meramente terceirizando (outsourcing), estamos na verdade gerando uma interdependência muito grande entre as partes com vários interlocutores (multisourcing), mas que em caso de dúvida, de falta de previsão contratual adequada, de indisponibilidade por algum motivo de falha técnica ou erro humano, milhões de reais podem ser perdidos em algumas horas.
+
+Na verdade, o mercado não quer ter garantias, seja de nível de serviço, de suporte e help desk, de integração, de atualização, de migração e upgrade, de acesso ao código fonte em situações específicas através de acordos de Escrow, de proteção frente a oferta de customizações pagas por um mas ofertadas a todos os seus concorrentes, proteção de sigilo e confidencialidade de suas informações e bancos de dados, entre outros.
+
+Mas o que de fato é o “produto” da relação entre o Contratante e o Desenvolvedor?
+
+Observamos que há uma tendência para se “alugar software online”, ou seja, o uso do software como se fosse acessando de um site, sem que se tenha de arcar com toda uma infra-estrutura tecnológica para rodá-lo.
+
+Apesar de todo o lado positivo, este modelo é preocupante no sentido de uma certa falta de cultura, de processos de negócio e mecanismos de controle de segurança da informação, que permitam que este tipo de modelo tenha uma relação saudável entre as partes.
+
+Independente de para onde vamos, qual o modelo escolhido, é fundamental que estejam bem retratadas as expectativas e responsabilidades das partes nos contratos.
+
+Não podemos mais assinar propostas e documentos sem um detalhamento de atividades, um glossário de termos técnicos, uma lista de considerandos, especialmente para proteções de segredos, concorrência, garantias com penalidades por descumprimento, cronograma e pagamentos amarrados em entregas homologadas de cada etapa de projeto. Quanto mais claro, melhor para o próprio Desenvolvedor.
+
+Ressalto que dependendo do modelo adotado, a empresa poderá ou não lançar a despesa como investimento em ativos intangíveis (compra de licença e códigos fontes), ou contabilizar como despesa operacional (pagamento de aluguel de software ou pagamento de royalties).
+
+No lado do Desenvolvedor, pode incidir ICMS (para o software de caixinha), ISS (na prestação de serviço de desenvolvimento), evitar o imposto de renda (se envolver pagamento de royalties), evitar imposto de importação (se for com download e não fizer uso de mídia física), entre outros. Se houver exportação, há como se beneficiar de incentivos fiscais, bem como se o desenvolvimento for conjunto, a empresa contratante também pode ter dedução de imposto dependendo do estado (P&D).
+
+A informação clara permite relações transparentes e o crescimento de um mercado que deve liderar a economia nos próximos anos. Façamos bons negócios e que venha 2007!

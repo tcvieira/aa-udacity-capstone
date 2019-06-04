@@ -1,0 +1,48 @@
+Relatórios de segurança
+Uma empresa com 30 funcionários sofre mais de 10 mil ataques por dia. Por Denny Roger
+
+Todas as informações gerenciais sobre segurança que o seu diretor ou superior precisam estão ao seu alcance. Confira agora os tipos de relatórios mais solicitados pelas empresas no Brasil.
+
+1) Número de ataques por dia
+
+Quantos ataques sua empresa sofre por dia? O aumento dos ataques ocorre em qual dia da semana? Qual é a origem dos ataques? Qual é o tipo de ataque que o hacker está executando? O sistema de segurança da empresa está conseguindo deter esses ataques?
+
+Você sabia que os feriados são os dias preferidos dos hackers para realizarem seus ataques? Durante os feriados, existem profissionais de TI trabalhando? Em algumas empresas sim, em outras não.
+
+É muito importante que a sua empresa tenha relatórios descrevendo o número de ataques por dia. Uma empresa com aproximadamente 30 funcionários, sofre mais de 10 mil ataques por dia.
+
+Este tipo de relatório ajuda o diretor de TI a dimensionar o tamanho da sua equipe e os recursos necessários para minimizar os riscos de segurança e responder aos incidentes.
+
+2) Vazamento de informações através do e-mail
+
+Atualmente, diretores, gerentes e coordenadores estão fazendo a gestão do seu departamento via e-mail. No lugar das reuniões, os funcionários recebem e-mails contendo informações relacionadas às atividades que precisam ser desenvolvidas. Isso inclui informações confidencias como novos projetos, fórmula de produtos, assuntos jurídicos etc.
+
+Sua empresa sabe quantos desses e-mails ou informações estão sendo acessados por pessoas não autorizadas? Ela consegue saber onde vão parar esses e-mails?
+
+É extremamente importante que a sua empresa tenha relatórios do que está trafegando via correio eletrônico. Por exemplo, número de e-mails contendo a palavra "projeto" ou "contrato".
+
+Em alguns casos é necessária a criação de um bloqueio para determinadas palavras-chave. Desta forma, a empresa consegue minimizar o risco de vazamento de informações via e-mail e detectar desvios na sua política de segurança da informação.
+
+3) Quantidade de vírus na rede
+
+Os vírus são considerados a ameaça número um na internet. Todo empresário, administrador de rede, analista de suporte e até mesmo estagiário se preocupam preocupados com esta praga virtual.
+
+Quantos vírus tentam infectar a sua rede por dia? Quais as vidas de acesso dos vírus até a sua rede?
+
+O sonho de todo diretor de TI é ter acesso a relatórios segmentados sobre ataques de vírus. Por exemplo, a empresa recebeu 10 mil ataques de vírus hoje, sendo: 4.000 via e-mail, 2 mil via pendrive, mil via CD-Rom e 3 mil via páginas na internet.
+
+4) Quais usuários estão errando a senha?
+
+Sua empresa sofre ataques de força bruta? Pode apostar que sim. O ataque de força bruta consiste no uso de dicionários para tentar descobrir a senha dos usuários da rede.
+
+Para minimizar o risco, as empresas implementam uma política determinando que a cada três tentativas erradas da senha, o usuário é bloqueado na rede. 
+
+É muito importante que a sua empresa tenha relatórios sobre o número de usuários que estão errando suas senhas. Este tipo de relatório pode identificar usuários que emprestaram a sua senha para outros usuários, funcionários internos tentando descobrir a senha de outro usuário, hackers realizando ataques de força bruta, vírus tentando explorar algum compartilhamento na rede utilizando as credenciais de algum usuário etc.
+
+5) Cuidado com seu parceiro de negócios
+
+Sua empresa possui uma VPN (Virtual Private Network) com algum parceiro de negócio? O departamento financeiro está conectado ao banco via VPN? A filial da empresa acessa as informações da matriz por meio de um link dedicado?
+
+É muito provável que a resposta para todas as perguntas acima seja "sim".
+
+Recomendo que a empresa tenha relatórios detalhados sobre o que está trafegando entre sua operação e seu parceiro de negócios. Por exemplo, o departamento financeiro envia todos os dias para o banco aproximadamente 198 MB de informações. Porém, o relatório de segurança identificou que no dia 10 de junho foram transferidos 4,90 GB para o banco. Isso pode ser um indício de ataque.

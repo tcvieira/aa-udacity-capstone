@@ -1,0 +1,14 @@
+MarcioBernardes28
+399 399 235 342 233 13 192 5000000 3 0 0 0 0
+
+*** Résultat de la segmentation du fichier: MarcioBernardes28.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         342
+ 	nombre des formes      :         233
+ 	frequence maximale     :          13
+ 	nombre des hapax       :         192
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      MarcioBernardes28.TXT ***

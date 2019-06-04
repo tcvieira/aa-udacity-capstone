@@ -1,0 +1,42 @@
+Vazamento de informações
+Conheça as técnicas mais utilizadas para o vazamento das informações. Por Denny Roger.
+Quanto maior o número de controles implementados no computador de sua casa ou do seu escritório, novas técnicas serão utilizadas para burlar os sistemas de segurança.
+
+Vamos conhecer as 5 principais ameaças relacionadas ao vazamento de informações pessoais e corporativas.
+
+O disqueste
+
+A primeira ameaça estava relacionada ao vazamento de informações através de disquetes. O funcionário da empresa recebia uma nova proposta de trabalho, pedia demissão e realizava uma cópia das informações para diversos disquetes. Para minimizar o risco, as equipes de suporte técnico removiam (fisicamente) o leitor de disquetes dos computadores da empresa.
+
+O Zip Drive
+
+O funcionário não tinha mais o dispositivo para disquetes. Sendo assim, passou a utilizar um novo tipo de dispositivo para armazenamento das informações, conhecido como Zip Drive. O problema é que este dispositivo é facilmente detectado pelas equipes de suporte técnico. Isso ocorre porque o Zip Drive é relativamente grande, deixando o dispositivo fisicamente exposto.
+
+O e-mail
+
+A terceira ameaça surgiu com a popularização do correio eletrônico. As informações da empresa literalmente fugiram do controle das equipes de TI. O e-mail tornou-se uma das principais ferramentas para o vazamento de informações. As empresas foram obrigadas a comprar tecnologias que controlam a utilização do e-mail e ajudam a reduzir o vazamento de informações.
+
+O pendrive
+
+Com o surgimento do pendrive, voltaram os problemas relacionados à época do disquete. Neste caso não é possível remover as entradas USB do computador porque são utilizadas pelos mouses, impressoras, etc.
+
+Uma das soluções adotada foi a utilização da criptografia. Ou seja, a empresa permite a cópia das informações para o pendrive desde que estejam criptografadas. Dessa forma as informações só podem ser acessadas através dos computadores da empresa. Muitas empresas não possuem este tipo de recurso e o pen drive ainda é uma ameaça real.
+
+A geração Y
+
+Finalmente chegamos à época dos jovens que cresceram conectados na internet, conhecidos como a geração Y. Estas pessoas preferem se comunicar através de meio eletrônico (internet e celular, por exemplo).
+
+Neste caso, os encontros presenciais são raros, tornando-se a principal ameaça para o vazamento de informações na internet. Isto ocorre porque utilizam blogs para descrever o seu dia-a-dia, marcam encontros ou contam as novidades através do Orkut, utilizam programas de mensagem instantânea para trocar informações de forma mais rápida e compartilham fotos através de álbuns disponíveis na internet.
+
+As equipes de segurança da informação não conseguem controlar e monitorar as ferramentas pessoais utilizadas pela geração Y. Por exemplo, são publicadas informações corporativas no blog pessoal do funcionário. A empresa desconhece a existência deste blog e não possui tecnologia para detectar vazamento de informações corporativas na internet. O Orkut é rico em informações corporativas publicadas pela geração Y.
+
+Estamos falando da aposentadoria do e-mail. As empresas controlam o vazamento de informações através do correio eletrônico. Porém, a geração Y deixou de lado este meio de comunicação porque necessita de comunicação instantânea. Preferem a troca de informações via SMS (mensagens de texto por celular), programas de mensagens instantâneas, sites de relacionamento e blogs. As empresas não atualizaram o código de conduta e a política de segurança para esta nova ameaça.
+
+ Conclusão
+
+Os pais precisam orientar seus filhos a não conversarem com estranhos no mundo real e no mundo virtual. Existem casos de empresas vítimas de espionagem industrial, na qual o filho de um determinado diretor colaborou, sem perceber, com o vazamento de informações.
+
+Recomendo a utilização de criptografia no computador pessoal. Você pode utilizar o Bcrypt (http://bcrypt.sourceforge.net/) para criptografar contratos, fotos, vídeos, etc. Este software é gratuito e de fácil utilização.
+
+ As empresas devem atualizar suas normas internas e orientar os novos funcionários sobre a divulgação de informações corporativas em blogs, sites de relacionamento, programas de mensagem instantânea, etc. Programas de conscientização tornam possível essa integração dos funcionários com as mudanças que estão acontecendo dentro da empresa em relação à segurança da informação.
+

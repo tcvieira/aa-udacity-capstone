@@ -1,0 +1,73 @@
+Identifique os golpes online
+Saiba como agem os golpistas virtuais e descubra suas táticas. Por Denny Roger.
+
+1) Quais as técnicas mais comuns utilizadas para se aplicar golpes pela Internet?
+
+1 – O golpista começa a pesquisar por informações públicas, por exemplo:
+
+a) Dados referentes aos lucros, patrimônio e classificação por ativo das instituições financeiras.
+
+b) Tecnologia utilizada pelas instituições financeiras.
+
+2 – O golpista, após identificar a instituição que irá sofrer os “ataques”, geralmente age de duas maneiras:
+
+a) Deverá localizar servidores na Internet desprotegidos. Dessa forma, o golpista poderá hospedar um cavalo de tróia (código malicioso) ou uma página clonada da instituição financeira. Neste tipo de ataque, o golpista irá induzir o correntista do banco a visitar a página falsa ou realizar o download do cavalo de tróia. O correntista fornece as informações “confidencias” que o site falso está solicitando e o site falso armazena as informações (em alguns casos a informação é enviada por e-mail) para que o golpista tenha acesso.
+
+b) O objetivo do cavalo de tróia é identificar quando a vítima está acessando o site verdadeiro do banco e coletar todas as informações, tais como: agência, conta corrente, senha, frase secreta, teclado virtual, etc. Podemos observar abaixo as informações que o cavalo de tróia irá coletar:
+
+c) Esses cavalos de tróia criados pelo golpista geralmente são disseminados através de e-mails. Para dificultar o rastreamento da origem dos e-mails falsos utilizando o nome da instituição ou qualquer outro tipo de apelo, o golpista procura servidores de e-mail localizados em outros países e que estejam vulneráveis. Ou seja, os servidores de e-mail estão sujeitos a ataques onde podem ser criados ou utilizados para envios de e-mails falsos.
+
+3 – Outra técnica é quando o cavalo de tróia identifica o site do banco que está sendo acessado e abre uma página falsa sobrepondo a página verdadeira.
+
+ 4 – Os golpistas precisam transferir o dinheiro para contas de “laranjas”, onde os laranjas receberão uma quantia que pode variar entre R$30,00 e R$ 50,00 reais.
+
+2) Existe um perfil do estelionatário eletrônico? E há um perfil das vítimas desse tipo de golpe?
+
+Realizamos um estudo dos casos que atendemos e chegamos a seguinte conclusão:
+
+1 – Perfil comum.
+a) Classe Média
+b) Idade entre 16 e 28 anos
+c) Autodidata
+
+2 – Utilizam nomes falsos, por exemplo:
+a) Nomes de listas de hóspedes de hotéis
+b) Nomes de listas de faculdades
+
+3 – Trocam informações através de salas de bate-papo e programas de mensagens instantâneas.
+Os golpistas não escolhem suas vítimas no mundo virtual. Existem casos de pessoas desempregadas vítimas de fraude na Internet e empresários também.
+
+3) Qual o grau de culpa do internauta por não perceber que está sendo envolvido em um golpe?
+
+Quando o cliente do banco entra em contato informando o “desaparecimento” do dinheiro de sua conta corrente, o banco poderá, após uma auditoria, informar que o cliente provavelmente utilizou um computador não seguro. Por exemplo: computadores de faculdades, Internet Café, bibliotecas (coisa rara no Brasil), etc.
+
+O internauta não é considerado culpado, tanto que, normalmente os bancos estornam os valores transferidos indevidamente.
+
+As instituições financeiras investiram nos programas de conscientização. Dessa forma, o internauta poderá seguir alguns procedimentos para identificar páginas e e-mails falsos, e manter o seu computador mais seguro contra esses cavalos de tróia.
+
+Recomendações:
+
+1 – Fazer um boletim de ocorrência na delegacia informando o “desaparecimento” do dinheiro em sua conta corrente.
+
+2 – Solicitar uma auditoria do banco para identificar o destino do dinheiro.
+
+3 – O tempo para o encerramento do caso pode levar de 30 à 90 dias.
+
+ 4) Quais as precauções que um usuário da internet deve tomar para não ser vítima de um golpe eletrônico?
+
+1) Utilize apenas computares que você julgue confiáveis e seguros.
+2) Fique atento a abordagens através de e-mail ou sites solicitando informações pessoais.
+3) Leia atentamente as recomendações de segurança disponíveis no site do seu banco.
+4) Mantenha seu software antivírus atualizado.
+5) Mantenha seu Windows sempre atualizado.
+6) Utilize sempre um personal firewall, para evitar o acesso indevido em seu computador.
+7) Utilize programas que identificam e removem os programas espiões. Geralmente conhecidos como Detectores de Intrusos.
+
+5) Quais as diferenças entre hacker, cracker e lammer?
+O hacker é um individuo que utiliza seu conhecimento para invadir computadores com o objetivo de desafiar suas habilidades. O hacker nunca invade um sistema com o intuito de causar danos a sua vítima. Geralmente o hacker invade um computador, deixa uma prova de sua invasão e compartilha sua proeza com os demais hackers.
+
+O cracker é o indivíduo que utiliza seu conhecimento para invadir computadores e roubar informações confidencias. Geralmente essas informações são vendidas ou utilizadas para aplicar golpes na Internet.
+
+O lammer é considerado o novato na área. Utilizam programas prontos para realizar as invasões na Internet. Geralmente não sabem o que estão fazendo ou até mesmo para que serve o programa que estão utilizando.
+
+Os lammers são a grande maioria na Internet e são os responsáveis pelo fato das empresas começarem a prestar mais atenção na área de segurança da informação. 

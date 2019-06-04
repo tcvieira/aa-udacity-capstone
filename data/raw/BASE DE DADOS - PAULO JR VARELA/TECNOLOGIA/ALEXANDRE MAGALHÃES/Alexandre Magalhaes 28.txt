@@ -1,0 +1,5 @@
+Holofotes dos hackers serão apontados para Google Chrome OS 
+O sistema operacional do Google, Chrome OS, será grande alvo da atenção por hackers em 2010 segundo previsão da McAfee. O sistema operacional do Google foi anunciado em julho e liberado como código aberto em novembro, mas sua estreia em netbooks não deverá ocorrer antes do final de 2010.
+
+HTML 5 
+Outra razão pela qual os hackers vão mirar no Chrome OS é sua aderência ao HTML 5, a revisão inacabada da linguagem de hipertexto que pretende substituir a confusão atual de plug-ins de mídia, como Adobe Flash e Microsoft Silverlight, por recursos mais avançados que os desenvolvedores poderão construir diretamente em seus sites. O HTML 5 também admite o uso de aplicações web offline, que permitirá o acesso a serviços e softwares da internet mesmo quando o micro estiver desconectado da rede. Segundo a McAffee, os cibercriminosos serão capazes de atacar os usuários quando estiverem offline, tal como acontece online 

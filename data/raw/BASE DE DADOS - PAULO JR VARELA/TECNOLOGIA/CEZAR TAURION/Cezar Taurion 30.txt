@@ -1,0 +1,32 @@
+Twitter Sentiment
+
+Já venho 'twitando' há pelo menos um ano e gostaria de compartilhar com vocês estas primeiras experiências.
+
+Já venho 'twitando' há pelo menos um ano e gostaria de compartilhar com vocês estas primeiras experiências. O Twitter é um software (microblog) de rede social que permite criar relações um-para-muitos, onde você posta um texto na tuitoesfera e seus seguidores podem ler e comentar a qualquer hora, assincronamente, embora, de maneira geral, os comentários são postados quase que imediatamente após o texto original circular.
+
+É uma comunidade auto-organizável, pois você escolhe a seu critério quem seguir. Não existem regras ou restrições. Você não precisa conhecer pessoalmente a pessoa que quer seguir e não precisa de autorização prévia para seguir alguém. Basicamente você segue as pessoas por algum motivo, sejam estes profissionais ou que compartilhem os mesmos interesses.
+
+É uma ferramenta extremamente simples e maleável de se usar. Podemos twitar a qualquer momento, seja em meio a uma palestra ou preso em um engarrafamento de trânsito.
+
+Bem, por que comecei a twitar? Como Technical Evangelist da IBM, tenho por obrigação (e por prazer...) estar antenado com inovações e identificar rapidamente o que é hype e o que é factível é uma das minhas atribuições.
+
+O Twitter tem sido um “must”. No ano passado alcançou a marca dos 50 milhões de usuários, que postaram 8 bilhões de tweets. No Brasil também tem sido uma febre. A língua portuguesa é a segunda mais falada na twitoesfera, com 11% dos posts. A primeira, indiscutivelmente é a língua inglesa, com 61% dos posts. Portanto, nada mais natural que eu entrasse também na tuitoesfera e sentisse o gostinho de postar tweets. 
+
+Aprende-se aos poucos. Primeiro não vale a pena seguir todo o mundo. Segue-se apenas empresas e pessoas que compartilhem os mesmos interesses ou que sejam da mesma área profissional. Achá-los é um exercício de paciência e persistência.
+
+Cada um usa o Twitter da forma que achar melhor. Não existe uma regra única. Você pode usá-lo para disseminar ideias e opiniões ou simplesmente para falar abobrinhas. Vão existir seguidores para todos os gostos. No meus tweets optei por abordar principalmente questões ligadas à area de TI, compartilhando ideias e opiniões pessoais sobre assuntos ligados à tecnologia. 
+
+O Twitter é um bom lugar para testar ideias e insights. Você twita algum insight e vê se há alguma reação, como um reply ou um retweet (RT). Na minha opinião, embora essencialmente twite posts ligados à minha área profissional, acho que o Twitter também é um meio de você se colocar como pessoa, postando comentários e opiniões sobre a situação politica e econômica do País.
+
+Para isso, é importante que você deixe bem claro no perfil que você posta opiniões pessoais, não havendo nenhuma relação delas com sua empresa e seus colegas de trabalho. Os posts que coloco no Twitter representam única e exclusivamente minhas opiniões e não as da IBM e de seus funcionários.
+
+O Twitter é muito bom para notícias em tempo real. Você sabe ou viu alguma coisa, twite na hora. As primeiras notícias dos ataques terroristas em Mumbai na Índia ou a aterrizagem do avião no rio Hudson em Nova York  foram propagados pelo Twitter. Da 'twitoesfera' chegou depois às redações dos jornais e TVs...
+
+Agora, não dá para ficar todo o tempo tuitando. Geralmente tweeto de manhã cedo e quando surge uma novidade. Deixo rodando em background um software muito interessante que me mantém atualizado sobre comentários aos meus posts, que é o Twhirl (www.twhirl.org). Ele age como um software de mensageria instantânea e me alerta da chegada de algum comentário aos meus tweets.
+
+Na minha opinião o Twitter tem tremendo valor como plataforma de mídia social. Existe um ecossistema de desenvolvedores que gravitam ao seu redor, criando inúmeras aplicações muito interessantes. Mas o Twitter não é só para isso. Analisar o “sentimento” ou viés positivo ou negativo dos bilhões de tweets com respeito a um determinado assunto, empresa ou produto pode ser bastante útil, principalmente porque esses tweets representam opiniões quase em tempo real do que milhões de pessoas estão pensando. 
+
+Por tudo isso, não é à toa que o valor de mercado do Twitter é estimado em 1 bilhão de dólares. Questiona-se seu modelo de negócio, mas quando existe uma concentração muito grande em um único lugar de um recurso escasso e caro que é atenção das pessoas, com certeza vai existir potencial de geração de negócios.
+
+Enfim, recomendo usar o Twitter. Só assim é que você terá condições de dizer se vale a pena ou não. Ah, em tempo, para me achar no Twitter use www.twitter.com/ctaurion.
+

@@ -1,0 +1,40 @@
+Munição Digital
+Marcelo Coutinho analisa os desafios para o uso da Web nas eleições.
+
+Não sei qual será o papel da Internet na conquista de votos na próxima eleição. Mas sei que ela já foi eleita pelos marketeiros de plantão como a “grande arma” da próxima campanha.
+
+Como dizem lá em Minas, devagar com o andor... Antonio Gramsci escreveu que “a contagem dos votos é a cerimônia final de um longo processo”. A Web já está em condições de fazer parte deste processo mas, pelo menos por enquanto, no papel de coadjuvante.
+
+Não por acaso, a origem da palavra campanha é o francês “campagne” (campo), local aonde os exércitos combatiam durante parte da Idade Média.
+
+O “campo de batalha” digital ainda é muito restrito no Brasil ao ponto de ter uma importância decisiva na escolha do eleitor – mas vai ter uma influência sobre a cobertura que a mídia de massa faz da campanha. É aí que estão as oportunidades (e perigos) para candidatos, eleitores e jornalistas.
+
+Diversos estudos feitos em eleições nos Estados Unidos e na Europa sugerem que a rede tem um papel importante sim, mas de forma “indireta”. Funciona muito mais como instrumento para influenciar a cobertura da imprensa e mobilizar os ativistas de campanha do que como fator de influência no voto do eleitor comum.
+
+O mais completo levantamento do gênero, cobrindo 25 países, foi feito em 2004, durante as eleições para o Parlamento Europeu.
+
+A investigação mostrou que o uso da rede para a busca de informações políticas depende do grau de penetração da Web entre o eleitorado em geral, do interesse que a eleição desperta e da tradição que partidos e grupos de pressão possuem em realizar “mobilizações online”.
+
+Mesmo na Finlândia, onde o uso da Web atinge quase 90% do eleitorado (contra 25% no Brasil), apenas 14% dos eleitores afirmaram ter consultado sites de partidos/candidatos. O número não difere muito do observado em países como Dinamarca, Holanda, Bélgica e Alemanha, que também apresentam elevadas taxas de acesso à Internet.
+
+No caso norte-americano é muito citado o uso da Internet por Howard Dean, pré-candidato democrata em 2004, que com o auxílio da Web teria conseguido arrecadar fundos e gerar o boca-a-boca necessário para sair “do nada” e dar um susto em John Kerry nas primárias do partido.
+
+É bom lembrar que nos EUA, além da enorme penetração da rede, também é possível fazer doações online, o que desde 1998 estimulou os partidos a desenvolverem grandes esforços de mobilização.
+
+Uma campanha é fruto da interação entre candidatos, eleitores e a mídia, cada um com interesses e funções específicas dentro da dinâmica eleitoral. É aí que a rede, no estágio atual da sua utilização no Brasil, pode vir a desempenhar um papel importante.
+
+Candidatos tentam “influenciar” a mídia para obter notícias favoráveis e ajudar os eleitores a “justificarem” suas escolhas com base em “evidências imparciais” (notem as aspas, por favor). Mas o eleitor não confia unicamente nestas “evidências”. Vai buscar também as opiniões de amigos, parentes e pessoas que ele julga conhecedoras do tema para formar sua opinião.
+
+É claro que este processo está longe de ser linear e essa “opinião” também está longe de ser formada com base uma reflexão prolongada e profunda; para quem tiver mais interesse no tema sugiro a leitura de “The Reasoning Voter”, de Samuel Popkin, 17 dólares na Amazon 
+
+A influência desses formadores de opinião, principalmente para as eleições parlamentares, pode ser grande. Geralmente são pessoas mais enganjadas, com maior acesso à informação, ainda que não precisem ter, necessariamente, instrução formal; sua autoridade deriva de uma “expertise” que é reconhecida e atribuída pelo grupo.
+
+As características do uso da Web no Brasil, com alto índice de utilização de sites de comunidades (mais de 30% do tempo total), blogs, mensagens instantâneas (em termos percentuais estamos em segundo lugar no mundo, atrás somente da Espanha) e outras formas de auto-expressão (como mostra o recente sucesso do YouTube.com) indicam que ela pode ser uma fonte importante de “munição” para os formadores de opinião, principalmente entre o público jovem.
+
+Cerca de 46% dos jovens brasileiros entre 16 e 24 anos nas principais regiões metropolitanas utilizam a Internet, segundo o Comitê Gestor (http://www.nic.br/indicadores/usuarios/rel-int-04.htm. Mas entre isso e a conquista definitiva do voto existe uma enorme distância.
+
+A rede deverá funcionar muito mais como uma “caixa de ressonância” das notícias geradas pela interação entre a mídia e os candidatos, assim como uma fonte de boatos (lembram-se quando o PCC “parou” São Paulo?) e propaganda negativa.
+
+Técnicas já utilizadas por Joseph Goebbels, o doutor em Filosofia e fanático estudioso de cinema e teatro que tornou-se ministro da Propaganda do IIIo Reich (é bom lembrar que os nazistas chegaram ao poder no início da década de 30 depois de uma série de eleições relativamente livres durante os anos 20).
+
+A propaganda negativa é mais um motivo para que candidatos, jornalistas, partidos, eleitores e a Justiça Eleitoral estejam atentos ao que acontece na rede. Como toda tecnologia, a Internet não é boa nem ruim; seus benefícios (ou malefícios) dependerão do uso que a sociedade resolver fazer dela.

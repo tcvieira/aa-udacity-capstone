@@ -1,0 +1,23 @@
+"Descomplicando a informática"
+
+Fernando Birman
+
+O Computerworld se aproxima da 400ª edição, e eu, do 100º artigo. A diversidade dos assuntos abordados tem sido enorme, do hardware e do software às melhores práticas gerenciais. Há, contudo, um tema que permeia grande parte dos nossos textos: A complexidade e a baixa confiabilidade da informática. Em 2003, acordamos para ele.
+
+Os efeitos da complexidade dos sistemas de informação estão ao alcance de todos: Vírus, bugs, crises de performance, invasões e panes são exemplos visíveis. O crescente custo da administração da infra-estrutura, os projetos desastrosos e a insatisfação dos usuários enriquecem esta lista interminável de sintomas.
+
+Mesmo que nós e os nossos fornecedores tenhamos legítimas intenções de oferecer produtos e serviços cada vez melhores, a adição permanente de novas soluções acaba gerando uma teia de aplicações muito sofisticada. Garantir a confiabilidade deste conjunto está ficando bastante caro.
+
+Já nos acostumamos com tal quadro de complexidade e baixa confiabilidade. Paradoxalmente, para lidar com esta situação apelamos para novos componentes de hardware e software. Buscamos também, através da excelência administrativa, alternativas para conviver com esta realidade através do outsourcing, da padronização rigorosa, do sacrifício da flexibilidade, etc.
+
+Os tempos difíceis têm propiciado uma maior reflexão em torno do valor agregado das ofertas do mercado. Procura-se retorno para os investimentos, uma razão concreta para as atualizações, evita-se os modismos. E, mesmo que no subconsciente, os fatores confiabilidade e complexidade têm um peso bem maior.
+
+Os líderes da tecnologia já perceberam que o caminho para uma informática confiável passa por uma nova geração de equipamentos e aplicações. Os esforços são significativos e logo teremos resultados. Além da natural tentativa de eliminação de erros e de pontos de vulnerabilidade, persegue-se a capacidade de auto-regulação dos sistemas.
+
+Exemplo interessante é o famoso "reboot". Imagine um programa que falhe bastante e trave todo o sistema. Na nova geração, a parte que falhou seria detectada e apenas ela seria reinicializada, mantendo-se ativas todas as demais. Enfim, se não podemos evitar as falhas, que permitamos uma rápida recuperação do sistema.
+
+As técnicas que farão a informática do futuro vão da redundância em excesso até a sempre útil inteligência artificial. Numa analogia com os sistemas biológicos, procuramos a homeostase, aquela capacidade de auto-regulação dos seres vivos, que possibilita o restabelecimento do equilíbrio interno apesar das adversidades. Até por que, nossas células e órgãos falham com freqüência. Mas, nem por isso, nossa visão escurece e recebemos a mensagem: Fim de jogo para você!
+
+Embora a busca do Santo Graal da informática pareça ser uma unanimidade, há controvérsias. Ao se implementar o máximo de automação, deixa-se aos homens as atividades mais difíceis. E se eles não estiverem muito bem preparados para elas - o que por acaso é a regra - a possibilidade de falhas aumenta. O bom senso parece ser a solução para este segundo paradoxo apresentado neste artigo.
+
+Fazer uma casa é difícil, mas com tijolos ruins fica mais ainda. A nossa tolerância ao hardware e ao software intrinsecamente ruins está chegando ao limite. O esforço da indústria da tecnologia é imperativo, porém é só o primeiro passo.

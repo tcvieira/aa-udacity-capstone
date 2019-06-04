@@ -1,0 +1,24 @@
+Tecnologia do Conhecimento
+Hoje, cada um de nós é o arquivista eletrônico dos dados da empresa. Por Patrícia Peck
+
+Ao invés de TI – Tecnologia da Informação, a tendência é construir uma base sustentável de gestão de TC – Tecnologia do Conhecimento. Afinal, o que é tecnologia da informação, se não reter, armazenar, disseminar, compartilhar e, principalmente, proteger conhecimento?
+ 
+Saber é uma forma de capital. As Universidades Corporativas são criadas para ensinar, capacitar, mas ainda estão muito longe de um modelo adequado de proteção e retenção de conhecimento, inclusive com a criação de termos e normas internas a respeito da questão de direitos autorais, direitos colaborativos, entre outros. Logo, é gestão com proteção jurídica adequada, senão o modelo estimula, mesmo que sem querer, o furto e o plágio.
+
+Quando a informação é gerada, quer seja internamente, ou adquirida de terceiros, deve-se definir o modelo de guarda da mesma, bem como de acesso e manuseio, com controles, permissões, autenticações, validações de porta, se será possível mobilidade, portabilidade com uso de dispositivos, entre outros. Nesse momento, já tem muita empresa na escala dos Terabytes que precisa planejar perda ou ações fraudulentas, com medidas de prevenção, contenção e reação.
+
+É comum usar a expressão “ativos de informação” quando, na verdade, a informação em si, só é um ativo se gera conhecimento. Senão, temos um monte de dados reunidos, que podem ter objetivos de documentação histórica, isso sim, para fins de auditoria, de prova legal, mas não uma valoração como ativo. Ou seja, há dados que precisam ser guardados como prova legal de atividades da empresa. Para um dado ser promovido para a categoria de ativo, precisa ser gerador de valor. Essa confusão, como se todo dado fosse informação e toda informação fosse ativo é o problema conceitual inicial que inviabiliza a Gestão de Conhecimento.
+
+Não se pode proteger tudo, por todo o tempo, nem tampouco armazenar tudo. É preciso saber catalogar, para ter capacidade de guarda adequada, pelo tempo certo, com acesso pelas pessoas indicadas, e com uma política de eliminação (descarte seguro) da informação. Por isso, voltamos para a necessidade de uma Norma de Classificação da Informação bem redigida, que preveja inclusive que o gestor determine se a mesma é ativo de conhecimento, ou é arquivo histórico do negócio. E-mails, em princípio, não são ativos de conhecimento, mas são provas jurídicas que precisam ser guardadas. Cada um deve receber o seu tratamento respectivo.
+
+Não se pode querer implementar SOA (Arquitetura Orientada a Serviços), sem um modelo de gerenciamento de ativos com base na qualidade dos dados armazenados. É como fazer a casa em torno do carro. Por exemplo: se qualquer um, após fazer o log in de usuário, pode salvar e apagar qualquer coisa na rede, acessar qualquer pasta, o modelo de Gestão com Proteção do Conhecimento já tem vulnerabilidades perigosas, que estimulam a prática de “insider”, aonde o ataque vem de dentro.
+
+O mesmo é válido quando falamos de gerenciamento de backup de email, que em termos legais não pode depender do que o usuário salva ou apaga na máquina. O controle tem de ser feito pelo servidor e a política de guarda tem que ser definida pela empresa, não pelo colaborador.
+
+Com a tendência de terceirização total em TI, essa questão gera situações curiosas, aonde as pessoas criam contas de webmail para ser o backup do seu próprio e-mail corporativo, que é limitado em tamanho de caixa postal.
+
+O armazenamento em si é a parte mais fácil do problema. Difícil é achar exatamente a informação da qual se precisa depois que a mesma foi guardada por cinco anos em não se sabe em qual disco magnético. Empresas sujeitas a Sarbanes-Oxley e outras Leis e Regulamentações ainda passarão por isso. Agora é o momento de preparar o ambiente, mas ele ainda será testado pela prática e pela “Lei de Murphy”. E se nesse período o fornecedor for comprado, falir ou deixar de operar? Onde foram parar seus dados? Boa pergunta.
+
+Vivemos uma espécie de Web 2.0 corporativa no mundo dos dados. Isso porque, antigamente, quando havia o arquivista, ele deveria saber catalogar e depois encontrar o que guardou. Hoje, cada um de nós é o arquivista eletrônico dos dados da empresa em seu poder, e temos negligenciado a forma de classificação dos mesmos, ainda vamos sofrer quando precisarmos encontrar.
+
+Ainda há tempo para planejar e implementar as boas práticas, elaborar as regras e treinar pessoas, enquanto o volume de dados ainda é gerenciável. Depois pode ser tarde demais.

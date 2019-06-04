@@ -1,0 +1,28 @@
+Chave mestra
+Senhas de administrador são as mais exploradas para acesso a redes de empresas. Por Denny Roger
+
+Imagine a seguinte situação: O pessoal da área de desenvolvimento de software acaba de desenvolver uma nova aplicação. Esta aplicação deve entrar em produção na próxima semana. Os usuários chaves da aplicação já testaram todos os recursos. Está tudo Ok! Porém, falta apenas um detalhe para que a aplicação entre em produção: a senha do usuário administrador da rede.
+
+Pode parecer absurdo, mas é exatamente isso que ocorre em diversas empresas. Um dos usuários mais poderosos do ambiente computacional está “gravado” em diversas aplicações utilizadas pelos usuários comuns. Não podemos esquecer que este é o usuário que deveria ser utilizado apenas em alguns momentos de manutenção do ambiente computacional.
+
+Os hackers sabem que isso acontece em muitas empresas. Os hackers sabem também que podem explorar vulnerabilidades nas aplicações para conseguir a senha do usuário “administrador”. Os ataques passam pelos firewalls tendo como alvo as aplicações. Os ataques não são mais direcionados para os sistemas operacionais.
+
+Existe ainda um segundo cenário de vulnerabilidade nas aplicações. As equipes de desenvolvimento, preocupadas em facilitar a vida do usuário, implementam recursos de Single sign-on (SSO). O SSO permite que os usuários da rede acessem de modo único todos os recursos de rede autorizados. Ou seja, a senha só será solicitada uma única vez para todos os aplicativos de rede (e-mail, internet, sistema, etc). O recurso de SSO é excelente quando implementado de forma correta.
+
+Qual a vulnerabilidade neste caso?
+
+Quando o usuário liga o seu computador é solicitado o usuário e a senha para acessar a rede. Na área de trabalho do usuário, existe um ícone para acesso ao sistema da empresa. Quando o usuário clica duas vezes sobre o ícone para acessar a aplicação, o sistema verifica no registro do Windows qual usuário que está logado na máquina. Caso este usuário tenha permissão para acessar o sistema, a aplicação irá abrir sem solicitar o usuário e a senha, indicando que o recurso de SSO está funcionando.
+
+Durante um teste de invasão executei o seguinte procedimento. O meu laptop estava conectado na rede do meu cliente (estava participando do projeto de segurança e teste de invasão). Eu conhecia o nome de alguns usuários da rede, inclusive o usuário do presidente da empresa. O meu laptop não estava no domínio de rede. Sendo assim, não era possível acessar a aplicação sem o usuário e a senha da rede. Criei, localmente no meu Windows, um novo usuário. O nome do usuário que criei era o mesmo do presidente da empresa.
+
+O segundo passo foi me logar no Windows com o usuário que criei com o mesmo nome do presidente da empresa. Configurei o ícone que acessa a aplicação e cliquei duas vezes no mesmo para acessar a aplicação. A aplicação foi verificar no registro do Windows qual o nome do usuário que estava logado na máquina.
+
+Como eu criei um usuário no meu Windows com o mesmo nome do usuário do presidente da empresa, a aplicação permitiu que eu tivesse acesso total às informações do sistema de gestão da empresa - folha de pagamento, financeiro, vendas, compras etc.
+
+Todo o procedimento foi realizado sem conhecer a senha de qualquer usuário e sem estar “dentro” do domínio de rede da empresa.
+
+Existem muitas outras vulnerabilidades nas aplicações. Porém, as duas vulnerabilidades descritas aqui são as mais exploradas pelos próprios funcionários.
+
+As empresas precisam proteger sua chave mestra (senha do administrador) das equipes de desenvolvimento de software.
+
+Realize constantemente testes de segurança nas aplicações e envolva a equipe de desenvolvimento de software no assunto segurança da informação.

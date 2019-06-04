@@ -1,0 +1,13 @@
+Há poucas semanas a IBM fez um anúncio que passou meio despercebido por aqui: a iniciativa Blue Cloud, que sinalizou a entrada oficial da corporação no mundo da Cloud Computing. Mas o que é mesmo Cloud Computing? Ainda existe pouca informação sobre o assunto e mesmo uma consulta à Wikipedia nos traz pouca coisa.
+
+Cloud computing é um termo usado para descrever um ambiente de computação baseado em uma rede massiva de servidores, sejam virtuais ou físicos. Cloud computing hospeda as cloud applications, que são as aplicações que estão residentes nesta nuvem (cloud). Cloud computing pode ser visto como o estágio mais evoluído do conceito de virtualização.
+
+Uma arquitetura em cloud é muito mais que apenas um conjunto (embora massivo) de computadores. Ele deve dispor de uma infra-estrutura de gerenciamento que inclua funções como provisionamento de recursos computacionais, balanceamento dinâmico do workload e monitoração do desempenho.
+
+O conceito de cloud computing já é comum em algumas das empresas mais famosas da internet como o Google e o Yahoo, que mantém parques computacionais com centenas de milhares de máquinas. Para se ter uma idéia do que são estas nuvens de servidores, estima-se que as cinco maiores empresas de busca na Internet tenham ao todo um parque computacional de cerca de 2 milhões de servidores!
+
+Recentemente a IBM iniciou uma parceria com o Google para desenvolver em conjunto as aplicações em nuvem junto a alunos de algumas universidades americanas.
+
+E o que se ganha com esta arquitetura? O primeiro benefício é uma melhor utilização dos recursos computacionais, potencializando os conceitos de consolidação e virtualização. Além disso, reduz sensivelmente o time-to-market para aplicações e-business e Web 2.0 (onde incluímos aplicações de virtual worlds e games MMPOG), que demandam conceitos do modelo computacional on-demand (alocar recursos à medida que for necessário, de forma dinâmica).
+
+Hoje, algumas empresas do mundo internet como o Google e a Amazon já oferecem seu imenso parque computacional para outras empresas. A IBM não está, com o Blue Cloud, entrando diretamente no negócio de oferecer nuvem de servidores para aluguel, mas sim em possibilitar que as empresas construam sua própria nuvem, seja para uso interno ou para ser comercializado externamente.

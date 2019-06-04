@@ -1,0 +1,38 @@
+Falsidade ideológica
+
+Apontamentos sobre a (a) tipicidade do crime de falsidade ideológica (previsto no artigo 299 do Código Penal) ante a "declaração de pobreza" prestada judicialmente (ou mesmo em sede de Defensoria Pública).
+Uma breve introdução sobre a problemática posta:
+O que dizermos quando o cidadão comparece na Defensoria Pública e preenche atestado de hipossuficiência, máxime se esse mesmo cidadão inserir informação falsa, por exemplo, no caso de auferir rendimentos que suplantam àqueles estabelecidos pela instituição Defensoria Pública, com o fito de se fazer valer do benefício da assistência judiciária gratuita, ou mesmo ser atendido pela instituição?
+Será crime de falsidade ideológica, terá tipicidade a conduta?
+As linhas seguintes buscam dar uma visão geral sobre o tema (crime ou não), claro que sem a veleidade de esgotá-lo, mas, a toda evidência, com embasamentos legais, doutrinários e jurisprudenciais.
+A hipótese possível:
+Cidadão que ao ser entrevistado por Defensor Público declara (e preenche) uma espécie de documento onde deve inserir a informação de que se enquadra nas hipóteses determinadas pela Lei n. 1.060/1950, notadamente artigo 2°, parágrafo único, como sendo:
+"aquele cuja situação econômica não lhe permita pagar as custas do processo e os honorários de advogado, sem prejuízo do sustento próprio ou da família".
+Mas, a bem da verdade, em algumas vezes, pode o cidadão "mentir" ao Defensor Público, tendo condições de, no caso, constituir advogado. 
+Nesse caso há crime de falsidade ideológica (CP, 299)? Ou será exigível que o Defensor Público tenha uma espécie de "bola de cristal" ao lado de seu "Vade Mecum"? Claro que não, não é? Vejamos.
+Alastra-se essa indagação no caso (e somente) de benefício de "Justiça Gratuita", neste particular haverá crime? 
+Opinião legal:
+Inicialmente, assim é previsto o tipo penal do artigo 299 do Código Penal:
+Falsidade ideológica
+Art. 299 - Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante:
+Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o documento é particular.
+Parágrafo único - Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.
+Por primeiro, pontua-se:
+Como é (ou deveria) ser cediço, o tipo penal acima comporta três modalidades:
+(i) A omissiva, "Omitir, em documento público ou particular, declaração que dele devia constar";
+(ii) A comissiva, "o agente diretamente insere declaração falsa ou diversa a que devia constar"; 
+e(iii) Quando o agente indiretamente, faz com que terceiro insira declaração falsa ou diversa.
+Bom, no caso em exame há possibilidade de acontecimento das três modalidades.
+Inegavelmente a inserção de declaração falsa com o fim de criar direito por si só pode caracterizar a falsidade ideológica, mas no caso de benefício de gratuidade judiciária, não! Pelo fato de ser a declaração de pobreza mera presunção juris tantum, posterior verificação e até que se prove o contrário.
+Nesse ponto, impende ressaltar que, em princípio, pode-se cogitar em fato juridicamente relevante, qual seja, a falta de condições para pagar as custas do processo, sem prejuízo próprio ou de sua família, condição legal da obtenção dos benefícios da assistência judiciária gratuita. Assim, em tese, é típica, a conduta da pessoa que assina declaração de hipossuficiência na Defensoria Pública, que posteriormente será juntada a qualquer processo judicial e que, no entanto, apresenta condições materiais para arcar com as despesas e custas processuais.
+É esse o entendimento majoritário do Superior Tribunal de Justiça (que é crime e ponto final), veja-se:
+HABEAS CORPUS. PROCESSUAL PENAL. CRIME DE FALSIDADE IDEOLÓGICA.DECLARAÇÃO FALSA DE POBREZA PARA OBTER A GRATUIDADE DE ASSISTÊNCIA JUDICIÁRIA. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE.1. É típica, a princípio, a conduta da pessoa que assina declaração de "pobreza" para obter os benefícios da assistência judiciária gratuita e, todavia, apresenta evidentes condições de arcar com as despesas e custas do processo judicial.2. A denúncia, ora atacada, é formal e materialmente correta, ou seja, satisfaz as exigências do art. 41, do Código de Processo Penal. Encontra-se, ainda, a exordial acompanhada de um mínimo de prova a amparar a acusação, a qual, no curso da instrução criminal, deverá ser provada e assegurado à paciente o exercício da ampla defesa e do contraditório.3. Ordem denegada.(HC 37.395/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 03.03.2005, DJ 04.04.2005 p. 330)
+No particular, peço a venia para discordar desse entendimento "majoritário" do STJ.
+Entendemos que a declaração que visa tão-somente obter os benefícios da gratuidade não cria qualquer situação em detrimento da verdade sobre fato relevante (elementar do crime de falsidade ideológica), e mais, o bem jurídico tuletado pelo tipo penal adrede mencionado em nada é abalado, ou seja, a fé pública resta ilesa nestes casos.
+Ora, o crime de falsidade ideológica somente se caracteriza quando a declaração falsa inserida no "documento" detém capacidade probatória de per si, sendo irrelevante a comprovação posterior. Assim, sendo "uma presunção juris tantum" a benefício da gratuidade judiciária, não se pode falar em crime de falsidade ideológica, por pura lógica.
+Nas palavras do saudoso mestre HUNGRIA:
+"Cumpre notar que a declaração prestada pelo particular deve valer, por si mesma, para a formação do documento. Se o oficial ou funcionário que recebe a declaração está adstrito a averiguar, propis sensibus, a fidelidade da declaração, o declarante, ainda que falte com a verdade, não cometerá ilícito penal" (fls. 11/12).
+São alguns pontos (afora os já citados) que chego a duvidar da tipicidade do crime de falsidade ideológica no caso em exame, veja-se:
+PONTO 1 - A declaração vai passar por alguma espécie de verificação???
+A grande jogada nesse tipo penal (e nessa situação fática) é a capacidade probatória do documento assinado, se, eventualmente, este mesmo documento tiver que passar por algum crivo analítico, resta descaracterizado o crime de falsidade ideológica.
+Nesse sentido, já se manifestou o Pretório Excelso:

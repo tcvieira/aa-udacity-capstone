@@ -1,0 +1,26 @@
+Bloqueio de celulares
+Eduardo Tude avalia os efeitos da venda de celulares bloqueados no Brasil.
+
+A maior parte das operadoras de celular GSM do Brasil e do mundo vende aparelhos de celular bloqueados para funcionar com chips de outras operadoras. Esperam desta forma evitar que telefones celulares vendidos com preços subsidiados sejam utilizados em outras operadoras.
+
+O debate sobre a venda de celulares bloqueados esquentou nos últimos meses, depois que a Oi decidiu parar de vender aparelhos com bloqueio e deu início a uma campanha pelo desbloqueio dos celulares.
+
+Esta campanha tem apelo popular. Afinal, o bloqueio de telefones celulares é uma limitação que muitos usuários gostariam que não existisse. Em uma enquete promovida pelo Teleco 76% votaram a favor da proibição da venda de telefones celulares bloqueados pelas operadoras.
+
+Operadoras, como a Claro e a Vivo, que têm como estratégia para a conquista de clientes a venda de telefones celulares a preços mais baixos (subsidiados) argumentam que sem o bloqueio acabariam os subsídios para os aparelhos.  Estes passariam a custar mais caro para o consumidor. Já para operadoras como a Oi, que adotam como estratégia a venda de chip, e não aparelhos, quanto mais celulares desbloqueados melhor.
+
+Ou seja, não existem mocinhos nem bandidos neste jogo. Cada operadora está defendendo a tese mais adequada à sua estratégia de mercado. Claro e Vivo estão priorizando as promoções de aparelhos. Por sua escala têm condições de comprar telefones celulares a preços mais baixos. O mesmo não acontece com a Oi, o que a levou a optar por uma estratégia de venda de chips.
+
+A Anatel adota uma posição intermediária entre estas duas posições. Permite o bloqueio de celulares pelo prazo de um ano, findo o qual a operadora deve desbloquear o telefone celular de forma gratuita. Na prática, o usuário que quer desbloquear seu celular antes deste prazo acaba tendo de aprender na internet como fazer o desbloqueio ou contrata este serviço de um prestador.
+
+Mesmo os mecanismos mais sofisticados de bloqueio acabam sendo quebrados. O exemplo mais recente é o iPhone da Apple. No Brasil, a Claro passou a utilizar o “hard lock” que dificulta o desbloqueio. 
+
+O desbloqueio do telefone celular por parte de cada consumidor não é considerado ilegal no Brasil e na maior parte dos países do mundo. O mesmo não se pode dizer em relação àqueles que compram grandes quantidades de celulares com preços subsidiados para revendê-los desbloqueados a preços mais altos (existem no mundo exemplos de operadoras com esta prática).
+
+A questão a ser considerada ao se optar pelo fim do bloqueio de telefones celulares é: “Com o fim do bloqueio dos telefones celulares os preços dos aparelhos para o consumidor vão subir?”
+
+Em um primeiro momento isto deve ocorrer, principalmente para os celulares pré-pagos.
+
+Nos celulares pós-pagos (com conta mensal) o efeito seria menor, pois o cliente tem um vínculo mais permanente com a operadora. Na compra do telefone celular ele assume um compromisso com um plano de serviço pela duração prevista em contrato e continua gerando receita mesmo que utilize o celular em outra operadora.
+
+Nos celulares pré-pagos a migração para outras operadoras é em geral mais fácil, pois o cliente não fica amarrado com um plano de serviço da operadora. Sem garantia de uma receita mínima as operadoras deixariam de subsidiar os aparelhos para este segmento. Não se pode descartar, no entanto, a possibilidade de que com o tempo apareçam formas criativas de viabilizar o subsídio de aparelhos para este segmento. Afinal, preços altos para os aparelhos representam uma barreira de entrada para novos clientes e inibem o crescimento do mercado.

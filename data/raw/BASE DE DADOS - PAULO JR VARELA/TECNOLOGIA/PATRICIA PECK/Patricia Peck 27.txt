@@ -1,0 +1,32 @@
+Proteção do software
+Como proteger uma criação de software? O que é inédito e o que é melhoria? Patrícia Peck responde.
+
+Atualmente, o software está em tudo. O que seria de nossa vida sem algumas linhas de programação? Digo isso pessoalmente, como programadora desde os 13 anos e que usa a lógica da programação para criar vacinas legais nos ambientes eletrônicos.
+
+Mas esta mudança de modelo de riqueza social, de coisas tangíveis como era a terra, para bens intangíveis, como são os softwares, traz grandes impactos e alguns paradigmas que precisamos enfrentar.
+
+Como de fato proteger uma criação de software? O que é original, inédito e o que é melhoria? Praticamente é raro encontrar programas com todas as linhas escritas de modo único, o mais comum é o uso de códigos e linhas de base, muitas encontradas livremente na internet, e muitas também protegidas por direitos de terceiros, que acabam sendo violados.
+
+Para as empresas cujo foco de negócio é a programação própria ou o uso de softwares de terceiros, quer seja como meio ou fim de seus negócios, esta questão tem se tornado cada vez mais relevante. Como garantir o direito de propriedade, moral e patrimonial, sobre linhas de código-fonte, de flash, de javascript?
+
+Há leis válidas e vigentes e é preciso construir a cultura de gestão legal para blindagem da empresa. Pode ser caso de proteção autoral pela Constituição Federal de 1988, art. 5. º, XXVII, Lei n.º 9.610/98, Decreto 2556/98 ou proteção de patente pela Lei 9279/96, se aplicável.
+
+Mas também pode ser caso de proteção como obra de Website pela Biblioteca Nacional, ou ainda, pode ser caso de proteção como segredo de negócio. Ou se não for proteção direta, pode ser indireta, pela Lei 9.279/96, artigo 195, que determina o crime de concorrência desleal, bem como pelo Novo Código Civil, artigo 187 e 927, e o código penal art. 184 que determina o crime em si, com pena de detenção de 3 meses a 1 ano, ou multa, para aquele que violar direito de autor ou que lhe são conexos.
+
+Além disso, ainda são aplicáveis no tocante ao mercado de publicidade eletrônica o CENP, Decreto nº 57.690, artigos 17, 26, 27, o Código Brasileiro de Auto-Regulamentação Publicitária, em seus artigos 4º, 8º, 50, o Código de Ética do Marketing Profissional (AMPRO), nos itens 9.1 , 9.2, 13.1, entre outros.
+
+Como evitar que um funcionário ou colaborador faça uso de códigos de terceiros para economizar trabalho? Por conta de atitudes baseadas no princípio “se está na internet é pra ser usado, está público”, o empregador pode vir a ter de indenizar quem tiver sido lesado.
+
+Mas imagine um cenário pior: um anunciante que pediu o desenvolvimento de um website sob encomenda a uma empresa terceirizada e descobre, com uma citação judicial, que terá que responder por infração de direito autoral.
+
+O problema reside em dois fatores fundamentais: informação e educação. Em geral, as pessoas não conhecem as leis, mesmo as de boa-fé. E o que agrava a situação é que muitos também não conhecem as conseqüências que podem ser geradas por um simples e-mail, gif, código ou comando.
+
+A justiça na Sociedade Digital se passa por uma questão de proporcionalidade entre causa e conseqüência. Ou seja, independente de ter sido apenas um código, aquela conduta gerou um impacto de imagem, reputação e perda financeira até mundial, pois está na internet.
+
+Pode ser que uma conduta leiga e desavisada represente uma indenização de tantos reais quanto foram os pageviews, as edições online que são cada “refresh” de página. Assim, algo que custaria apenas algumas horas a mais de trabalho, criatividade, pensamento, pode se transformar em alguns milhões. E a diferença é que há mais provas no ambiente eletrônico que no físico.
+
+Direito de autor significa exatamente que cabe ao autor decidir sobre como dispor do mesmo, inclusive, se irá autorizar a cópia em si. Por isso cresce o uso do “copyleft” - o oposto do “copyright” - que é o de deixar copiar. Com uso de DRM (Digital Rights Management) e Creative Commons fica cada vez mais fácil fazer esta gestão de regras digitais.
+
+Estamos na era do conhecimento, portanto, o Direito Digital tende a cada vez mais proteger as questões de propriedade autoral, pois é o novo modelo de riqueza. Isso engloba não apenas marcas, softwares, bancos de dados, mas até mesmo as questões de “linking”, “caching”, “framing”, “spidering”, “cooking”, “clipping”,”spoofing”,  “keying com uso de meta tags” etc.
+
+Cabe a cada um estar atualizado nas leis, ter uma conduta ética e adequada. Para quem tiver sido vítima, cabe o dever, como cidadão, de tomar uma providência e evitar a cultura de banalização da inovação.

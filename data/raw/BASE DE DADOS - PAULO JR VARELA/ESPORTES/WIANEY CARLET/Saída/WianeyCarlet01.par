@@ -1,0 +1,14 @@
+WianeyCarlet01
+290 290 158 247 155 13 115 5000000 4 0 0 0 0
+
+*** Résultat de la segmentation du fichier: WianeyCarlet01.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         247
+ 	nombre des formes      :         155
+ 	frequence maximale     :          13
+ 	nombre des hapax       :         115
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      WianeyCarlet01.TXT ***

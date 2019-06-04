@@ -1,0 +1,18 @@
+Terrorismo nas empresas
+Política de segurança incorreta pode gerar terrorismo na empresa. Por Denny Roger
+
+Não é necessário o ataque de um hacker ou de um vírus de computador para provocar grandes prejuízos financeiros numa empresa. Basta apenas um funcionário ter acesso, de forma indevida, às informações confidenciais restritas e confidenciais para começar o terrorismo.
+
+Exemplo: Um funcionário coloca documentos relacionados a um processo jurídico em um envelope. No lado de fora do envelope está descrita a seguinte observação: “INFORMAÇÃO CONFIDENCIAL RESTRITA (Departamento Jurídico)”. A partir deste momento, qualquer funcionário da empresa que estiver com este envelope em mãos, do mais simples funcionário ao mais graduado executivo, estará tentado a abrir o envelope para ler seu conteúdo.
+
+Caso estivesse escrito no lado de fora do envelope a seguinte observação: “Lista de lubrificantes de motores elétricos”. O risco de alguém querer abrir o envelope para ter acesso ao seu conteúdo seria minimizado. Isso ocorre porque a maioria das pessoas não tem interesse no assunto “lubrificantes de motores elétricos”.
+
+Um dos objetivos da política de segurança deve ser ampliar a conscientização sobre segurança e privacidade das informações.  Durante a divulgação da política de segurança, os colaboradores, os contratados e usuários das informações da empresa recebem um treinamento sobre Classificação da Informação: confidencial restrita, confidencial, uso interno ou informação pública.
+
+A forma de divulgação da política de segurança deve ser estudada pelo Comitê de Segurança da empresa para que seja evitado o terrorismo interno. Ou seja, a abordagem durante a implementação pode disseminar o pânico entre os gestores.
+
+Se, por exemplo, todos os funcionários do departamento jurídico sabem que as informações de processos jurídicos estratégicos são confidenciais restritas. Porém, essa classificação da informação não está descrita nos envelopes ou processos. Quando a empresa divulga para todos os funcionários que as informações serão classificadas, sempre irá existir o funcionário interno ('terrorista') que irá procurar por informações confidencias restritas e confidencias.
+
+As empresas devem tratar a implementação da política de segurança como a “criação de normas” sobre o que a empresa já vem fazendo. A abordagem relacionada à implementação de “mudanças” pode trazer conseqüências negativas à empresa. Os gestores ou até mesmo os funcionários de um departamento, sabem que informações são confidenciais restritas ou confidenciais. Porém, as pessoas não praticam o exercício de classificar a informação de forma adequada.
+
+Cuidado com os programas de  implementação da política de segurança, pois sem os devidos cuidados, sua empresa poderá estar criando uma debilidade que pode despertar este novo tipo de terrorista – o funcionário interno.

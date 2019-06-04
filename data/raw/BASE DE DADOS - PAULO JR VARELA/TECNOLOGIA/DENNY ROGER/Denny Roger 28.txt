@@ -1,0 +1,48 @@
+Teste de invasão
+Você já realizou um teste de invasão na sua empresa? Por Denny Roger
+
+Enquanto você está lendo este artigo, hackers estão colocando à prova a segurança da informação da sua empresa.
+
+Milhares de tentativas de invasões são realizadas por hora. Alguns ataques são direcionados para um alvo específico, outros são disparados pela internet para diversos computadores.
+
+Você já realizou um teste de invasão na sua empresa? Independente da resposta, vamos entender o que é o Teste de Invasão e como realizá-lo com sucesso.
+
+Por que realizar o Teste de Invasão?
+
+O Teste de Invasão é um conjunto de técnicas e metodologias que irá avaliar a conformidade com a política de segurança, identificando ameaças e vulnerabilidades desconhecidas para a organização. O objetivo é minimizar o risco de hackers acessarem as informações da sua empresa.
+
+Como realizar o Teste de Invasão?
+
+O Teste de Invasão geralmente é associado à palavra 'hacker'. Porém, o Teste de Invasão é uma tarefa gerencial, envolvendo uma equipe técnica altamente qualificada para o desenvolvimento dessa atividade tão específica. O primeiro grande desafio do Teste de Invasão é reunir uma equipe talentosa, que realizará a atividade tendo acesso as informações classificadas como confidencias, restritas e de uso interno da sua organização.
+
+A equipe de especialistas em segurança da informação irá utilizar técnicas e ferramentas semelhantes as utilizadas pelos hackers para tentar invadir a organização e ter acesso às informações confidenciais.
+
+Antes de começar o Teste de Invasão, a equipe de especialistas em segurança da informação deve definir quais são as vulnerabilidades comuns a qualquer sistema. Por exemplo, realizar ataques de DoS (negação de serviço), execução de scripts de forma remota, utilizar um usuário válido da rede e aumentar os seus privilégios no ambiente computacional, realizar ataques de Cross Site Scripting etc.
+
+Quem deve participar do Teste de Invasão?
+
+Todos os proprietários da informação devem participar do Teste de Invasão. O proprietário da informação é responsável pela criação, classificação da informação e definir quais departamentos ou pessoas devem ter acesso aos dados.
+
+O proprietário da informação atua no estratégico da empresa. Ou seja, os principais executivos devem participar o Teste de Invasão. Isso ocorre porque um dos objetivos do Teste de Invasão é acessar as informações classificadas como confidenciais ou restritas pelo proprietário da informação. Na prática, o alto escalão da organização nem sempre pode participar do Teste.
+
+Outros departamentos ou gestores da sua empresa que devem participar do Teste de Invasão são: Auditoria, TI e área de Security Officer. Existem casos onde o departamento jurídico também acompanha os procedimentos realizados durante o Teste de Invasão. A equipe de especialistas em segurança da informação deve realizar uma reunião com os departamentos ou gestores envolvidos no Teste de Invasão, para explicar a metodologia e procedimentos que serão utilizados durante o teste. Durante a reunião serão definidos os alvos do Teste de Invasão. Por exemplo, servidores web, e-mails, servidores de arquivos, fórmulas de produtos, processo judiciais etc.
+
+Qual será o tamanho da equipe?
+
+O tamanho da equipe que irá realizar o Teste de Invasão pode variar de acordo com os alvos definidos. Tudo irá depender do número de máquinas que sofrerão as invasões, número de redes ou até mesmo número de aplicações (folha de pagamento, folha de ponto, sistema financeiro etc).
+
+Recomendo que a equipe tenha no mínimo três especialistas em segurança da informação. Um único especialista não terá habilidade para realizar todos os tipos de ataque em um determinado alvo.
+
+Chegou a hora do Teste!
+
+FASE 1. Vamos iniciar o teste levantando todo e qualquer tipo de informação disponível sobre o alvo. Por exemplo: dados sobre endereços IP dos servidores e da rede, nomes de usuários, sistemas utilizados, serviços prestados etc.
+
+FASE 2. A equipe irá utilizar as informações obtidas na FASE 1 para realizar técnicas mais agressivas, mapeando ainda mais o alvo. Nesta fase, o alvo passa a receber ataques voltados para identificação do sistema operacional, port scanning, ataques de fingerprinting etc.
+
+FASE 3. A equipe irá identificar todas as vulnerabilidades do alvo nesta fase e irá utilizar uma base de dados de vulnerabilidades em conjunto com a experiência dos membros da equipe.
+
+FASE 4. Esta é a última fase do Teste de Invasão. A equipe irá utilizar ferramentas e técnicas para explorar as vulnerabilidades encontradas no alvo. É exatamente nesta fase que o alvo será invadido pela equipe de especialistas em segurança da informação.
+
+Existe alguma certificação para especialistas em Teste de Invasão?
+
+Você pode tornar se um profissional certificado para realizar Testes de Invasão. O SANS fornece dois treinamentos sobre o assunto.

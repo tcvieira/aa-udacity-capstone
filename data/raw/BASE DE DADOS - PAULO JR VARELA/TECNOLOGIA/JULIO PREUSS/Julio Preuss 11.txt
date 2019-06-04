@@ -1,0 +1,14 @@
+
+Arte digital em bilhões de pixels
+
+Mais Sobr Julio Preuss - 14/12/2007
+Julio Preuss
+Escreveu o livro "Fotografia Digital: da compra da câmera à impressão das fotos"
+
+Logo que a Internet começou a se tornar acessível por pessoas comuns, fora de universidades e outras instituições de pesquisa, uma das mais freqüentes demonstrações do potencial desta nova mídia era visitar os sites de uns poucos museus que exibiam fotos de seus acervos. “Vejam só... dá para conhecer o Louvre sem sair de casa!”, exclamavam os primeiros fãs da tecnologia enquanto esperavam seus lerdos modems de 14,4 Kbps baixarem miniaturas pixeladas das fotos em questão.
+
+A Internet se popularizou, a tecnologia evoluiu e hoje pouca gente fala em visitar museus online. O site do Louvre continua lá, bem melhor do que era em 1995, mas ainda com imagens um tanto pequenas – principalmente se comparadas às do projeto italiano Haltadefinizione, que vem digitalizando em altíssima resolução algumas pinturas de artistas daquele país e publicando o resultado na Web.
+
+No site, é possível admirar, nos mínimos detalhes, arquivos de quase dez gigapixels (milhares de megapixels) da Vita di Cristo, de Gaudenzio Ferrari, e da Gloria di Sant’Ignazio, de Andréa Pozzo. Mas a obra prima do projeto é a Última Ceia, de Leonardo  da Vinci, reproduzida em impressionantes 16 gigapixels. Ou, mais precisamente, 16.118.035.591 pontinhos! Felizmente não é preciso (nem possível) baixar as imagens – você só navega por elas usando um visualizador como os dos sites de mapas e fotos de satélite, mas que permite observar detalhes de até 1mm quadrado.
+
+A imagem gigante da Última Ceia – 172.181 x 93.611 pixels – foi montada a partir de 1.677 fotos capturadas por uma Nikon D2Xs com lente Nikkor AF-S 600mm f/4D IF-ED II montada em um tripé para fotografia panorâmica Clauss Rodeon VR. A câmera foi pilotada direto do computador, via software Camera Control Pro, e o trabalho de processamento, realizado no Nikon Capture NX rodando em um computador com dois processadores AMD Opteron de núcleo quádruplo, 16 gigabytes de RAM e 2 terabytes de disco rígido. Vale a pena conferir o “making off” no site do projeto.

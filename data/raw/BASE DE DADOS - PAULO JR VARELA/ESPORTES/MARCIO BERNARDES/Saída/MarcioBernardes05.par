@@ -1,0 +1,14 @@
+MarcioBernardes05
+464 464 268 402 265 13 214 5000000 4 0 0 0 0
+
+*** Résultat de la segmentation du fichier: MarcioBernardes05.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         402
+ 	nombre des formes      :         265
+ 	frequence maximale     :          13
+ 	nombre des hapax       :         214
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      MarcioBernardes05.TXT ***

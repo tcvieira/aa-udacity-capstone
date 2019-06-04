@@ -1,0 +1,14 @@
+DrauzioVarela01
+562 562 267 467 261 18 195 5000000 7 0 0 0 0
+
+*** Résultat de la segmentation du fichier: DrauzioVarela01.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         467
+ 	nombre des formes      :         261
+ 	frequence maximale     :          18
+ 	nombre des hapax       :         195
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      DrauzioVarela01.TXT ***

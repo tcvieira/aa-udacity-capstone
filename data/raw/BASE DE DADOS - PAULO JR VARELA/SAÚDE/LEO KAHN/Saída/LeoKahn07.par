@@ -1,0 +1,14 @@
+LeoKahn07
+573 573 277 487 273 23 198 5000000 5 0 0 0 0
+
+*** Résultat de la segmentation du fichier: LeoKahn07.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         487
+ 	nombre des formes      :         273
+ 	frequence maximale     :          23
+ 	nombre des hapax       :         198
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      LeoKahn07.TXT ***

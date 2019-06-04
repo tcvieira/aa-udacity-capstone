@@ -1,0 +1,31 @@
+Pescaria virtual
+Dicas ajudam a minimizar o risco da pescaria de senhas aliada à engenharia social. Por Denny Roger
+
+Recebemos em nossas caixas postais diversos e-mails não solicitados, mais conhecidos como spams A prática tem como objetivo o marketing de algum produto ou serviço.
+
+O que permite o envio não solicitado de mensagens (e-mail) através da Internet é a facilidade de falsificar sua origem. Aproveitando-se dessa fragilidade no sistema de e-mail, estelionatários “virtuais” estão realizando uma combinação de técnicas para roubar contas bancárias: a engenharia social combinada com a pescaria da senha do banco.
+
+A engenharia social é a arte de enganar as pessoas. O hacker mais conhecido em todo mundo, Kevin Mitnick, conquistou sua fama através do acesso indevido a informações confidencias utilizando-se da engenharia social. Abaixo podemos analisar um e-mail falso que explora uma das fraquezas do ser humano:
+
+“Oi tudo bem com você, eu espero que sim, pois estou bem, tirando é claro as saudades que sinto de você estou mandando as fotos de nossa viajem  para que você veja, ficaram ótimas, espero que você goste! Vou ficando por aqui com muitas saudades no meu peito, mais com a certeza de que logo estaremos juntos e tudo voltará como era antes, tenho um carinho muito especial por você.”
+
+O e-mail falso ainda traz um link onde o destinatário pode ter acesso às fotos online. Porém, clicando no link, automaticamente é instalado um vírus na máquina da vítima com o objetivo de roubar senhas de bancos.
+
+Podemos observar que o estelionatário explora o elo mais fraco da corrente, o ser humano, para conseguir instalar uma praga e roubar a senha do banco da vítima.
+
+O processo onde o estelionatário rouba a senha da vítima foi batizado de pescaria de senhas. O estelionatário lança a isca na Internet (e-mail falso combinado com engenharia social) e quando a isca é mordida, ocorre o processo de pescar a senha do banco (o vírus de computador captura o dado bancário e o envia ao fraudador).
+
+Com a senha do banco em mãos, o estelionatário realiza diversas transferências indevidas para contas correntes de “laranjas”, faz pagamentos de contas e multas de trânsito, por exemplo. A vítima só descobre que pescaram sua senha quando tenta realizar um saque (sem saldo) ou quando visualiza seu extrato.
+
+Algumas dicas de segurança ajudam a minimizar o risco da pescaria de senhas combinada com a engenharia social:
+
+   1. Mantenha sempre seu antivírus atualizado;
+   2. Troque a sua senha do Internet Banking periodicamente;
+   3. Acesse sua conta corrente apenas de computadores confiáveis;
+   4. Não instale programas de computador de origem desconhecida;
+   5. Apague imediatamente e-mails suspeitos ou não solicitados, principalmente os que contenham arquivos anexos;
+   6. Evite acessar páginas na Internet que solicitam a instalação de algum programa;
+   7. Mantenha sempre o seu sistema operacional atualizado;
+   8. Durante as transações financeiras, verifique se a página do banco possui o certificado de segurança;
+   9. Consulte sempre seu extrato;
+  10. Em caso de suspeita de vírus no computador, entre em contato com o seu banco.

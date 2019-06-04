@@ -1,0 +1,46 @@
+Obrigações legais no caso Cesare Battisti
+
+O caso Cesare Battisti está criando um furor incrível no Brasil. No meio jurídico, só se fala disso. A mídia também. E o Twitter (que tem gente pra todos os gostos) também só fala disso. Basta ver a hashtag (é assim que diz?) #Battisti (clica aí).
+Resumo da ópera até o momento (19/11/2009)? 1) Cesare Battisti é procurado na Itália pelo homicídio de 4 pessoas; 2) Acham o sujeito no Brasil; 3) Ministro da Justiça dá ao cara status de asilado político; 4) STF, em conturbado julgamento (5 a 4) diz que o crime dele é comum, mas que cabe ao Presidente da República, em ato discricionário, decidir sobre a efetiva entrega do italiano.
+Mais especificamente, o Presidente do STF, Gilmar Mendes, em entrevista referiu o seguinte (veja aqui a entrevista na íntegra):
+“Como fica a situação de Battisti se o Presidente da República decidir não extraditá-lo?
+Ministro Gilmar Mendes – Vamos avaliar agora. Os senhores viram que o Tribunal deferiu a extradição e depois, examinando questão de ordem a partir do voto da ministra Cármen Lúcia, entendeu que haveria um caráter discricionário, que cabe ao Presidente [da República] fazer a avaliação. Isto também foi decidido por cinco a quatro. Vamos agora avaliar a situação, esperar os próximos dias. Está deferida a extradição e cabe agora ao Executivo fazer a devida avaliação e depois nós vamos estudar. É a primeira vez que essa questão se coloca, ao contrário do que vem se afirmando, não havia precedentes sobre essa questão, e o Tribunal decidiu nesse sentido, com esse quórum específico. Vocês sabem que estavam ausentes dois juízes que compõem a Corte, portanto, isto não significa que seja a posição definitiva da Corte sobre o assunto.”
+Agora… seria mesmo a entrega um ato discricionário do Presidente da República?
+Como internacionalista, eu deveria saber. Entretanto, como pessoa que tem ojeriza a penal (uma vergonha, mas quase nada sei da matéria), eu sempre evitei o tema.
+Abaixo vou tentar esclarecer esse ponto, no máximo das minhas habilidades, mas gostaria muito de críticas e sugestões, pois realmente não conheço a fundo o assunto.
+Como já me disse um sábio, “primeiro a gente vê no livrinho”. Então tá.
+A Constituição fala de extradição em apenas três dispositivos.  No art. 5º, LII, se define que não será extraditado estrangeiro perseguido por crime político ou de opinião, no 22, XV, é fixada a competência da União para legislar sobre o tema, e no 102, I, g, é outorgada a competência originária do STF para processar e julgar pedidos de extradição solicitada por Estado estrangeiro.
+Não se fala de competência para entrega e muito menos da natureza desse ato.
+Passemos, então, às duas Leis aplicáveis ao caso, a Lei 6.815/80 (Estatuto do Estrangeiro) e o Decreto 863/93 (Tratado de Extradição Brasil-Itália, sempre levando que tratados internacionais possuem natureza jurídica de Lei Ordinária).
+O Estatuto do Estrangeiro trata da extradição em seus  artigos 76 a 94.
+Não há disposição específica, mas o que mais responde à questão, me parece, são os artigos abaixo:
+“Art. 83. Nenhuma extradição será concedida sem prévio pronunciamento do Plenário do Supremo Tribunal Federal sobre sua legalidade e procedência, não cabendo recurso da decisão.
+(…)
+Art. 85. Ao receber o pedido, o Relator designará dia e hora para o interrogatório do extraditando e, conforme o caso, dar-lhe-á curador ou advogado, se não o tiver, correndo do interrogatório o prazo de dez dias para a defesa.
+(…)
+Art. 86. Concedida a extradição, será o fato comunicado através do Ministério das Relações Exteriores à Missão Diplomática do Estado requerente que, no prazo de sessenta dias da comunicação, deverá retirar o extraditando do território nacional. “
+Analisando acima, parece mesmo que o texto do art. 83 indica que depois da fase de julgamento da extradição existiria uma fase de concessão dela, a despeito de o art. 86 dar a entender que a coisa é automática.
+Então, presumindo que exista essa fase posterior ao julgamento do STF (e, gize-se, a lei não é expressa e não define competência, mas fala de um ato posterior ao pronunciamento judicial), resta saber se esse ato seria vinculado ou discricionário.
+E para resolver essa questão eu me socorro à segunda “lei” existente: o Tratado Brasi-Itália.
+E já no primeiro artigo o Tratado diz:
+“ARTIGO 1
+Obrigação de Extraditar
+Cada uma das Partes obriga-se a entregar a outra, mediante solicitação, segundo as normas e condições estabelecidas no presente Tratado, as pessoas que se encontrem e seu território e que sejam procuradas pelas autoridades judiciárias da Parte requerente, para serem submetidas a processo penal ou para a execução de uma pena restritiva de liberdade pessoal.”
+Indo mais além, o Tratado dispõe sobre quando a recusa é facultativa:
+“ARTIGO 6
+Recusa Facultativa da Extradição
+1. Quando a pessoa reclamada, no momento do recebimento do pedido, for nacional do Estado requerido, este não será obrigado a entregá-la. Neste caso, não sendo concedida a extradição, a Parte requerida, a pedido da Parte requerente, submeterá o caso às suas autoridades competentes para eventual instauração de procedimento penal. Para tal finalidade, a Parte requerente deverá fornecer os elementos úteis. A Parte requerida comunicará sem demora o andamento dado à causa e, posteriormente, a decisão final.
+2. A extradição poderá igualmente ser recusada:
+a) se o fato pelo qual for pedida tiver sido cometido, no todo ou em parte, no território da Parte requerida ou em lugar considerado como tal pela sua legislação;
+b) se o fato pela qual for pedida tiver sido cometido fora do território das Partes requerida não previr a punibilidade para o mesmo quando cometido fora do seu território.”
+Ou seja: o Tratado, que no Brasil tem força de Lei, cria o dever jurídico de extraditar, e tal dever não comporta exceção aplicável ao caso em tela (o STF já descartou todas as possibilidades).
+Resultado? o @GPamplona estava tapado de razão: o dever de extraditar, por força do Tratado (que tem força de lei), é ato vinculado do Presidente da República.
+E se o Presidente não entregar o sujeito? Bem, voltemos ao livrinho:
+“Constituição da República Federativa do Brasil
+(…)
+Art. 85. São crimes de responsabilidade os atos do Presidente da República que atentem contra a Constituição Federal e, especialmente, contra:
+(…)
+VII – o cumprimento das leis e das decisões judiciais.”
+Em resumo, há um ato posterior ao julgamento do STF (e por isso ele apenas autoriza a extradição). Só que o Presidente da República está vinculado a fazê-lo, por força do Tratado celebrado junto com a Itália.
+
+As coisas realmente não são tão complicadas quando analisadas friamente… e me corrijam se eu estiver errado (sério).

@@ -1,0 +1,14 @@
+LeoKahn29
+640 640 310 537 304 18 219 5000000 7 0 0 0 0
+
+*** Résultat de la segmentation du fichier: LeoKahn29.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         537
+ 	nombre des formes      :         304
+ 	frequence maximale     :          18
+ 	nombre des hapax       :         219
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      LeoKahn29.TXT ***

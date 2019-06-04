@@ -1,0 +1,14 @@
+AugustoMafuz10
+320 320 165 270 160 19 117 5000000 6 0 0 0 0
+
+*** Résultat de la segmentation du fichier: AugustoMafuz10.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         270
+ 	nombre des formes      :         160
+ 	frequence maximale     :          19
+ 	nombre des hapax       :         117
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      AugustoMafuz10.TXT ***

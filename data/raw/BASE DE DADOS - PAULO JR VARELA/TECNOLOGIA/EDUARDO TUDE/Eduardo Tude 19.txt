@@ -1,0 +1,29 @@
+O pulso vai acabar
+O que muda na conta do telefone com as novas regras da telefonia fixa? Por Eduardo Tude.
+
+A Anatel deu prazo até 31 de julho de 2006 para que as operadoras de telefonia fixa local (Telemar, Brasil Telecom, Telefônica, CTBC e Sercomtel) alterem a forma de cobrança das chamadas locais entre telefones fixos. A duração das chamadas, que é hoje medida em pulsos, passará a ser medida em décimos de minuto (6 segundos).
+
+A grande desvantagem do sistema de pulsos é o seu caráter aleatório que faz com que, para um mesmo tempo de uso do serviço, possam ser cobrados valores bem diferentes.
+
+No sistema de pulsos, um usuário que tiver um consumo de 20 minutos de chamadas locais, pode ter descontado, dependendo da quantidade e duração das chamadas, de 5 a 20 pulsos da sua franquia de 100 pulsos.
+
+Além de tornar a cobrança mais aderente ao consumo, a cobrança por minuto irá viabilizar o detalhamento da conta do usuário, apresentando informações como a duração e valores cobrados por cada chamada. A conta detalhada é na  prática inviável nos sistemas de medição por pulsos desenvolvidos na década de 1930.
+
+As vantagens da mudança para a medição por minuto, já utilizada nas chamadas de longa distância e no celular, são muitas. O processo de mudança é, no entanto, complexo e está exigindo das operadoras a implantação de novos sistemas e da Anatel uma nova regulamentação.
+
+Particularmente sensível é a definição dos critérios para conversão dos valores das tarifas atuais para as que serão cobradas no novo sistema.
+
+ O valor do minuto, definido pela Anatel para cada operadora, corresponde a cerca de 1 vez e meia o valor do pulso atual. Estes valores foram definidos de forma a garantir que a mudança ocorra sem que haja ganho ou prejuízo para as operadoras ou para o conjunto dos usuários.
+
+A Anatel definiu ainda os seguintes critérios:
+
+    * A franquia da assinatura residencial que era de 100 pulsos passa a ser de 200 minutos;
+    * Nas chamadas no horário de tarifa reduzida, quando se pagava apenas um pulso por chamada, o usuário passa a pagar o valor correspondente a 2 minutos por chamada;
+    * Não serão cobradas as chamadas com duração menor que 30 segundos. Atualmente elas podem custar o equivalente a 1 ou 2 pulsos.
+
+
+ Embora não sejam esperados ganhos ou prejuízos para o conjunto dos usuários, do ponto de vista individual, eles podem ocorrer. Para usuários com perfil de consumo muito diferente dos demais usuários da sua região, podem ocorrer variações nos valores pagos regularmente em suas contas telefônicas.
+
+Os usuários que fazem chamadas de curta duração, menos de 2 minutos, gastam menos com o novo sistema, o que já não ocorre com aqueles que fazem chamadas mais longas, com mais de 5 minutos de duração. De acordo com medições realizadas pela Anatel, o tempo médio de duração da chamada para telefones residenciais é de 3 minutos e 11 segundos.
+
+Em suma, a mudança é positiva, mas deve ser acompanhada com cuidado para evitar distorções.

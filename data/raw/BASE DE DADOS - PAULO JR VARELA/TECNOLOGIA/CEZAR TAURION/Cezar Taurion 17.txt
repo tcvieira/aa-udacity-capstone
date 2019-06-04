@@ -1,0 +1,21 @@
+Estamos vendo uma nova geração de aplicações Web interativas, chamadas de mash-up. Estas aplicações são um dos principais símbolos da chamada Web 2.0.
+
+Mas o que são aplicações mashup? Embora alguns as chamem de aplicações ‘Frankestein’, elas são, na verdade, agregações de diversas funcionalidades obtidas de diferentes websites para criar uma experiência diferenciada para o usuário. Um exemplo de aplicação mashup é o site ChicagoCrime.org, que agrega informações do Google Maps com informações de ocorrências policiais registradas pela polícia da cidade de Chicago.
+
+Assim, pode-se identificar a maior incidência de determinados tipos de crimes. Bem, talvez seja uma aplicação que não teria muita utilidade em cidades tão pacatas como São Paulo ou Rio de Janeiro...
+
+Podemos também acessar os sites http://www.webmashup.com  e http://googlemapsmania.blogspot.com para uma lista de exemplos curiosos deste  tipo de aplicação.
+
+Já existem aplicações interessantíssimas. Por exemplo, o site Flickr (para armazenamento e compartilhamento de fotos) implementa APIs que nos possibilitam criar aplicações mashup de compartilhamento de fotos com outros conteúdos, como letras de músicas. Outro exemplo é o Doggdot.us, que utiliza tecnologias de syndication para agregar conteúdo de diversas fontes, como Dig.dot, Slashdot.org e Del.icio.us.
+
+Uma aplicação mashup contém três componentes básicos:
+
+1. Um site provedor de conteúdo (como o Google Maps, eBay e Amazon.com), que geralmente expõem  parte ou todo de seu conteúdo através de APIs, que utilizam interfaces como Web Services;
+
+2. o site mashup (o ChicagoCrime), que hospeda a aplicação mashup; 
+
+3. e o navegador (browse) na máquina do usuário. O conteúdo mashup pode também ser fornecido diretamente na máquina do usuário, através das técnicas de programação baseadas em JavaScript ou applets.
+
+O maior problema de quem pretende criar uma aplicação mashup é descobrir que o conteúdo desejado não é exposto por APIs. Neste caso, é necessário escrever programas que façam uma varredura no site alvo e identifiquem e capturem as informações que serão usadas na aplicação mashup. Esta alternativa demanda uma constante  manutenção, pois qualquer modificação no formato da página Web acessada faz com que o programa deixe de funcionar adequadamente.
+
+Conhecer e usar estas tecnologias pode alavancar novos e diferenciados serviços para as empresas. Estas não são mais tecnologias usadas apenas por hackers e nerds, mas criam inúmeras aplicabilidades para o cenário corporativo. É uma questão de ser inovador.

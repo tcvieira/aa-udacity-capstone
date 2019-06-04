@@ -1,0 +1,23 @@
+"Rolo compressor"
+
+Fernando Birman
+
+Um jornalista pergunta a um executivo de TI: Considerando-se a nova geração de serviços da Web - Skype, Youtube, Orkut, blog e o jogo Second Life - quais são utilizados pela sua empresa? Ele responde: Nenhum! As razões do executivo são conhecidas e têm sido exploradas pelo Computerworld. Mas, por que tantos perguntam o mesmo?
+
+Nunca houve tamanha distância entre a informática corporativa e aquela de uso doméstico e pessoal. A divergência tem aumentado progressivamente, na medida em que o computador deixou de ser uma máquina de processamento para ser a nossa melhor ferramenta de comunicação.
+
+As sucessivas ondas de inovação carregam uma geração mais aperfeiçoada de aplicações e milhões de novatos. Nomes de um passado recente como Netscape ou Altavista são desconhecidos pela maioria dos usuários. As pessoas que proporcionaram uma venda recorde de computadores em 2006 estão fazendo o que? Calculando no Excel ou usando compulsivamente os filhotes do Google?
+
+A nova geração de serviços da Internet é ainda mais voltada à integração social e ao entretenimento, atraindo uma grande massa de novos adeptos e pressionando os muros dos nossos castelos. Os executivos de TI, em nome da governança e segurança, impedem o acesso às mesmas. Somos os senhores feudais desta história.
+
+Qualquer negócio está inserido num ecossistema onde convivem pequenas empresas, profissionais autônomos, pessoas físicas, associações e assim por diante. Um grupo de entidades que encaram a TI de forma diferente. Sem contar que as organizações são constituídas de homens que exercem um outro papel na sociedade, além de funcionários. É difícil sustentar dois mundos de informática tão distintos, quando há tanta troca entre ambos. Este dualismo corrói nossos muros.
+
+O mercado corporativo pode ser importante para os fornecedores, mas são as centenas de milhões de pessoas que o cercam a verdadeira força capaz de definir os rumos da TI. Há poucos anos, os micros invadiram as organizações e, depois, a Internet se tornou a referência de arquitetura técnico-funcional. Foram duas ondas vindas de fora para dentro. É sempre assim, no princípio tentamos acreditar que são dois mundos distintos, até encarar o rolo compressor.
+
+Vários grupos já descobriram que há oportunidades concretas de bons negócios. Ninguém duvida da família Google como um canal eficaz de veiculação de anúncios. Os blogs, por sua vez, conquistaram seu espaço como fonte de informações ágil e qualificada. A lista de oportunidades não é longa. O recado também: Abrir o olho!
+
+Além da pressão das massas, não podemos menosprezar a atuação dos próprios atores. O Google, legítimo sucessor da IBM e da Microsoft na condição de protagonista da última onda de inovação, é uma empresa ambiciosa e quer atacar o mercado corporativo. Algumas organizações substituíram suas infra-estruturas de correio eletrônico pelo Gmail, serviço gratuito (e poderoso) do Google.
+
+Enfim, o bloqueio tão comum feito a essa nova gama de serviços, chamada de Web 2.0, está longe de ser sustentável. Se quisermos tirar proveito dela ou mesmo nos integrar ao resto do mundo, que caiam as muralhas.
+
+Numa perspectiva mais ampla, a Web 2.0 é apenas uma das várias revoluções da TI. São muitas batalhas em jogo, envolvendo os responsáveis pelo conteúdo da Internet, aqueles que provêm acesso, a mídia (televisão, gravadoras, cinema e imprensa escrita) e a indústria de software. Pensando bem, com tanto fogo cruzado, é melhor ficar dentro do castelo.

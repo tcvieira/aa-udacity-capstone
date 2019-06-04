@@ -1,0 +1,18 @@
+Guerra virtual na porta 80
+Equipes de segurança precisam conhecer as armas utilizadas pelo inimigo virtual. Por Denny Roger
+
+As empresas estão vivenciando uma verdadeira guerra virtual. Os inimigos são os funcionários insatisfeitos, concorrentes, crackers etc. Os ataques ocorrem dia e noite. O bombardeio virtual chega em e-mails, sistema de gestão empresarial, pen drives, celulares, sites com conteúdos maliciosos (scripts e vírus), vazamento de informações de uso interno entra outros meios.
+
+No campo de batalha, o inimigo é facilmente detectável. Ele usa tanques de guerra, joga bombas utilizando aviões, lança mísseis e realiza ataques através de submarinos.
+
+Quando se trata do mundo corporativo, o inimigo está dentro da empresa na maioria das vezes. O ataque utilizando o ambiente virtual podem ser difíceis de detectar, especialmente quando originado por um funcionário.
+
+No mundo real os soldados são treinados para atirar no inimigo e lutar durante um combate. No virtual as equipes de TI e segurança da informação (os soldados) não são treinadas para lutar durante a guerra virtual. Pior ainda, em muitos casos não sabem que estão sendo atacados.
+
+Ataques como SQL Injection e Cross Site Scripting são realizados com sucesso e não são detectados pelos soldados da sua empresa. Segundo o MITRE, estas duas técnicas são as que mais exploram vulnerabilidades nas aplicações. Ou seja, os soldados da sua empresa estão preocupados em gerenciar firewalls, antivírus e sistemas de detecção de intrusos. Porém, os ataques estão passando pela porta que está sempre aberta na sua empresa e não é monitorada, a porta 80 (http).
+
+Os soldados do mundo corporativo não foram treinados para se defender de ataques como SQL Injection e Cross Site Scripting. O relatório da Symantec demonstra que 61% das aplicações web estão vulneráveis. O inimigo sabe disso e está utilizando a própria porta 80 para atacar a sua empresa.
+
+Segundo o relatório anual do SANS, as vulnerabilidades nas aplicações estão liderando o ranking de riscos no mundo virtual.
+
+As equipes de TI e segurança da informação precisam ser treinadas para detectar e responder aos ataques nas aplicações. As empresas precisam ser conscientizadas sobre este risco do mundo virtual. Não se esqueça: você precisa conhecer as armas utilizadas pelo inimigo para aplicar a proteção e a detecção adequadas.  Não adianta ir para a guerra com uma faca na mão enquanto o inimigo está utilizando um taque armado com mísseis e metralhadoras.

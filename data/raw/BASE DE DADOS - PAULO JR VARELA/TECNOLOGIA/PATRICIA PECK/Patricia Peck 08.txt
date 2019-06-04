@@ -1,0 +1,44 @@
+Natal seguro na web
+Confira dicas para se proteger nas compras de fim de ano pela internet. Por Patrícia Peck
+
+Na era do conhecimento, é justamente a informação a melhor forma de proteção do consumidor online. No entanto, ainda é comum, a compra por impulso, a partir de uma “oferta imperdível” oriunda de um buscador de preços, onde o internauta clica sem saber qualquer informação sobre a loja e acaba caindo no golpe da loja fantasma virtual. Nesta época de fim de ano, de compras de natal, é fundamental ter alguns cuidados.
+
+Embora o Código de Defesa do Consumidor (CDC) seja datado de 15 de março de 1990, ainda há muitas regras que não são cumpridas. Além disso, entram em vigor em dezembro as mudanças no Serviço de Atendimento ao Consumidor (SAC), trazidas pelo Decreto 6523/2008.
+
+Quando tratamos da questão do consumidor na internet, há toda uma série de indicadores que devem ser cumpridos para evitar riscos legais entre as partes (previstos inclusive em um selo inédito no mercado chamado Venda Legal).
+
+Primeiramente, a loja virtual precisa ter informações claras e objetivas. Isso deve ser apresentado de forma fácil no site, com uso de Termos e Políticas, bem como através de um canal de contato eficiente (por e-mail ou telefone). Também é boa prática a apresentação de informações sobre número de CNPJ, endereço físico (não apenas o virtual) e alvará de licença. São informações mínimas de que a loja de fato existe legalmente e não é nem ilegal nem fantasma, sendo esta última muito comum para dar golpes nos consumidores desavisados que vão atrás só da oferta de preço mais baixa e não se preocupam em verificar se de fato a loja existe.
+
+Além disso, a maior parte dos contratos eletrônicos é do tipo “adesão” (art. 54 do CDC). Logo, é fundamental que o mesmo seja objetivo, claro, tenha descrito claramente todas as condições essenciais do produto/serviço, com detalhamento técnico quando necessário, bem como apresente regras claras sobre cancelamento, troca, devolução, desistência (art. 49 caput e parágrafo único).
+
+Cabe a empresa prestar as informações da forma certa, com guarda de ciência (ex: guardar o log da tela com barreira de navegação, fazer envio automático do contrato para o email cadastrado do cliente), e do outro lado, cabe ao cliente ler o mesmo. Não caberá ao consumidor alegar que “viu, mas não leu”. Deve-se ter muito cuidado com o uso de cláusulas que eximem responsabilidade (arts. 25, 28, 50, 51 do CDC).
+
+Há situações corriqueiras em que não fica claro por parte da empresa como o cliente deve resolver o seu problema, tais como:
+
+a) um cliente comprar um produto e não saber para onde mandar o mesmo para fazer a troca, pois a loja só tem domínio e email, não tem endereço físico; 
+
+b) o cliente compra um software, faz o donwload, e depois o computador ter um problema de vírus e precisa formatar o equipamento, mas não está claro na licença se o cliente poderia receber novamente o software para mera reinstalação, já que não pode pegar do backup;
+
+c) o estudante contrata um curso a distância e durante a execução do mesmo adoece e quer saber se poderá fazer em outro momento ou receber o dinheiro de volta.
+
+Em situação de dúvida, a lei vai proteger o consumidor, e interpretar que houve omissão ou má prestação de informação por parte do vendedor, o que faz com que o mesmo assuma o risco e a responsabilidade pelo incidente (art. 47 do CDC).
+
+A questão da informação que está publicada também traz conseqüências mais graves na era da internet, visto que quando está na web, está no mundo e responsabiliza a empresa (art. 35 do CDC), a não ser que seja caso de caso fortuito ou força maior, ou que envolva situação de valor irrisório e enriquecimento ilícito do consumidor.
+
+Finalmente, o consumidor deve ficar atento à questão da proteção dos seus dados (política de privacidade e uso de certificados de segurança são essenciais).
+ 
+Dicas para ter um Natal mais seguro na Web:
+
+    * Verificar os dados cadastrais da domínio no site www.registro.br (endereço, telefone, CNPJ e responsável que aparecem);
+    * Fazer uma rápida busca na internet para ver se o site está com alguma denúncia no Procon, em sites como Reclame Aqui ou em outras comunidades online. Analisar estas informações com cautela, pois muitas vezes o problema já foi resolvido mas continua publicado;
+    * Verificar se o site apresenta dados de telefone e endereço físico, além de e-mail;
+    * Verificar se o site possui algum certificado de segurança;
+    * Verificar se o site possui termos e políticas claras (compra e venda, termo de uso, troca ou devolução, cancelamento, privacidade, segurança, direitos autorais);
+    * Verificar se no preço já estava incluso o frete;
+    * Verificar se o site apresenta informações claras e completas sobre o produto/serviço, se a foto (imagem) corresponde à realidade ou é meramente ilustrativa;
+    * Verificar se o site possui rastreamento do pedido (e se o cliente recebe o número para acompanhar);
+    * Verificar se o site apresenta lista de parceiros para assistência técnica (quando aplicável);
+    * Recomenda-se testar o site antes mandando um e-mail de dúvida e pedindo para confirmar algumas informações. Se não for respondido, imagine se fosse uma reclamação;
+    * Quando possível optar por um pagamento após a entrega (que ocorre quando se paga com cartão de crédito) ou por pagamento contra-entrega, evitando depósito direto em conta antecipado;
+    * Deve-se guardar algumas evidências eletrônicas para apoiar em eventual investigação ou ação judicial (ex: print das telas e e-mails trocados);
+    * Havendo problema, deve-se formalizar o mesmo (ciência do fornecedor) através de e-mail de reclamação ou contato pelo SAC (isso evita a decadência do direito, art. 26, parágrafo 2º., inc. I, do CDC).

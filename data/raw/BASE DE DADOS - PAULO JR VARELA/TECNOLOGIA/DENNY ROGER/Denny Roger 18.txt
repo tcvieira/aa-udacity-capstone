@@ -1,0 +1,30 @@
+Perícia forense em ação
+Denny Roger dá exemplos de técnicas para investigar crimes em sistemas de empresas.
+
+Quer saber se um funcionário da sua empresa está realizando algum tipo de fraude? Se está acessando informações confidenciais e compartilhando com seus colegas de trabalho? Deseja recuperar e-mails ou arquivos apagados? Então, seja bem-vindo ao mundo da perícia forense no ambiente corporativo.
+
+Imagine a seguinte situação: Algum funcionário consegue acessar um arquivo referente à folha de pagamento da empresa. O funcionário copia este arquivo para o pen drive. A empresa possui uma política onde é permitido o uso do pen drive. A maioria dos funcionários utiliza a mesma marca/modelo deste dispositivo.
+
+O funcionário altera o nome e a extensão do arquivo para que a equipe de auditoria e Segurança da Informação não encontre a evidência do crime. A folha de pagamento chama-se agora winpag.dll. O funcionário “esconde” este arquivo no diretório C:\WINDOWS\system32 do Windows XP.
+
+Como provar que o arquivo foi renomeado ou alterado? Como procurar o arquivo em uma rede com 3.000 computadores? Como provar quais usuários acessaram a informação? Como provar quais os pen drives utilizados para copiar o arquivo?
+
+As técnicas de investigações de crimes realizados no ambiente computacional estão cada vez mais sofisticadas. Atualmente é possível vasculhar uma rede com 3 mil computadores em poucos minutos a procura de evidências do delito.
+
+Quando a empresa começa a suspeitar de um funcionário, a equipe de segurança ou auditoria rapidamente vai até o computador deste funcionário e inicia o procedimento de perícia – fazendo “uma imagem do HD”. Neste momento, o funcionário percebe que irão tentar identificar alguma evidência em seu computador. Automaticamente, este funcionário irá “sumir” com todas as provas que conseguir. É claro, estão escondidas em alguns pen drives pela empresa (e não no HD) e também no diretório C:\WINDOWS\system32 do Windows XP como winpag.dll.
+
+A equipe que realiza a perícia procura por evidências em e-mails e arquivos que foram apagados, arquivos do Word, Excel etc. Porém, os especialistas não encontram a informação que estavam procurando. Devolvem o computador para o usuário e ficam monitorando seus e-mails e acesso à internet.
+
+Este procedimento foi executado em cinco dias. Foram três dias para carregar a imagem de um HD com 120 Gigabytes e mais dois dias para procurar as evidências, sem sucesso.
+
+Atualmente é possível realizar o trabalho de perícia de forma remota, sem que o funcionário saiba que o seu computador está sendo investigado. Inclusive o computador pode estar em qualquer local do mundo. Se estiver conectado à internet é possível investigá-lo de forma remota.
+
+A equipe de auditoria e segurança da informação pode acessar em segundos, o que antes exigia dias de trabalho. É possível identificar qual o pen drive utilizado para copiar as informações. Inclusive, é possível identificar em “tempo real” quando este pen drive for conectado na rede novamente. Os especialistas conseguem provas com valor jurídico, detalhando em quais computadores o pen drive foi conectado e em quais computadores a informação estava “escondida”.
+
+Sua empresa também pode determinar quais informações devem ser protegidas contra fraudes e monitorá-las de forma pró-ativa. Ou seja, vamos ter provas jurídicas contra qualquer tipo de violação das políticas da empresa.
+
+Este tipo de perícia de forma remota no ambiente computacional é necessidade básica para qualquer empresa. Inclusive para empresas que possuem escritórios em outros Estados ou até mesmo em outros países. Não podemos nós esquecer dos funcionários que utilizam laptops da empresa. Em qualquer lugar que esses laptops estiveram conectados à internet, a equipe de segurança e auditoria poderá analisar e conseguir provas com valor legal sobre algum tipo de crime ou fraude.
+
+Não se esqueça. O procedimento de perícia forense não irá alterar qualquer informação no computador do funcionário. Este computador será investigado de forma remota e caso seja necessário, a equipe de auditoria ou segurança irá gerar uma imagem apenas das evidências que serão investigadas e não de todo o HD. Tudo de forma remota e com valor jurídico.
+
+Sejam bem-vindos aos novos tempos da perícia forense aplicada a informática.

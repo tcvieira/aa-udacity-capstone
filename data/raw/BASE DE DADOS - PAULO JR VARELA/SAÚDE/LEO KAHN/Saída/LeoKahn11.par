@@ -1,0 +1,14 @@
+LeoKahn11
+516 516 255 426 250 22 192 5000000 6 0 0 0 0
+
+*** Résultat de la segmentation du fichier: LeoKahn11.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         426
+ 	nombre des formes      :         250
+ 	frequence maximale     :          22
+ 	nombre des hapax       :         192
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      LeoKahn11.TXT ***

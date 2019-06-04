@@ -1,0 +1,22 @@
+Vírus para celular
+Será que eles são a próxima ameaça de segurança. Saiba como se propagam. Por Denny Roger.
+
+O uso de redes sem fio está aumentando significativamente, ganhando cada vez mais importância na vida das pessoas. A tecnologia wireless mais comum e conhecida é a da telefonia celular.
+
+Antigamente os problemas de segurança mais comuns encontrados na telefonia celular eram com relação à clonagem dos aparelhos. Atualmente, os usuários da telefonia celular passam a correr novos riscos de segurança. A ameaça que vem chamando a atenção de usuários em todo o mundo e dos especialistas em segurança da informação chama-se "vírus para telefones celulares".
+
+O primeiro vírus para celulares foi descoberto em junho de 2004. Conhecido como Cabir, o vírus foi projetado para infectar telefones celulares que utilizam o sistema operacional Symbian.
+
+Apesar de o primeiro vírus ter sido detectado pela primeira vez nas Filipinas, o vírus para telefone celular mais famoso do mundo foi criado no Brasil. O vírus brasileiro conhecido como Velasco foi desenvolvido como prova de conceito e não causa danos ao telefone celular. O vírus Velasco ficou famoso porque pode ser transferido do computador para o celular, de celular para celular (por meio da troca de programas) ou no caso do telefone celular estar infectado o vírus fica procurando outros celulares para propagar-se.
+
+A matéria "Prepare-se para pedir uma pizza e pagar o táxi usando o celular" publicada no IDG Now! levantou um assunto que já está sendo tratado por especialistas em segurança da informação: É possível, utilizando um vírus para telefone celular, roubar a senha utilizada pelo usuário no momento do pagamento através do telefone celular?
+
+Vamos entender como o telefone celular pode ser infectado por um vírus.
+
+As primeiras infecções ocorreram através da tecnologia Bluetooth (tecnologia sem fio desenvolvida para transmissão de dados). É possível infectar diversos celulares (que utilizam a tecnologia Bluetooth) em um raio de 50 metros. A segunda forma de infecção ocorreu através de mensagens MMS (mensagens multimídias). A terceira forma, publicada como prova de conceito, o telefone celular pode ser infectado quando conectado ao computador.
+
+Os vírus podem ser desenvolvidos para desativar completamente um telefone celular, descarregar a bateria, fazer ligações para 190, apagar todos os contatos do aparelho e também roubar a senha utilizada pelo usuário para autorizar um pagamento via telefone celular.
+
+É importante lembrar que para infectar um telefone celular com sucesso, é necessário que sejam descobertas vulnerabilidades no sistema operacional utilizado no telefone celular ou nos softwares instalados no aparelho. 
+
+A ameaça de roubar a senha digitada no telefone celular é real. Acredito que quando os "bandidos virtuais" começarem a investir seus esforços na criação de vírus para celulares, as empresas que desenvolvem a tecnologia dos telefones deverão trabalhar na contramedida de segurança. Isso é muito comum. Ou seja, primeiro ocorre o problema, gerando um prejuízo financeiro. Depois as empresas começam a desenvolver a solução para o problema.

@@ -1,0 +1,11 @@
+Inversor de voltagem
+Rodrigo Baleia - 07/04/2009
+
+
+Cada dia que passa, se torna mais frequente nos depararmos com baterias descarregadas seja do laptop, da câmera fotográfica ou do celular. Em meu trabalho dependo diretamente de equipamentos eletrônicos. Se algum deles deixar de funcionar, meu trabalho será comprometido.
+
+
+Em uma estrada da Amazônia ou dentro de um carro em um grande centro, seguindo para o trabalho, podemos ser vítimas das baterias descarregadas. Para solucionar esses problemas, há duas opções: a primeira é comprar baterias extras para cada equipamento; e a segunda, adquirir adaptadores e carregadores que utilizem uma fonte de energia alternativa (no caso12 Volts). No entanto, para ambos os casos eu teria um elevado custo financeiro, peso e volume extras.
+
+
+Mas, há uma terceira solução: um simples inversor que transforma energia de 12 Volts para 110 Volts. O modelo Smart AC 120 USB  é um  pequeno aparelho que possibilita ter 110 Volts e 120 Volts a partir de uma fonte de energia 12 Volts (uma bateria de carro, por exemplo), transformando o interior de um carro em um "escritório". Com esse inversor, é possível ligar o computador, recarregar pilhas e baterias ( IMPORTANTE: cada inversor tem um limite de sobrecarga). Esse aparelho traz praticidade e liberdade, pois nos dias de hoje poder seguir viagem sem ter que buscar uma tomada ou melhor ter uma tomada 110 Volts ao seu lado pode fazer muita diferença. 

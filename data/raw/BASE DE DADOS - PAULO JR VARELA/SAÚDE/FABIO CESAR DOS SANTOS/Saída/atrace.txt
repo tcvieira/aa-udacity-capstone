@@ -1,0 +1,11 @@
+LecParam
+
+1219 1219 596 1030 587 46 462 5000000 9 0 0
+Allocation de la mémoire :
+Allocation de lexm réussie, 9552 octets
+Allocation de tnum réussie, 4876 octets
+Allocation de ftext réussie, 23880 octets
+Allocation de list réussie, 184 octets
+Entrée dans OpenDicNum
+Dictionnaire numérisé : FabioCesardosSantos14.dic
+Entrée dans OpenTextNum

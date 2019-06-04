@@ -1,0 +1,24 @@
+A revolução da mobilidade
+O Brasil está pronto para mergulhar na era mobilidade em 2009. Por Eduardo Tude
+
+O Brasil deve terminar 2008 com mais de 150 milhões de celulares e uma densidade de cerca de 80 celulares para cada 100 habitantes. O ano apresentou um crescimento recorde com a incorporação de mais de 30 milhões de celulares à base de clientes das operadoras.
+
+O celular passou a fazer parte do dia-a-dia do brasileiro e transformou a maneira dele se comunicar. O telefone passou a ser pessoal e móvel.
+
+Esta revolução, que ocorreu na comunicação de voz, deve acontecer também no acesso à Internet e em outros serviços de comunicação de dados em 2009.
+
+As operadoras de celular do Brasil estão implantando suas redes 3G e em novembro de 2008 já estavam atendendo a 55,9% da população, estando presentes em 378 municípios. Claro e Vivo vêm disputando a liderança em cobertura 3G e estão atendendo a mais de 200 municípios cada uma.
+
+Os serviços oferecidos com a banda larga móvel 3G podem ser classificados em duas grandes famílias:
+
+Serviços de acesso banda larga móvel para PCs
+Neste caso o acesso à banda larga móvel é feito através de modems 3G ou pela utilização de telefones celulares como modems. Esta é a melhor opção para dar mobilidade a quem utiliza notebooks. O crescimento das vendas de notebooks no Brasil, em 2008, já representara 38% do total de PCs vendidos.
+
+Serviços de dados através do próprio telefone celular
+Pode-se tirar mais proveito destes serviços utilizando-se telefones celulares com maior capacidade computacional e que possuam um sistema operacional (smartphones). A venda de smartphones está crescendo no mundo. No 3º trimestre de 2008, 13% do total de telefones celulares vendidos no mundo eram smartphones. Estão contribuindo para este crescimento o aparecimento de produtos como o IPhone com interfaces que oferecem  uma maior facilidade de uso destes serviços. Existem hoje no mundo 4 vezes mais telefones celulares do que PCs, a expectativa é de que no futuro o celular se transforme no principal dispositivo de acesso a Internet.
+
+As operadoras estão comercializando serviços 3G no Brasil com velocidades de até 1 Megabit por segundo (Mbps). Na tecnologia adotada pelas operadoras brasileiras (WCDMA/HSDPA), a velocidade de pico pode chegar a até 7.2 Mbps. Com novas tecnologias como o LTE (Long Term Evolution) esta velocidade irá chegar a 100 Mbps.
+
+Este cenário deverá contar ainda com o reforço das redes Wimax. A Anatel deve licitar as freqüências de 3,5 GHz em 2009 com a possibilidade de oferecer serviços móveis. O Wimax foi reconhecido pela UIT como um padrão de 3G.
+
+As cartas estão na mesa para que a revolução da mobilidade em serviços de dados aconteça no Brasil em 2009.

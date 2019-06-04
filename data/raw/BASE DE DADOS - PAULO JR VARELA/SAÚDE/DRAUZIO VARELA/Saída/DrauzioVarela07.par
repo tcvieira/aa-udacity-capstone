@@ -1,0 +1,14 @@
+DrauzioVarela07
+607 607 294 500 288 30 221 5000000 7 0 0 0 0
+
+*** Résultat de la segmentation du fichier: DrauzioVarela07.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         500
+ 	nombre des formes      :         288
+ 	frequence maximale     :          30
+ 	nombre des hapax       :         221
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      DrauzioVarela07.TXT ***

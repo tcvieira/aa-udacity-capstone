@@ -1,0 +1,14 @@
+LeoKahn02
+819 819 395 703 389 29 307 5000000 7 0 0 0 0
+
+*** Résultat de la segmentation du fichier: LeoKahn02.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         703
+ 	nombre des formes      :         389
+ 	frequence maximale     :          29
+ 	nombre des hapax       :         307
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      LeoKahn02.TXT ***

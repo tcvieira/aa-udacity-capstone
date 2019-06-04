@@ -1,0 +1,14 @@
+SergioRedes10
+528 528 276 461 272 15 208 5000000 5 0 0 0 0
+
+*** Résultat de la segmentation du fichier: SergioRedes10.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         461
+ 	nombre des formes      :         272
+ 	frequence maximale     :          15
+ 	nombre des hapax       :         208
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      SergioRedes10.TXT ***

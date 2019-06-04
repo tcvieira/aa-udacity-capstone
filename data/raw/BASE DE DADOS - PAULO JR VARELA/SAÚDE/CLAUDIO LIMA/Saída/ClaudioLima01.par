@@ -1,0 +1,14 @@
+ClaudioLima01
+564 564 300 485 292 21 224 5000000 9 0 0 0 0
+
+*** Résultat de la segmentation du fichier: ClaudioLima01.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         485
+ 	nombre des formes      :         292
+ 	frequence maximale     :          21
+ 	nombre des hapax       :         224
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      ClaudioLima01.TXT ***

@@ -1,0 +1,30 @@
+A nova cyberperiferia
+Atenção profissionais de marketing: atendente de Lan House virou canal de distribuição. Por Marcelo Coutinho
+
+O extraordinário crescimento do uso das tecnologias digitais pelas classes populares no Brasil vai obrigar as empresas envolvidas em toda a cadeia da comunicação a repensarem as ameaças e oportunidades de negócios nos próximos anos. Essa foi uma das principais conclusões do debate de Carla Barros, Fábio Seixas, Osvaldo Barbosa e Ronaldo Lemos no Digital Age 2.0 da semana passada. 
+
+Uma análise do banco de dados agregados do IBGE entre 2003 e 2007 ajuda a quantificar o fenômeno. O número de domicílios que possuem um computador com acesso à Web passou de 5,7 milhões em 2003 para 11,3 milhões no ano passado.
+
+Separando este crescimento por faixas de renda, o número de domicílios com acesso entre as camadas mais ricas (rendimento acima de 10 salários mínimos), passou de 3,2 milhões para 3,8 milhões no mesmo período, chegando mesmo a diminuir entre os domicílios que apresentam rendimentos acima de 20 salários mínimos (embora esta queda precise ser relativizada por conta do aumento real do salário mínimo no período –em termos percentuais, nesta faixa de renda, passamos de 71% para 83% de domicílios com conexão).
+Microcomputadores com acesso à Internet
+Domicílios Particulares Permanentes
+
+tabela_coutinho_rendimento
+
+Já o número de domicílios com acesso, com rendimento até 10 salários mínimos mais do que triplicou, passando de 2,1 milhões para 6,8 milhões –um crescimento de 217% em 4 anos! A esse fenômeno precisamos adicionar também o crescimento do acesso em Lan Houses –segundo Carla Barros, da ESPM, somente na favela da Rocinha existem cerca de 150 lan-houses, incluindo quartos ou “puxadinhos” com 4 ou 5 computadores em cada um.
+
+Quando observamos os dados do Comitê Gestor, verificamos que as classes populares apresentam um uso menos variado da Internet do que as camadas mais ricas, exceto em 2 aspectos: comunidades sociais e games. De acordo com Osvaldo Barbosa, da Microsoft, elas também utilizam menos comunicadores instantâneos como o MSN Messenger, mas ainda assim sua taxa de utilização é elevada: 60%.
+
+São justamente estas tendências que fazem prever um uso ainda mais acentuado das diversas tecnologias digitais da Web 2.0, na qual o Brasil já é um dos líderes: de acordo com a pesquisa “Social Media Research”, da Universal McCann, que entrevistou 17 mil pessoas em 29 países, o Brasil é um dos líderes na leitura diária de blogs (52%, contra 31% da média mundial), atualização frequente de páginas pessoais em redes sociais (57% dos internautas) e upload de vídeos (68% dos internautas brasileiros já fizeram, contra 25% dos americanos).
+
+Algumas das implicações destas tendências podem ser vistas em Belém do Pará, onde uma pesquisa da FGV sobre Open Business Models mostrou a existência de uma vasta rede de produção musical sustentada inteiramente na distribuição de conteúdo gratuito.
+
+De acordo com Ronaldo Lemos, coordenador da pesquisa e co-autor do livro “Tecnobrega: o Pará reinventando o negócio da música”, bandas deste ritmo bastante popular no Norte e entre as camadas de baixa renda das grandes cidades (a banda Calypso é a mais conhecida do Brasil, segundo outra pesquisa da FGV) distribuem CDs gratuitamente entre os camelôs de Belém, para que eles os revendam por baixo preço ou mesmo distribuam como “brinde” para seus fregueses. Esses CDs se encarregam de popularizar as bandas, que cobram entre R$ 5.000 e R$ 10.000 para fazer um show ou animar uma festa. Número de festas mensais realizadas no Pará com apresentações destas bandas: 850. Façam as contas e repitam a pergunta que alguns destes artistas fizeram para os pesquisadores da FGV: “quem precisa de uma gravadora?”.
+
+Segundo Lemos, o mesmo modelo se repete com a indústria do cinema na Nigéria, a terceira maior do mundo, depois de Hollywood e Bombaim. Já são mais de 20 mil (!) filmes de baixo custo, realizados com equipamentos semi-profissionais ou mesmo amadores, sem apoio de grandes estúdios, que mesclam o folclore africano com temas atuais, distribuídos através de 5 canais diferentes para toda África e Caribe.
+
+Outro dado interessante apresentado na discussão: atendente de Lan-House em favela virou formador de opinião. Segundo Carla Barros, é comum nesses ambientes os atendentes indicarem, principalmente para pessoas de mais idade, os sites mais interessantes para visitar. E como existe um grande número de pessoas com tocadores MP3 ou celulares com esta capacidade, estes atendentes também indicam as músicas e bandas mais interessantes para serem ouvidas. Ela mencionou o caso de uma Lan House aonde o atendente era fã de Pearl Jam e acabou por influenciar o gosto de todos os freqüentadores do estabelecimento. Alô alô pessoal da área de trade marketing de hardware, software e outros produtos consumidos por jovens de baixa renda: vocês já tem uma “gerência de canal” para os atendentes de Lan House?
+
+Uma das conclusões dos debatedores foi a de que as ferramentas digitais estão possibilitando a essa imensa camada da população brasileira viabilizar comercialmente produtos, serviços, conteúdos e formatos de distribuição que ainda foram muito pouco explorados pela publicidade tradicional, ainda voltada para o modelo “Broadcast”.
+
+É hora de começarmos a pensar em novos paradigmas, como o “Socialcast”,  um modelo de comunicação no qual muitos falam (e dialogam) com muitos. A periferia, ao menos no mundo digital, se encaminha para o centro. Se não embarcarem neste movimento, como lembrou Ronaldo Lemos, quem vai acabar virando “periferia”, ao menos na Internet, são as empresas e organizações que não ousarem desenvolver novos modelos de negócios.

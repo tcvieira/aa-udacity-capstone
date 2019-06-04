@@ -1,0 +1,12 @@
+Bit.ly substitui TinyURL como padrão no Twitter para URLs curtas
+
+Sites para encurtar URLs tornaram-se uma verdadeira mania após a massificação do uso do Twitter , que com seus 140 caracteres de espaço para cada Tweet, fez com que as pessoas procurassem formas para incluir mais informações em suas curtas mensagens.
+
+Esse mercado é dominado já algum tempo pelo serviço TinyURL (veja levantamento da Hitwise) e foi o padrão do Twitter até a semana passada, quando muitos notaram que o TinyURL foi substituído pelo bit.ly.
+
+
+Esta mudança deve trazer um forte impacto na audiência de ambos os sites. Se observamos os gráficos de crescimento dos três serviços mais populares (TinyURL, bit.ly e ow.ly) podemos perceber que o líder já não está mais com essa bola toda, apesar de ainda ser o rei na quantidade total de visitas, pois os concorrentes estão mostrando as garras. A reduzida taxa de crescimento do TinyURL pode ser parcialmente atribuída ao fato de que apenas a metade do seu tráfego foi de novos visitantes (aqueles que não visitaram nos últimos 30 dias), diferente dos outros serviços que tem capturado milhares de novos usuários a cada dia.
+
+Globalmente, será difícil medirmos o impacto real dessa mudança promovida pelo Twitter, principalmente pelo uso de plug-ins em navegadores e aplicações desktop, que não precisam acessar o site bit.ly. No entanto, o Twitter é o principal gerador de tráfego para esse tipo de serviço e o bit.ly deverá corroer audiência dos seus concorrentes.
+
+Pessoalmente, eu gosto mais do bit.ly do que do TinyURL. O bit.ly possui muitas funcionalidades relacionadas a estatísticas que os outros não tem como, por exemplo, registrar quantas pessoas clicaram no seu link. E quando você precisa de métricas de acesso isso se torna fundamental.

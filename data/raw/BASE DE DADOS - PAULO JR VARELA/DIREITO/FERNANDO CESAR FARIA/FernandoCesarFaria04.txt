@@ -1,0 +1,27 @@
+A Súmula 691 do Supremo Tribunal Federal: superação (às vezes) ou necessidade de cancelamento?
+
+Caros leitores do PD (Pensando Direito, daqui para frente vou abreviar), certamente aqueles que são mais afeiçoados com o sistema repressivo pátrio já devem conhecer este esdrúxulo enunciado do STF. A redação é a seguinte: “não compete ao Supremo Tribunal Federal conhecer de “habeas corpus” impetrado contra decisão do relator que, em “habeas corpus” requerido a tribunal superior, indefere a liminar”. Desta forma, se a liminar em “habeas corpus” for indeferida no STJ, p. ex., não caberá renovação do “writ” no STF, porquanto não seria conhecido. Essa é o conteúdo (resultado) do enunciado.
+
+A aludida súmula é pouco explorada (combatida) pela doutrina. Entretanto, a nosso aviso, ela não cumpre mais seu sentido “sumular”. Sabem o porquê? Basta termos em mente o que venha a ser súmula.
+
+Bom, em linha gramatical, súmula seria “brevíssimo resumo”, “epítome doutrinal”. Na visão posta em “nosso Direito”, súmulas são enunciados criados por Tribunais (Estaduais, Federais e Superiores) com feição de diretriz aos magistrados a decidir os casos que são postos ao seu julgamento. Não estamos a falar das “súmulas adjetivadas (super poderosas)”, as súmulas vinculantes, estas sim, segundo a Lei Fundamental, de observância obrigatória. Estamos a comentar a chamada súmula de jurisprudência, entendendo, como tal, aquela decorrente de jurisprudência assentada pelos Tribunais.
+
+Com efeito, característica fundamental que todas as súmulas possuem é a de encerrar discussões que o Tribunal tem por ociosas à vista dos precedentes e na extensão deles extraída (estas últimas palavras são, Justiça seja feita, do Mestre Victor Nunes Leal).
+
+Registra-se que essa característica é conditio sine qua non para a validade da súmula, como matriz hermenêutica. Se faltar, é porque não se há matriz nenhuma.
+
+No caso da súmula 691, do STF, tal diretriz hermenêutica não está mais prevista. É que, como é cediço, nosso Supremo Tribunal Federal, ainda que em caráter extraordinário, tem admitido o seu afastamento, hic et nunc, em hipóteses nas quais a decisão questionada divirja da jurisprudência predominante desta Corte ou, então, veicule situações configuradoras de abuso de poder ou de manifesta ilegalidade, nesse sentido, caso queira conferir: (HC 85.185/SP, Rel. Min. CEZAR PELUSO – HC 86.634-MC/RJ, Rel. Min. CELSO DE MELLO – HC 86.864-MC/SP, Rel. Min. CARLOS VELLOSO – HC 87.468/SP, Rel. Min. CEZAR PELUSO – HC 89.025-MC-AgR/SP, Rel. Min. JOAQUIM BARBOSA – HC 90.112-MC/PR, Rel. Min. CEZAR PELUSO – HC 94.016/SP, Rel. Min. CELSO DE MELLO – HC 96.095/SP, Rel. Min. CELSO DE MELLO – HC 96.483/ES, Rel. Min. CELSO DE MELLO, p.ex.).
+
+E aqui nos cabe comentar o leading case HC 85.185/SP. Neste julgamento (DJ de 1º/9/2006), o Tribunal Pleno rejeitou a proposta de cancelamento da súmula 691, formulada pelo relator, e reconheceu a possibilidade de atenuação do enunciado para a hipótese de flagrante constrangimento ilegal.
+
+O relator do caso foi o Min. Cezar Peluso, tendo votado pelo cancelamento do verbete sumular. Suas razões foram: a) O art. 5º, inc. LXVIII, da Constituição da República assevera que “conceder-se-á ‘habeas corpus’ sempre que alguém sofrer…”; b) O art. 649 do CPP estatui que “O juiz ou o tribunal, dentro dos limites da sua jurisdição, fará passar imediatamente a ordem impetrada, nos casos em que tenha cabimento, seja qual for a autoridade coatora” e c) O art. 102, I, “i” que “o habeas corpus, quando for o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância”.
+
+As disposições falam por si só. No primeiro caso, a palavra “sempre” não deixa dúvida que o direito fundamental de “livrar-se” ilegalidade ou abuso de poder que está a ferir a liberdade da pessoa física. No segundo caso, com mais incisão, averba que seja qual for a autoridade que está a proporcionar a ilegalidade ou abuso de poder, caberá a ordem de “habeas corpus”. Finalmente, em seu lapidar voto, o Min. Peluso, aduz que o art. 102, I, “i” determina a competência do STF para julgar “habeas corpus” quando o coator for Tribunal Superior.
+
+Sendo assim, ao que nos parece, o entendimento do STF é no sentido de em algumas ocasiões (as que representem decisões teratológicas ou que veiculem situações configuradoras de abuso de poder ou de manifesta ilegalidade), será possível flexibilizar a aplicação (ou não) da súmula 691 daquela Corte.
+
+A pergunta que ouso colocar aos senhores é: se o requisito para a superação é a que a decisão configure abuso de poder ou manifesta ilegalidade, qual seria o requisito de admissibilidade (verdadeira) do “habeas corpus”, não seria exatamente isso, conforme deflui do mandamento constitucional inscrito no art. 5º, inc. LXVIII, da Constituição da República e 647 e seguintes do Código de Processo Penal?
+
+Mais uma: como se concebe flexibilização de súmula?
+
+Perguntas que ficam no ar, “a espera de um milagre” que, tomara, nos mantenha longe de um Direito Sumular, verdadeiramente avassalador de direitos e garantias fundamentais que há pouco se encontram impregnados no devido processo criminal.

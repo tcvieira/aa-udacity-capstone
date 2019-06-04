@@ -1,0 +1,14 @@
+LeoKahn13
+570 570 295 453 289 28 234 5000000 7 0 0 0 0
+
+*** Résultat de la segmentation du fichier: LeoKahn13.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         453
+ 	nombre des formes      :         289
+ 	frequence maximale     :          28
+ 	nombre des hapax       :         234
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      LeoKahn13.TXT ***

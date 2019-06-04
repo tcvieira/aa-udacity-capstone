@@ -1,0 +1,32 @@
+Roubo de senhas
+Denny Roger relata as técnicas mais utilizadas para roubo de senhas. Saiba como proteger a sua.
+
+Nos primeiros seis meses de 2009, recebi 87 relatos referentes ao roubo de senhas. A principal dúvida das vítimas não está relacionada à identificação do “ladrão virtual”. A questão principal foi como recuperar uma senha roubada.
+ 
+Imagine a seguinte situação: você tenta acessar o seu e-mail pessoal e recebe a mensagem de “senha inválida”. Após várias tentativas de acesso, você suspeita que alguém alterou a sua senha, tenta utilizar o recurso de “recuperação de senha” mas a tentativa não funciona. E agora, o que fazer?
+ 
+Ao longo das próximas horas, você tenta fazer contato com o administrador do servidor de e-mail para que a senha seja recuperada. Para piorar as coisas, o seu e-mail é de um serviço gratuito de webmail como Gmail ou Hotmail, por exemplo. Você não consegue localizar um telefone ou e-mail de contato para solicitar a ajuda. E agora?
+ 
+Como roubaram a minha senha?
+Por incrível que pareça, existem diversas técnicas para roubar senhas de internet banking, e-mail, intranet, banco de dados, redes sociais como Facebook, LinkedIn, MySpace, Orkut etc. Conheça as técnicas mais utilizadas para roubo de senhas.
+ 
+Adivinhação de senhas: esta é a técnica mais comum. Alguém tenta descobrir a sua senha digitando, por exemplo, o número do telefone celular, o nome do marido ou da esposa, data de nascimento, placa do carro, nome do time de futebol, palavras relacionadas a palavrões, sexo etc.
+ 
+Neste momento, lembramos que é obrigatório, na maioria dos sistemas, escolhermos uma senha complexa. Não é uma questão de gosto ou de elegância. Para a segurança da informação, o ato de criar uma senha “forte” é, basicamente, a primeira linha de defesa. Mas isso realmente resolve o problema?
+ 
+Pescaria de senhas: algum parente ou companheiro já tentou descobrir a sua senha observando o que você está digitando? Isso é a pescaria de senhas. Outra maneira é procurar por senhas anotadas em papéis ou armazenadas no aparelho celular. Você anota as suas senhas em um papel ou as armazena no celular? Então tome muito cuidado com os pescadores de senhas.
+ 
+Programas espiões: são ferramentas online utilizadas para roubar números de agência, conta corrente, senha do teclado virtual etc. Por meio destes programas conhecidos como spywares, tudo o que você digita no teclado é armazenado em um arquivo e enviado para o invasor, remotamente. Essa técnica é bastante difundida porque há conhecimento de muitos casos envolvendo roubo de senhas de internet banking e comunicadores instantâneos.
+ 
+Monitoramento de rede: esta técnica consiste em capturar a sua senha no momento em que a informação trafega pela rede ou pela internet. Programas como o Cain & Abel podem ser utilizados para tentar descobrir a sua senha.
+ 
+Existem outras técnicas mais avançadas que podem roubar a sua senha de diversas maneiras. Porém, não serão consideradas porque o objetivo é discutirmos os ataques mais comuns.
+ 
+Dicas
+Através de uma auditoria podemos identificar quando alguém está tentando adivinhar a nossa senha. Esta identificação ocorre através de uma análise das tentativas de acesso inválidas utilizando o seu usuário. Porém, as empresas não compartilham de forma amigável este tipo de informação com seus usuários.
+ 
+Não utilize computadores compartilhados (por exemplo, em faculdades e Lan Houses) para acessar o seu e-mail, a intranet da sua empresa, a sua página no Facebook etc. A probabilidade de existir um programa espião instalado nestes computadores é grande.
+ 
+Evite anotar a sua senha e criar senhas de fácil adivinhação. Troque a sua senha uma vez por mês. Esta boa prática pode salvar a sua senha mesmo que alguém a tenha roubado.
+ 
+Caso não consiga o apoio necessário da empresa que administra o sistema que controla a sua senha, procure um advogado. Este profissional poderá prover os recursos necessários para que a empresa identifique quem está utilizando a sua senha e também irá permitir que você “recupere” a senha roubada.

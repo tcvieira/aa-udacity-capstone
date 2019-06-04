@@ -1,0 +1,14 @@
+LeoKahn22
+756 756 347 647 341 30 249 5000000 7 0 0 0 0
+
+*** Résultat de la segmentation du fichier: LeoKahn22.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         647
+ 	nombre des formes      :         341
+ 	frequence maximale     :          30
+ 	nombre des hapax       :         249
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      LeoKahn22.TXT ***

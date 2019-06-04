@@ -1,0 +1,31 @@
+Hackers na empresa
+Sem saber, você pode estar conversando ou trabalhando com um hacker. Por Denny Roger
+
+Não se deixe enganar pelas aparências ou pela camaradagem que existe na sua empresa. Você pode estar conversando ou trabalhando com o hacker interno.
+
+O hacker interno é aquele colaborador ou prestador de serviço que busca sempre burlar o esquema de segurança implementado pela empresa. É a pessoa que procura meios e técnicas para acessar o comunicador instantâneo, o webmail etc., que foram bloqueados e proibidos pela alta direção.
+
+Este tipo de atacante é encontrado cada vez mais nas empresas. São pessoas geralmente jovens e com uma cultura onde tudo deve ser permitido.
+
+Vamos conhecer os três principais problemas gerados pelos hackers internos:
+
+1) Uso do comunicador instantâneo para reduzir o custo com telefonia
+O que acontece na prática é a perda de produtividade por estarem sempre conversando com “paqueras”, namorado(a), amigo(a), etc. Também existe o risco de vazamento de informações através deste tipo de tecnologia. Outro fator que contribui para o bloqueio desta ferramenta  combinada ao e-mail pessoal é a invasão de privacidade. A empresa não pode monitorar o e-mail ou o messenger pessoal do seu funcionário. E tudo que não pode ser monitorado deve ser bloqueado.
+
+Mas se a empresa bloqueia o uso do messenger, o hacker interno procura alternativas de acesso, tais como o web messenger (ferramenta que permite o acesso ao comunicador através de uma página web). Já detectei alguns casos onde o web messenger estava programado para capturar o usuário e a senha do messenger. Em muitos casos o hacker interno acredita estar burlando o esquema de segurança da sua empresa, mas na verdade está caindo em uma armadilha virtual.
+
+2) Desespero pelo Orkut
+As empresas lutam contra os hackers internos que buscam formas de acessar a popular rede social do Google. É comum estar explícito na política de segurança da empresa que é proibido o acesso ao Orkut e a outros sites de relacionamento. Porém, algumas pessoas não agüentam ficar algumas horas sem acessar o Orkut e procuram técnicas para burlar o esquema de segurança.
+
+O mais absurdo que consegui detectar foram casos onde o funcionário da empresa entra em contato via telefone com um colega que está em casa ou em outra empresa. Essa pessoa fornece o seu usuário e a senha para o amigo acessar o Orkut. Depois o amigo copia os recados que estão no Orkut e envia os recados para o e-mail corporativo do colega. Ou seja, mesmo com o site do Orkut bloqueado, o hacker interno está acessando os seus recados utilizando o próprio e-mail corporativo.
+
+3) Notebook pessoal no ambiente corporativo
+Os preços dos notebooks estão cada vez mais acessíveis às pessoas de classe média. Podemos perceber um aumento da utilização de notebooks pessoais no ambiente corporativo. Um dos problemas é a disseminação de software pirata, filmes, músicas etc., na rede. O hacker interno utiliza o seu notebook pessoal para distribuir aos colegas de trabalho fotos pornográficas, músicas, filmes, entre outros.
+
+A empresa não pode monitorar o notebook pessoal do seu funcionário, o que faz com que a área de auditoria encontre dificuldades em conseguir evidencias de que o hacker interno está distribuindo arquivos não permitidos no ambiente computacional.
+ 
+É importante a empresa implementar programas de conscientização para minimizar o risco de criar hackers internos. A área de tecnologia ou segurança da informação deve possuir recursos para detectar desvios na política de segurança ou diretrizes da empresa e detectar estes funcionários.
+
+O setor de Recursos Humanos deve sempre conscientizar os funcionários sobre as punições em casos de violações da política de segurança, normas e código de ética.
+
+Deixe bem claro para os funcionários da sua empresa que devem sempre informar a área de auditoria quando descobrirem o hacker interno. Caso contrário a pessoa torna-se cúmplice e também pode sofrer uma punição.

@@ -1,0 +1,55 @@
+As ameaças de 2009
+Smartphones, links, bancos de dados e cartões estão na mira dos crackers. Saiba se proteger.
+
+ameacas_2009_88.jpgEnquanto o volume de fraudes via internet banking caiu de 300 milhões de reais em 2007 para 130 milhões  de reais este ano, o mercado negro de comercialização de informações confidenciais faturou mais de  276 milhões de dólares, o número de malwares triplicou, as redes sociais como Orkut, Facebook e Myspace foram vítimas de ataques de engenharia social.
+
+Em 2008, os crackers provaram que os sistemas de segurança (firewall, antivírus, anti-spam, IDS) utilizados atualmente passam uma falsa sensação de segurança. Quanto mais segurança implementamos, novas técnicas de ataques e fraudes surgem.
+
+Conheça agora as quatro principais ameaças à segurança de dados em 2009 e saiba como se proteger.
+
+1) Falsificação de Links
+Em 2008, as empresas investiram na conscientização de seus funcionários e clientes. O objetivo das campanhas de conscientização foi minimizar o número de incidentes relacionados à engenharia social (arte de enganar as pessoas).
+
+Os crackers estão aprimorando suas técnicas para dificultar a identificação (tecnicamente falando) de uma armadilha online. Ataques conhecidos como link spoofing (falsificação de links) devem aumentar em 2009.
+
+Isso ocorre porque quando você recebe um e-mail, por exemplo, uma das principais dicas para saber que não se trata de um golpe online é passar o mouse sobre o link para conferir se o endereço do website está correto. No caso do "link spoofing", ao passar o mouse sobre o link da mensagem, o internauta verá o endereço correto do website. Porém, ao clicar no link, ele será direcionado para uma página falsa e pode ter um cavalo-de-tróia instalado em sua máquina.
+
+2) Mobilidade ameaçada
+As pessoas estão investindo cada vez mais dinheiro na compra de celulares mais avançados. Os celulares estão sendo utilizados como ferramenta de trabalho para troca de e-mails, programas de mensagem instantânea, SMS, agenda corporativa e armazenamento de informações confidenciais (projetos, fotos etc.).
+
+A migração do computador para o celular já é uma realidade no internet banking também. A nova mobilidade já está na mira do crackers. Em 2009, ocorrerá um aumento de programas espiões para a tecnologia móvel. O objetivo do cracker será conseguir copiar as informações armazenadas no aparelho e roubar a senha do internet banking.
+
+É importante observarmos que os bancos estão migrando toda a tecnologia para acesso aos dados financeiros via celular. O cracker sempre irá explorar o elo mais fraco da corrente e atacar os dispositivos que possuem acesso a conta corrente.
+
+3) Clonagem de cartões de crédito com chip e senha
+Para diminuir os casos de clonagem envolvendo cartões de crédito, os bancos estão disponibilizando para seus clientes o cartão de crédito com chip e senha (PIN). Este novo recurso de segurança criptografa as informações do cliente do banco no chip, aumentando o grau de dificuldade de acesso indevido as informações necessárias para a conclusão da fraude.
+
+Em 2007 surgiram as primeiras provas de conceito demonstrando como clonar um cartão de crédito com chip. A técnica consiste em capturar as informações do cartão de crédito no momento em que ele é introduzido na leitora do chip, extrair todas as informações para um notebook e realizar uma engenharia reversa para reconstruir os dados.
+
+Já existem registros de clonagem de cartão de crédito com chip no Brasil. Alguns clientes corporativos que atendo foram vítimas desta nova técnica. O número de casos deve aumentar com a evolução do dispositivo capaz de realizar a clonagem do chip e também com a redução do custo de “construção” deste equipamento. A evolução do equipamento que clona o chip permitirá que pessoas não especializadas comecem a aplicar o golpe também.
+
+Ataques em banco de dados e sistemas de gestão
+O número de ataques nas aplicações tem aumentando constantemente. A Oi foi uma das mais recentes vítimas de um ataque na aplicação de seu website. 
+
+Em 2009, as empresas irão sofrer um aumento de ataques bem-sucedidos em seus sistemas porque estão surgindo softwares que automatizam os ataques na camada de aplicação. e já não será preciso ser um expert para promovê-las.
+
+Por exemplo, o especialista em segurança Raviv Raz publicou uma ferramenta capaz de automatizar ataques na camada de aplicação.
+
+Bancos de dados protegidos serão copiados e/ou alterados através da internet, áreas restritas por usuário e senha serão exploradas e invadidas sem que ninguém perceba o ataque, páginas web serão alteradas de forma indevida etc.
+
+É importante lembrar que firewalls, antivírus, sistemas de detecção de intrusos e anti-spam não conseguem detectar ou até mesmo bloquear ataques na camada de aplicação. Não há 100% de segurança neste nível.
+
+Dicas de proteção
+Algumas dicas de segurança podem ajudar a minimizar os riscos relacionados às novas ameaças em 2009:
+
+- Tudo que não é monitorado na sua empresa deve ser bloqueado. A falta de rastreabilidade é uma das principais vulnerabilidades exploradas pelos craquers;
+
+- Compre e mantenha instalado um antivírus para o aparelho celular;
+
+- Use tecnologias conhecidas como Web Application Firewall em sua empresa;
+
+- Utilize seu cartão de crédito em estabelecimentos comerciais confiáveis;
+
+- Desconfie sempre de links que você recebe via e-mail e programas de mensagens instantâneas. Um profissional da área de desenvolvimento de software pode ajudar a identificar uma armadilha on-line no link suspeito;
+
+- Assine boletins de segurança e acompanhe as notícias relacionadas a segurança da informação. Conhecer as ameaças e vulnerabilidades pode ser a principal arma contra as ameaças de 2009.

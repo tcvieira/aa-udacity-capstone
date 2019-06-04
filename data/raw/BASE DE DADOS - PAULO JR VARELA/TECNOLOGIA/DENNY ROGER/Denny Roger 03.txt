@@ -1,0 +1,33 @@
+Mapa da espionagem
+Conheça técnicas de espionagem online e saiba como garantir sua privacidade. Por Denny Roger
+
+Nós últimos anos, é cada vez mais freqüente nos depararmos com manchetes como “Um terço dos funcionários roubaria dados das empresas” (http://idgnow.uol.com.br/seguranca/2009/04/24/um-terco-dos-funcionarios-roubaria-dados-das-empresas-diz-estudo/) e “FBI usa spyware para capturar acusado de extorquir operadoras nos EUA”.
+
+Muitos brasileiros passaram a acreditar que o melhor negócio é investir na privacidade das suas informações. Se você é um deles, observe as técnicas abaixo de espionagem na rede.
+
+Interceptação de seus dados cadastrais
+Vamos imaginar a seguinte situação: Você ou a sua empresa recebeu um e-mail ameaçador. É necessário identificar a pessoa responsável pelas ameaças.
+
+O primeiro passo é conseguir junto à empresa de telecomunicações e ao provedor do e-mail, os dados cadastrais do autor da mensagem. Por exemplo, nome completo do assinante, endereço, telefone etc.
+
+Escuta telefônica
+Infelizmente, a atitude maldosa de algumas pessoas faz com que a justiça solicite a execução da escuta telefônica. Nestes casos, a polícia solicita às empresas de telefonia móvel e fixa o desvio de todas as ligações para um número fixo determinado por eles. Sendo assim, a pessoa investigada recebe ou faz chamadas normalmente, porém, uma equipe da polícia está ouvindo e gravando todas as conversas.
+
+Grampo virtual de e-mails e sites
+As empresas de telecomunicações, que oferecem o serviço/link de acesso à internet, possuem tecnologia para monitorar todos os seus acessos a e-mails e sites, em desktops, celulares ou smartphones. Isso permite realizar uma cópia de todos os seus e-mails enviados e recebidos, registrar as páginas que você acessou na internet (por exemplo, sites pornôs, jogos online etc.) e gravar evidências dos downloads realizados.
+
+O grampo virtual das informações de uma determinada pessoa pode ser realizado mediante solicitação da justiça. Porém, nada impede a empresa de telecomunicações de utilizar este tipo de recurso para “mapear o perfil dos seus clientes”, gerar estatísticas dos acessos realizados pelos usuários, entre outras situações.
+
+As operadoras possuem a tecnologia para capturar até mesmo as senhas de acesso - a infra-estrutura física e lógica é toda controlada por essas empresas. Sendo assim, é muito simples conseguir as senhas dos clientes que utilizam a internet de suas casas, empresas, celulares e modems, por exemplo.
+
+Localização de uma pessoa pelo celular
+Outro detalhe importante no mundo da espionagem na rede é conseguirmos identificar fisicamente o local onde uma determinada pessoa está. Isso é possível através do rastreamento do chip do seu aparelho celular. Desta forma, a empresa de telecomunicações identifica em qual antena o aparelho celular está conectado e identifica a localização de uma pessoa.
+
+Proteção
+As pessoas estão procurando cada vez mais investir em tecnologias que ajudam a garantir a sua privacidade no mundo virtual. Tecnologias que permitem a criptografia dos arquivos pessoais e dados corporativos são cada vez mais comuns.
+
+A autenticação segura está crescendo no mundo todo. As pessoas estão considerando a implementação de um segundo fator de autenticação, o token (camada extra de identificação na forma de chave de segurança, cartão de segurança, tabela de senhas, dispositivo de senhas eletrônicas etc). Sendo assim, não adianta capturarem a sua senha porque será necessário ter acesso físico ao token.
+
+Muitas pessoas estão comprando celulares que suportam aplicações de criptografia para evitar a escuta telefônica e algumas empresas investem em tecnologias que criptografam os seus e-mails e links entre filiais e escritórios remotos. Dessa forma, as operadoras de telecomunicações não conseguem monitorar o tráfego de informações que está passando pelo link ou ter acesso ao conteúdo dos e-mails.
+
+Neste tempo onde quase tudo foi migrado para o mundo virtual é recomendável que consumidores e empresas apostem na criptografia para não serem vítimas da espionagem virtual.

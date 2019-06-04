@@ -1,0 +1,14 @@
+DiogoOlivier01
+464 464 255 399 249 16 200 5000000 7 0 0 0 0
+
+*** Résultat de la segmentation du fichier: DiogoOlivier01.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         399
+ 	nombre des formes      :         249
+ 	frequence maximale     :          16
+ 	nombre des hapax       :         200
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      DiogoOlivier01.TXT ***

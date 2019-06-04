@@ -1,0 +1,36 @@
+Ataques em aplicações web
+Denny Roger analisa segurança nas aplicações vulneráveis a diversos tipos de ataques.
+
+A partir das perspectivas das ameaças, vulnerabilidades e ataques vamos analisar a segurança da informação nas aplicações web.
+
+Quando você aprender algumas das técnicas utilizadas pelos hackers, antes de executar as atividades de desenvolvimento de software, esse conhecimento permitirá a priorização das ameaças, minimizando o risco para o processo de negócio.
+
+Importante: Embora as organizações implementem diversos mecanismos de segurança, dificultando o acesso indevido as informações, geralmente as aplicações web são vulneráveis a diversos tipos de ataques.
+
+Sistemas de firewall, antivírus, IDS (intrusion detection system), antispam etc. não conseguem detectar e bloquear as técnicas descritas neste artigo.
+
+Conheça aqui algumas técnicas de ataque:
+
+XSS (Cross Site Scripting)
+
+Cross Site Scripting representa um ataque baseado em induzir o navegador web (por exemplo, Internet Explorer, Firefox, Opera etc.) do usuário a executar um script malicioso dentro do contexto de um site confiável.
+
+A exploração bem sucedida deste ataque permite ao hacker embutir um código malicioso (na forma de Javascript ou VBScript) em campos de entrada, os quais são inseridos de volta para a resposta do servidor. Isto permite ao hacker a execução de um código arbitrário em um usuário desatento que tenha acesso permitido ao site escolhido como vítima.
+
+SQL Injection
+
+Algumas aplicações não validam as entradas de usuários permitindo que hackers executem comandos diretamente no banco de dados de uma aplicação. Este ataque permite ao hacker alterar valores do SQL, concatenar declarações SQL, adicionar chamadas de função e procedimentos de armazenagem para uma declaração, entre outras ações.
+
+O sucesso na exploração deste ataque poderia resultar no acesso não autorizado aos dados, manipulação de registro e no comprometimento geral do servidor.
+
+Seqüestro de Sessão
+
+Este tipo de ataque ocorre quando o hacker consegue obter o ID da sessão http de um usuário. O hacker grava o ID no seu próprio navegador enganando a aplicação, se passando indevidamente pelo usuário legítimo. Desta forma, ele pode conseguir a sessão do usuário explorando Cross Site Scripting ou tendo acesso físico à máquina do usuário legítimo.
+
+Recomendações
+
+As equipes de desenvolvimento de software devem executar suas atividades baseadas na ISO 15408.  Esta norma define os requisitos funcionais de segurança, ou seja, quais os requisitos de segurança o software deve atender.
+
+Em caso de alteração na aplicação web, as empresas devem considerar uma auditoria de segurança. O que ocorre na realidade é que novas falhas são inseridas em cada modificação. Essas falhas vão sendo corrigidas reduzindo o nível de falhas até que uma nova modificação (versão) seja realizada e introduza novas falhas elevando novamente o nível de falhas.
+
+As empresas devem considerar a utilização do WAF (Web Application Firewall). Estes sistemas atuam na camada de aplicação, diferentemente dos firewalls de redes tradicionais. Possuem tecnologias e filtros específicos para HTTP, HTTPS, HTML, Web Service, Cookies etc. 

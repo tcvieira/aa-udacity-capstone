@@ -1,0 +1,11 @@
+LecParam
+
+779 779 358 661 351 34 267 5000000 7 0 0
+Allocation de la mémoire :
+Allocation de lexm réussie, 5744 octets
+Allocation de tnum réussie, 3116 octets
+Allocation de ftext réussie, 14360 octets
+Allocation de list réussie, 136 octets
+Entrée dans OpenDicNum
+Dictionnaire numérisé : LeoKahn27.dic
+Entrée dans OpenTextNum

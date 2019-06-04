@@ -1,0 +1,14 @@
+SergioRedes02
+531 531 292 460 288 20 232 5000000 5 0 0 0 0
+
+*** Résultat de la segmentation du fichier: SergioRedes02.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         460
+ 	nombre des formes      :         288
+ 	frequence maximale     :          20
+ 	nombre des hapax       :         232
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      SergioRedes02.TXT ***

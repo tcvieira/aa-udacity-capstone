@@ -1,0 +1,20 @@
+Espionagem eletrônica
+Empresas brasileiras permitem que o espião entre pela porta da frente. Por Patrícia Peck
+
+Cresce o número de empresas vítimas de espionagem eletrônica no Brasil. Normalmente, a vulnerabilidade está na própria falta de informação e orientação dos funcionários para que não seja facilitado o acesso aos segredos da empresa por terceiros. Em muitos casos há até a colaboração interna, conhecida como “risco insider”.
+
+Há uma sutil diferença entre o limite do que é considerado “inteligência competitiva” e onde começa a prática de espionagem. Com a facilidade de uso das ferramentas de trabalho tecnológicas, as informações da empresa vazam por todos os lados, do e-mail a porta USB do computador, saindo pela porta da frente em um aparelho de MP3 inofensivo.
+
+Para se proteger é essência alinhar uma estratégia que amarra aspectos técnicos e jurídicos, com uso de alguns softwares de monitoramento, adequação legal para que o mesmo possa ser feito sem riscos para a empresa, definição de alguns processos e sua documentação em norma própria e, acima de tudo, conscientização dos usuários de maior acesso a informações privilegiadas, dos gestores ao conselho.
+
+Tem sido comum a espionagem através do uso de senhas que são de executivos com altos poderes hierárquicos, pois, normalmente, neste perfil de cargo, o profissional é assessorado por diversas pessoas e, muitas vezes, se estabelece de modo quase institucionalizado uma conduta extremamente insegura de compartilhamento de sua senha com seus auxiliares para realização de tarefas.
+
+Por que a secretária tem de ter a senha do chefe? Como garantir governança corporativa em uma empresa em que haja segregação de funções, ou seja, mais de uma pessoa é necessária para executar uma atividade de alto risco e impacto crítico no negócio, de modo a sozinho não poder fazer um grande estrago, mas na área um sabe a senha do outro, dentro de um combinado para fazer o trabalho fluir mais rápido. Isso é completamente indevido, inadequado e quebra regras de conduta exigidas na assinatura de Códigos de Ética tais como o exigido por Sarbanes-Oxley.
+
+Além disso, precisa vigiar os terceirizados, já que os mesmos possuem livre acesso a vários tipos de informação, além de na área de TI serem responsáveis, em muitos casos, em dar suporte aos usuários (tipo Help Desk).
+
+É boa prática ter um Código de Conduta do Terceirizado com assinatura de termo de responsabilidade entre o funcionário do terceiro e a empresa contratada e entrega de uma via a empresa contratante.
+
+Há vários tipos de espionagem eletrônica, entre elas, a mais comum é chamada de Sigint (signals intelligence) que se originou na interceptação, decodificação, tradução e análise de mensagens por uma terceira parte além do emissor e do destinatário pretendido. Isso ocorreu recentemente com a consultoria Booz Allen Hamilton, em que um executivo recebeu um email cujo conteúdo tratava da descrição de aviões, motores e equipamentos para radar, mas continha um código conhecido como “Poison Ivy” (espécie de cavalo de tróia) destinado a capturar os dados.
+
+Com a baixa cultura de segurança da informação nas empresas, associada a característica solícita do brasileiro, o espião não precisa mais invadir ou interceptar, ele entra pela porta da frente. Precisamos estar mais atentos, sob pena de responsabilidade por negligência e omissão, conforme reza o artigo 1016 do Novo Código Civil Brasileiro.

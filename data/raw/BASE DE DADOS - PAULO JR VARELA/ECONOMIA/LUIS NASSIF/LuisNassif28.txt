@@ -1,0 +1,31 @@
+Seattle: uma década de ativismo 2.0
+
+
+Existiu uma época – sem YouTube, Flickr, Wikipédia, blogs ou qualquer ferramenta de autopublicação – em que colocar seu relato na internet era muito mais um ato de protesto do que qualquer outra coisa. Uma época em que se buscava uma nova forma de comunicação, mais livre de intermediários.
+
+Toda a ideia de jornalismo cidadão, que inspirou o desenvolvimento de plataformas de publicação na web, tomou forma há 10 anos, em 30 de novembro de 1999, durante os protestos em Seattle contra a reunião ministerial da Organização Mundial do Comércio (OMC – ou WTO, na sigla em inglês), que daria início à rodada do milênio, para negociar maior abertura do comércio mundial.
+
+Ao menos 40 mil pessoas, entre elas ativistas, membros de ONGs, sindicalistas, ambientalistas e anarquistas, reunidos sob uma organização descentralizada chamada de Direct Action Network (DAN), tomaram as ruas do centro de Seattle e furaram o bloqueio em torno do local onde a reunião acontecia. A manifestação ficou conhecida como N30 ou a Batalha de Seattle.
+
+Foi lá, durante os protestos, que os participantes começaram a usar as tecnologias para mostrar o que estava acontecendo nas manifestações – não só para se organizar, mas para interagir com ativistas de todo o mundo que não estavam lá. Eles usavam uma improvisada rede de comunicação, com celulares, rádios, notebooks e modems conectados à web, para publicar imagens e relatos sobre os protestos.
+
+“Seattle foi a primeira grande explosão de protestos por uma justiça global. E juntou muitas pessoas de diversos movimentos, com diferentes ideias do que era necessário mudar no mundo”, diz Margaret Levi, professora do departamento de ciência política da Universidade de Washington e responsável por um projeto de resgatar a história dos protestos em Seattle.
+
+Entre os envolvidos, surgia o coletivo Indymedia, um grupo de ativistas que se reuniu para fazer uma cobertura jornalística alternativa dos protestos em Seattle. No Brasil é conhecido como Centro de Mídia Independente (CMI).
+
+Para cobrir os protestos de junho de 1999, durante o encontro do G8, em Colônia, na Alemanha, o embrião do Indymedia usou uma ferramenta de publicação, um tipo de blog coletivo, criado alguns meses antes por um grupo da Austrália.
+
+Desenvolvido para ser um mecanismo que desse voz a cada manifestante presente nos protestos, o site permitia já naquela época uma cobertura em tempo real da manifestação em Seattle, em texto, áudio e vídeos. Cinco documentários ainda foram produzidos pelo Centro de Mídia Independente de Seattle.
+
+“As pessoas tiravam fotos, colocavam depoimentos, publicavam sua opinião sobre que estava sendo discutido, no caso, na rodada do milênio da OMC”, diz Pablo Ortellado, um dos fundadores do CMI no Brasil, criado quatro meses depois de Seattle. “Muitos grupos dos EUA se interessaram pela ferramenta do Indymedia. Mas, como era aberta, ela era muito mais usada pelos manifestantes individuais do que por revistas e veículos alternativos”, continua.
+
+O site do Indymedia teve mais de 1 milhão de acessos durante o lançamento, no N30, o que sobrecarregou os servidores. “Foi aí que incorporamos a autopublicação como essência do site. Do ponto de vista da web 2.0, era um projeto totalmente radical. Se você for ver, os blogs foram continuação disso. Não é a toa que o YouTube, o Twitter, o Craiglist saíram de desenvolvedores que fizeram parte do Indymedia. O Twitter foi criado para ser usado em manifestações”, diz Ortellado.
+
+Hoje o YouTube faz campanhas por vídeos que defendam a liberdade de expressão no mundo todo; o Twitter serve como troca de informações durante os protestos no Irã; blogueiros palestinos relatam abusos, entre outros exemplos que têm ocorrido nos últimos anos.
+
+Há muitas críticas à incorporação das ideias do Indymedia por sites comerciais, principalmente quanto à privacidade dos usuários, às limitações impostas e à necessidade de gerar lucro e publicidade.
+
+De qualquer maneira, a partir do Indymedia e de Seattle, surgiram muitos outros projetos que procuram dar voz na internet a grupos de pessoas que antes não tinham como expressar suas opiniões ou relatar o que veem e vivem em suas comunidades.
+
+“A tecnologia foi importante para planejar os processos e para trocar informações depois dos protestos. Muito mudou nestes 10 anos. Ainda vejo muitas demonstrações políticas, mas elas são feitas de outra forma. Vemos que há grupos menores, mais comprometidos, não só se mobilizando em protestos, mas realmente trabalhando para mudar o mundo”, diz a professora Margaret Levi.
+

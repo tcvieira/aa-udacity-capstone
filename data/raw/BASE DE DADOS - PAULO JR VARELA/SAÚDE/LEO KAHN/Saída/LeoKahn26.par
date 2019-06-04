@@ -1,0 +1,14 @@
+LeoKahn26
+730 730 319 618 314 28 219 5000000 6 0 0 0 0
+
+*** Résultat de la segmentation du fichier: LeoKahn26.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         618
+ 	nombre des formes      :         314
+ 	frequence maximale     :          28
+ 	nombre des hapax       :         219
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      LeoKahn26.TXT ***

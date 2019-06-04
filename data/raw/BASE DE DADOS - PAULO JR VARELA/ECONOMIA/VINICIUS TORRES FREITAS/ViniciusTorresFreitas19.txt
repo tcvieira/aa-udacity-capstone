@@ -1,0 +1,15 @@
+Vales e picos do mercado americano
+
+No arroz com feijão das análises de expectativas de mercado nos EUA, a diferença de rendimento ("juros") entre títulos do Tesouro, da dívida pública, de 2 anos e 30 anos ("Treasuries" que vencem nesses prazos) serve como um indicador da tendência futura das taxas de juros. Uma diferença ("spread") muito grande tende a indicar que a economia acelera e que os investidores apostam que há risco crescente de inflação, em especial se o mercado acredita que o BC (o Fed, no caso) está sendo leniente com o risco de alta de preços e adiando uma alta da taxa "básica" de juros.
+
+Ou seja, nessa situação, os investidores vendem papéis de longo prazo (como os de 30 anos), o que puxa para baixo o preço de tais papéis e, assim, eleva o rendimento. Isto é, o rendimento dos títulos do Tesouro depende de decisões e preferências do mercado.
+
+Sim, o mundo é bem mais complicado do que isso; as reações de investidores e dos BCs podem ser mais ou menos rápidas, a depender de contextos etc. Certo é que curvas de juros muito inclinadas ("spreads" grandes) indicam que o mercado está pedindo mais taxa para financiar o governo.
+
+De qualquer modo, os "spreads" entre rendimentos de papéis longos e curtos contam bastante a respeito da história econômica recente dos EUA. O gráfico abaixo mostra a diferença entre o rendimento dos títulos de 2 anos e de 30 anos, de 1977 até esta semana.
+
+Os picos do gráfico são, claro, os momentos de grande diferença de rendimento entre os dois papéis, de abertura do "spread", quando a economia está em crescimento bom ou recuperação rápida. Os "vales" são os momentos em que diferença é zero ou quase isso, quando a "curva de juros" está "flat", plana, situação que, em geral, antecipa recessões _vide os "vales" nos anos em torno de 1979, 1989, 2000 e 2007.
+
+Pode-se notar que o "spread" entre o rendimento dos papéis de 2 anos e de 30 anos equivale agora ao dos picos das últimas três décadas. Obviamente, a taxa de juros "básica", a meta do Fed, não pode ficar abaixo da atual, entre 0 e 0,25%. Vai subir, é claro. E, claro também, os EUA ainda vão fazer muita dívida num ambiente cheio de gente escaldada pela crise recente e pelo endividamento forte de quase todos os países ricos.
+
+Ainda assim, o "spread" é grande, pois ainda se discute se a recessão americana pode ter um repique, em 2011. Ou, ao menos, se discutia tal coisa faz um, dois meses.

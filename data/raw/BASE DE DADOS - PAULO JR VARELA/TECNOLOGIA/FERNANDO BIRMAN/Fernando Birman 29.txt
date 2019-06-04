@@ -1,0 +1,23 @@
+"Um conceito para lá de maduro"
+
+Fernando Birman
+
+A nova tendência da Tecnologia da Informação é a chamada "Green IT". Se o mundo inteiro acordou para o desenvolvimento sustentável, por que a TI continuaria dormindo? Fazemos parte de uma próspera indústria, que consome muita energia e poluí. Ela é menos limpa do que parece. O conceito de "Green IT" já nasceu ultrapassado, como vou explicar neste artigo. Em todo caso, convido o leitor a abraçar a causa e a fazer muito mais.
+
+A TI nunca foi uma indústria suja. O conceito de indústria limpa é que evoluiu bastante. Hoje em dia, a energia consumida e a sua origem são tão importantes quanto à geração de poluentes. Um CPD perdulário deve ser visto como uma chaminé exalando fumaça negra e mal cheirosa de décadas passadas.
+
+Quando falamos em energia, a comparação é feita através da geração de gás carbônico. Basta converter a energia consumida por todo o parque de PC, servidores e telefones em emissão de gás carbônico, e concluímos que o CIO e sua equipe também são vilões do aquecimento global.
+
+A redução do consumo de energia é uma ação prioritária do movimento da "Green IT". Isso é feito através de inúmeras ações conhecidas: Racionalização e virtualização de servidores, configuração para economia de energia nos PC e servidores, ajuste do ar-condicionado e do fluxo de ar dentro do CPD, aquisição de equipamentos certificados, etc.
+
+Outro alvo são os consumíveis (papel, cartuchos e baterias) que devem ser controlados e racionalizados. A forma de descartá-los é essencial, devemos privilegiar a reciclagem e conhecer muito bem o destino do lixo. Isto se aplica aos consumíveis e a quaisquer equipamentos.
+
+Enfim, existe um sem número de ações para ser verde. Não gostaria de me aprofundar no tópico, até por que ele é o mínimo que podemos fazer pelo planeta. Devemos cobrar um engajamento firme dos fornecedores, pois eles têm um impacto maior do que o nosso, de clientes. Por outro lado, deixo bem claro, que na luta para salvar a Terra, todo esforço conta, mesmo que seja apenas para servir de exemplo e alimentar um círculo virtuoso.
+
+Voltando ao cerne deste artigo, afirmo que o conceito de "Green IT" é uma pequena parte da sustentabilidade. O desenvolvimento sustentável não é só o respeito ao meio ambiente. Ele inclui outras dimensões do universo que cerca nossas organizações: As pessoas, as comunidades e os parceiros de negócio. Construir a sustentabilidade não é apenas a busca de um planeta limpo. Trata-se de reduzir as desigualdades, a injustiça, a violência, a corrupção, entre tantas outras metas.
+
+O desenvolvimento sustentável nos impõe uma postura absolutamente ética, o respeito a todo aparato legal e o tratamento correto das pessoas. Um fornecedor de TI pode ser limpo no sentido ambiental, mas se não recolher devidamente os impostos ou não proporcionar o tratamento adequado aos seus empregados, ele não ajudará a vencer os desafios da sustentabilidade.
+
+Nesse contexto, ser verde é fácil. Difícil é ter uma governança corporativa robusta, transparência interna e externa, ficha limpa em todas as instâncias governamentais. Os grandes nomes da TI mundial sabem disso, basta consultar os relatórios anuais específicos sobre o tema de empresas como Dell, HP e IBM.
+
+"Green IT" pode ser moda. Adequação à Sarbannes-Oxley também está no seu ápice. O alinhamento à responsabilidade social e ambiental é um processo crescente e irreversível. Temos a chance de começar a nos movimentar antes que haja mais um pacotão. De um jeito ou de outro, a Terra e as próximas gerações agradecem. 

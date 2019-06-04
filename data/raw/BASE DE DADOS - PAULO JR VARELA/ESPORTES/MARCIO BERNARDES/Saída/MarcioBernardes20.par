@@ -1,0 +1,14 @@
+MarcioBernardes20
+429 429 236 363 231 15 175 5000000 6 0 0 0 0
+
+*** Résultat de la segmentation du fichier: MarcioBernardes20.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         363
+ 	nombre des formes      :         231
+ 	frequence maximale     :          15
+ 	nombre des hapax       :         175
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      MarcioBernardes20.TXT ***

@@ -1,0 +1,11 @@
+LecParam
+
+504 504 279 453 273 21 218 5000000 6 0 0
+Allocation de la mémoire :
+Allocation de lexm réussie, 4480 octets
+Allocation de tnum réussie, 2016 octets
+Allocation de ftext réussie, 11200 octets
+Allocation de list réussie, 84 octets
+Entrée dans OpenDicNum
+Dictionnaire numérisé : SergioRedes29.dic
+Entrée dans OpenTextNum

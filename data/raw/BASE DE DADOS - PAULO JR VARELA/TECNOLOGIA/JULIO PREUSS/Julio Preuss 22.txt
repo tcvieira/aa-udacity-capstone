@@ -1,0 +1,16 @@
+
+Fotografia com aeromodelos-robôs
+
+Mais Sobr Julio Preuss - 17/09/2007
+Julio Preuss
+Escreveu o livro "Fotografia Digital: da compra da câmera à impressão das fotos"
+
+Já faz praticamente um mês que escrevemos sobre a prática da Kite Aerial Photography (KAP), que consiste em empinar pipas com uma câmera pendurada para tirar fotos aéreas – às vezes até panorâmicas em 360 graus. Se você gostou de conhecer aquele hobby, vai adorar um outro que está surgindo agora: a fotografia aérea com aviões autônomos, ou UAVs (Unmanned Aerial Vehicles), como são mais conhecidos.
+
+A primeira vista, um UAV não parece diferente de um aeromodelo comum, como os que entusiastas pilotam há décadas. A grande distinção é que um UAV consegue voar por conta própria, percorrendo em piloto automático uma seqüência de coordenadas previamente determinadas, sem necessidade de intervenção humana. Em outras palavras, é um aeromodelo-robô, controlado por computador.
+
+A possibilidade de programar o percurso dos aviõezinhos e gravar as coordenadas geográficas registradas por um GPS nas fotos capturadas durante o vôo faz desses UAVs abre possibilidades muito interessantes – principalmente quando as imagens são sobrepostas às de um serviço de fotos de satélite como o Google Earth, aumentando consideravelmente sua resolução.
+
+O editor da revista americana Wired, Chris Anderson, grande entusiasta dos UAVs, já sobrevoou virtualmente o campus do Google e uma base aérea americana. O resultado das “missões de reconhecimento”, bem como instruções para montar seu próprio avião ou o sistema de estabilização da câmera que ele transportará consigo podem ser conferidos na rede social DIY Drones, dedicada às aeronaves autônomas caseiras.
+
+O mais interessante para os fãs de câmeras digitais é o tipo de recurso que torna um ou outro modelo mais adequado a esta utilização. Megapixels a mais de resolução, tão criticados nas fotos comuns, acabam fazendo diferença no nível de detalhe das imagens capturadas a dezenas de metro do solo. Por conta da velocidade do avião, a taxa de disparo e a capacidade do modo de captura contínua determinam se será ou não possível emendar as fotos. E olha que a câmera nem é o maior investimento de quem pretende se aventurar no mundo das fotos de UAV!

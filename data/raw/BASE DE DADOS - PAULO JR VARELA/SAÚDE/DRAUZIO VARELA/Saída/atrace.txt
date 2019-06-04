@@ -1,0 +1,13 @@
+LecParam
+
+562 562 268 467 261 18 195 5000000 7 0 0
+Allocation de la mémoire :
+Allocation de lexm réussie, 4304 octets
+Allocation de tnum réussie, 2248 octets
+Allocation de ftext réussie, 10760 octets
+Allocation de list réussie, 72 octets
+Entrée dans OpenDicNum
+Dictionnaire numérisé : DrauzioVarela01.dic
+Entrée dans OpenTextNum
+CalcSegRep----
+DrauzioVarela01.loc.sr - DrauzioVarela01.desc.sr

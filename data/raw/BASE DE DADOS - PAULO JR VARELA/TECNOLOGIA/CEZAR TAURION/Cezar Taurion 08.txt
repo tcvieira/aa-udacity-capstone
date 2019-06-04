@@ -1,0 +1,11 @@
+O tema “Green IT” está começando a chamar atenção. Recentemente, inclusive, o Computerworld analisou empresas americanas que estão na frente das iniciativas de Green IT.
+
+O assunto já faz parte da agenda de diversos eventos importantes e o último Cebit foi também palco de vários anúncios, mostrando a preocupação crescente das empresas com as questões ecológicas. Foi criada até mesmo uma “Green IT Village”, um saguão dedicado inteiramente às discussões ecológicas e à exposição de produtos que já usam soluções de economia de energia e materiais menos agressivos ao meio ambiente.
+
+Mas por que tanta atenção em torno da TI Verde? Acredito que temos as condições de uma “Perfect Storm” que vai disparar ações “verdes”. O termo “Perfect Storm” significa a ocorrência simultânea de eventos que se tornam muito mais poderosos e impactantes quando combinados. Em 2000, foi lançado um filme com este mesmo título - traduzido para o português como “Mar em Fúria” - que ilustrou bem essa situação.
+
+E quais são estes eventos em cadeia? O aumento da conscientização da realidade do aquecimento global, os crescentes custos de energia e as crescentes mudanças e demandas regulatórias no mundo todo. Isolados, estes eventos têm certo impacto, mas quando combinados deverão gerar uma tendência irrestível em direção a uma TI verde.
+
+Os CIOs, claro, vão começar a se preocupar quando os diretores financeiros (CFOs) se darem conta de que os custos de energia estão cada vez maiores. Alguns dados já mostram que o que se gasta com energia e refrigeração durante três anos é mais do que os custos de aquisição de um servidor. E que os data centers, em média, consomem 30 vezes mais energia por metro quadrado que um escritório típico.
+
+As pressões para que as empresas adotem ações ambientais vão aumentar a cada ano. Assim, imagino que em poucos anos (talvez já em 2010) o tema Green IT sairá do campo da curiosidade para se tornar mainstream, item obrigatório na agenda de qualquer gestor de TI. Porque não começar a estudar o assunto desde agora?

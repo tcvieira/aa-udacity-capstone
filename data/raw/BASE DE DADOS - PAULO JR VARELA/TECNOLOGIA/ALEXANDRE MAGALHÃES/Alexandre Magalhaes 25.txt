@@ -1,0 +1,10 @@
+O perigo em revelar informações pessoais nas redes sociais 
+Site PleaseRobMe alerta para os riscos de revelar informações pessoais nas redes sociais
+
+Um jovem holandês criou um site pra lá de polêmico para alertar as pessoas sobre os riscos de compartilhar informações pessoais na internet. O PleaseRobMe.com revela a localização de casas vazias com base em dados postados no Twitter
+
+O site pega informações do jogo online Foursquare, que se baseia na localização dos participantes no mundo real. O problema é que alguns jogadores optam por informar automaticamente sua localização no Twitter.
+
+Amstel criou o site com seus amigos Frank Groeneveld e Barry Borsboom. Os três ficaram preocupados com o fato das pessoas informarem de forma automática até mesmo quando os momentos em que não estavam em casa, facilitando o trabalho de bandidos que estivessem a procura de residências vazias para assaltar.
+
+O site é basicamente uma busca de informações públicas no Twitter e foi criado em apenas quatro horas. Amstel garante que o objetivo não é ajudar assaltantes, mas sim conscientizar as pessoas quanto a importância de se manter certos dados privados.

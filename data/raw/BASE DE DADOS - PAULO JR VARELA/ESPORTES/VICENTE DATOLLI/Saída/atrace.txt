@@ -1,0 +1,11 @@
+LecParam
+
+583 583 294 484 286 17 214 5000000 8 0 0
+Allocation de la mémoire :
+Allocation de lexm réussie, 4720 octets
+Allocation de tnum réussie, 2332 octets
+Allocation de ftext réussie, 11800 octets
+Allocation de list réussie, 68 octets
+Entrée dans OpenDicNum
+Dictionnaire numérisé : VicenteDatolli24.dic
+Entrée dans OpenTextNum

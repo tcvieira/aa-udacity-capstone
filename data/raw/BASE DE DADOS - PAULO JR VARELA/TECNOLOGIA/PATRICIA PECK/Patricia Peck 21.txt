@@ -1,0 +1,32 @@
+Ética em tecnologia
+Profissional de Tecnologia deve ter código de conduta específico. Por Patrícia Peck.
+
+O que é ética na Sociedade Digital? Qual o código de conduta que devemos seguir quando na atuação profissional na área de Tecnologia da Informação (TI), e especialmente, na área de Segurança da Informação? Até onde ir para que a conduta seja ética, e acima de tudo, legal.
+ 
+Para que possamos definir quais os valores associados à profissão de TI, que hoje já representa uma área com um dos maiores níveis críticos dentro das empresas, onde há conhecimento técnico suficiente para a prática do bem, mas também para a prática do mal, devemos entender o que significa código moral e padrão ético em geral.
+ 
+A moral é um conjunto de regras que estabelecem os limites de comportamento, não necessariamente uma ação específica, mas até onde ela é aceitável ou não. Estas regras são estabelecidas por convenções sociais, gerando a base do senso comum, regulado, muitas vezes, por leis em seus extremos.
+ 
+A ética é um conjunto de crenças sobre certo e errado. Normalmente ensinada no âmbito ainda familiar, de pai para filho, com o exemplo de dentro de casa. Que depois se segue no exemplo na escola, e no trabalho. Tem um cunho educacional e de conscientização muito grande.
+ 
+Vivemos uma época de transição. Estamos aderindo a novas tecnologias que mudam a forma de fazer as coisas, de trabalhar, de viver, bem como estamos também reavaliando o conjunto de valores sociais que precisam ser protegidos, por uma convenção social, não apenas no Brasil, mas global.
+ 
+Sendo assim, como de fato ensinar que agora a regra é “não cobiçar o conteúdo do próximo”, que “copiar e colar” trabalhos alheios é uma vergonha e não uma esperteza, que a “liberdade de expressão” não confere o “direito de ofender”, que “o uso de um avatar ou apelido” não confere o “direito de ser anônimo”, proibido pela Constituição.
+
+Como explicar que pirataria é tão grave quanto o furto, que o uso de imagem não autorizado gera mais danos que uma facada e nem sempre dá para consertar o estrago feito na reputação de um indivíduo, que deixar o computador aberto é tão arriscado quanto deixar a porta de casa aberta.
+ 
+No mundo corporativo, em que a governança em TI se passa justamente por estabelecer regras de conduta que tragam transparência, bem como garantam confidencialidade, acessibilidade, integridade às informações, a questão fica ainda mais agravada. Pois as equipes, muitas vezes, não estão com este conjunto de valores já estabelecidos.
+ 
+Então, não adianta apenas ter uma Política de Seguranca da Informação e um conjunto de normas de uso de e-mail, internet, rede, dispositivos móveis, entre outras que são para os funcionários em geral, normalmente os com algum vínculo de trabalho.
+ 
+É preciso ter sim um Código de Ética de TI, que seja não apenas para funcionários ou colaboradores internos, mas com capítulo específico para abranger os terceirizados, que são muito comuns neste mercado, atuando dentro do ambiente da empresa, através de um fornecedor em projetos, como também fazendo suporte ou atendendo via externa, e muitas vezes até com acesso remoto.
+ 
+As equipes de TI possuem acesso privilegiado às informações, aos equipamentos, até mesmo às senhas, atuam na contenção, na contingência, nos incidentes, na proteção contra vulnerabilidades. Por isso, é fundamental que tenham regras próprias para reger sua atuação, com termo de responsabilidade específico, de confidencialidade e, se houver desenvolvimento interno, Termo de Cessão. E tudo isso, em seu nível mais estratégico, deve ser amarrado pelo Código de Ética e Conduta Profissional em TI.
+
+Já temos feito isso para alguns poucos clientes no Brasil, já sendo uma prática internacional, com referências na indústria de TI que já utiliza o “ACM- Association for Computing Machinery Code of Ethics and Professional Conduct”, o “AITP – Association of Information Technology Professionals Code of Ethics”, o “SE – Software Engineering Code of Ethics and Professionals Practices” e o “PMI Member Ethical Standards and Member Code of Ethics”.
+ 
+Precisamos nos atualizar, especialmente as empresas prestadoras de serviços de TI e SI, desenvolvedoras de software, datawarehouses, datacenters, provedores de soluções e servidores virtuais, e os próprios clientes, cujos negócios dependem de tecnologia como meio para alcançar seu fim, que possuem equipes internas e/ou terceirizam parte ou toda a operação.
+ 
+A Sarbanes-Oxley exige isso dos executivos como medida de gestão de risco e devemos também aplicar esta boa prática na gestão do risco em TI. A clareza nas regras não apenas previne condutas, como é fundamental para uma situação em que envolva medidas judiciais, para proteger não apenas a empresa, mas os demais profissionais de TI, que estão agindo corretamente.
+ 
+O primeiro passo então é diagnosticar como está este cenário em sua empresa. Quem estiver em conformidade, já está na frente dos demais, não apenas por questões de seguranca jurídica, mas especialmente, como diferencial competitivo.

@@ -1,0 +1,11 @@
+LecParam
+
+633 633 252 517 247 19 155 5000000 5 0 0
+Allocation de la mémoire :
+Allocation de lexm réussie, 4048 octets
+Allocation de tnum réussie, 2532 octets
+Allocation de ftext réussie, 10120 octets
+Allocation de list réussie, 76 octets
+Entrée dans OpenDicNum
+Dictionnaire numérisé : Tostão30.dic
+Entrée dans OpenTextNum

@@ -1,0 +1,13 @@
+Identificação das fotos na região da Amazônia
+Rodrigo Baleia - 22/09/2009
+
+Um problema que enfrento na região da Amazônia é identificar com precisão o local em que fiz a fotografia, seja em uma viagem de barco ou nas documentações aéreas.
+
+A intensificação do local se torna algo subjetivo e, quando o trabalho tem valor científico ou de denúncia, isso pode se tornar um problema. Sendo assim, meus próximos esforços e investimentos serão em mecanismos que me possibilitem o georeferenciamento das imagens produzidas em campo.
+
+Já fiz uns testes com alguns arquivos gerados pelo SPOT. Com auxílio de um programa, as coordenadas geográficas (latitude e longitude) são inseridas diretamente no metadata da imagem. Como o SPOT gera sua exata localização de 10 em 10 minutos, o posicionamento do intervalo fica estimado. Em voo, estamos falando em uma área de 60 Km².
+
+Para resolver isso, vou operar com um GPS (Global Positioning System) de alta sensibilidade que vai gerar um track a cada 2 segundos, me dando uma maior precisão do georeferenciamento. Também vou fazer testes com outro Sistema de Posicionamento Global que fica acoplado diretamente no encaixe do Flash e gera um arquivo a cada disparo feito na própria câmera.
+
+
+

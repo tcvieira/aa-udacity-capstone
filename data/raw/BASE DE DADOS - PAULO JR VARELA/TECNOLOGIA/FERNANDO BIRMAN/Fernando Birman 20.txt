@@ -1,0 +1,29 @@
+"Uma história de prateleira"
+
+Fernando Birman
+
+Há quem fique horrorizado quando um projeto ultrapassa o seu orçamento ou tem grande atraso. Contudo, estas situações são normais e aceitáveis. Às vezes, é o resultado de um gerenciamento correto. Desgraça mesmo é quando um investimento é jogado inteirinho no lixo!
+
+Não é de hoje que falamos das tragédias da informática. A maioria delas são guardadas a sete chaves. Entretanto, quando a coisa é feia para valer, as regras contábeis deixam os fatos à mostra.
+
+Você já ouviu falar de "write-off"? Significa a baixa contábil de algum ativo da empresa. Por exemplo, um computador em desuso tem o seu valor residual excluído do balanço. Este valor deve ser apontado como perda, diminuindo o lucro. Quando os valores são significativos, aparecem nas notas explicativas do balanço, tornando-se públicos.
+
+Que tal um "write-off" de hardware e software de 130 milhões de dólares? Impossível escondê-lo! Foi assim que o caso da rede norte-americana de supermercados K-Mart, hoje concordatária, veio à tona em setembro de 2001.
+
+No ano passado, comentei o caso da Nike, onde o sistema de otimização da cadeia logística provocou grandes prejuízos. Este caso é bem mais grave. As falhas da K-Mart constituem uma autêntica comédia de erros.
+
+Um dia, houve uma K-Mart que disputava a liderança palmo a palmo com a Wal-Mart. A história da Wal-Mart, caracterizada pela vanguarda na logística e na tecnologia da informação, é familiar a todos nós.
+
+A Wal-Mart foi pioneira na utilização intensiva de códigos de barra, dos caixas inteligentes, do controle em tempo real dos estoques e da troca eletrônica de dados com os seus parceiros. Muito antes da euforia da Internet, ela desenvolvia as bases do comércio colaborativo. Mesmo com uma gestão austera, sabia que o investimento na tecnologia proporcionaria retorno no longo prazo.
+
+A K-Mart esteve sempre na retaguarda. A informática era considerada um luxo. Há dez anos, o comando desta corporação resolveu dar a volta por cima. Eles queriam vencer a Wal-Mart no terreno dela e investiram centenas de milhões de dólares em logística e informática.
+
+Para se ter uma idéia da pouca afinidade deles com a área, basta dizer que nos últimos sete anos eles tiveram cinco CIO (chief information officer). Ainda por cima, o cargo ficava vago por muito tempo. Nos períodos entre um e outro CIO e, em particular, durante os meses que antecederam a debacle.
+
+O "write-off" foi realizado, pois a empresa resolveu substituir alguns sistemas de logística, em especial, aquele que gerencia os seus armazéns. Era tão ruim, que preferiram comprar outro e começar do zero. Tratava-se de um pacote, um software de prateleira. Mas, ele havia sido tão modificado que inviabilizava a sua manutenção e as novas implementações.
+
+A velha lição de se restringir ao máximo as modificações nos pacotes de mercado não foi seguida. Pelo contrário, foi desrespeitada ao extremo. Dá para perceber que eles não entendem nada de prateleira!
+
+A K-Mart ainda tem o desafio de salvar a implementação de um sistema de controle da cadeia logística baseado no software i2. É um produto sofisticado que exige um projeto perfeito. Não precisa muito para tropeçar!
+
+A K-Mart está a beira da falência e prestes a perder a posição de número dois. A Wal-Mart vai bem, obrigado. São duas experiências contrastantes. As ferramentas da tecnologia da informação estão aí para todos. Cada um usa da sua maneira.

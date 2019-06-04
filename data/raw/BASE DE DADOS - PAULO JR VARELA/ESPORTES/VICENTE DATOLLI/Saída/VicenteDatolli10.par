@@ -1,0 +1,14 @@
+VicenteDatolli10
+593 593 287 485 280 20 201 5000000 8 0 0 0 0
+
+*** Résultat de la segmentation du fichier: VicenteDatolli10.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         485
+ 	nombre des formes      :         280
+ 	frequence maximale     :          20
+ 	nombre des hapax       :         201
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      VicenteDatolli10.TXT ***

@@ -1,0 +1,11 @@
+LecParam
+
+510 510 274 415 267 20 216 5000000 7 0 0
+Allocation de la mémoire :
+Allocation de lexm réussie, 4400 octets
+Allocation de tnum réussie, 2040 octets
+Allocation de ftext réussie, 11000 octets
+Allocation de list réussie, 80 octets
+Entrée dans OpenDicNum
+Dictionnaire numérisé : DiogoOlivier30.dic
+Entrée dans OpenTextNum

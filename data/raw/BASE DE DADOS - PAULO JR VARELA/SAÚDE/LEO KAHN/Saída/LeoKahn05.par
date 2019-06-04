@@ -1,0 +1,14 @@
+LeoKahn05
+676 676 338 563 335 24 263 5000000 4 0 0 0 0
+
+*** Résultat de la segmentation du fichier: LeoKahn05.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         563
+ 	nombre des formes      :         335
+ 	frequence maximale     :          24
+ 	nombre des hapax       :         263
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      LeoKahn05.TXT ***

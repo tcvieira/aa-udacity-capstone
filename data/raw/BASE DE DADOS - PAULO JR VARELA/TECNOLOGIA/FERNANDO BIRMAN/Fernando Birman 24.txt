@@ -1,0 +1,23 @@
+"O programador que matou Getúlio Vargas"
+
+Fernando Birman
+
+A propriedade intelectual é um dos motivos das grandes polêmicas da tecnologia da informação. Enquanto muitos se esforçam para proteger os seus direitos, outros lutam por uma sociedade na qual o fluxo do conhecimento seja livre. Este assunto ainda vai gerar infindáveis discussões, principalmente nos tribunais. Não há consenso sobre o que é certo ou errado.
+
+Um programador russo foi convidado para palestrar nos Estados Unidos. Orgulhoso pela notoriedade conquistada, não sabia o que lhe esperava. Em Las Vegas, saindo do evento onde se apresentou, foi surpreendido com nada menos do que a sua prisão. Era a primeira pessoa a ir para o xadrez com base na nova lei de "copyright" norte americana.
+
+Esta é a tragicômica história de Dmitry Sklyarov. Um jovem de 26 anos, pai de dois filhos, empregado da empresa russa Elcomsoft e doutorando em criptografia. Foi autor de um programa que remove a proteção de arquivos feitos para livros eletrônicos. Sem esta proteção, pode-se fazer cópias de segurança dos arquivos, transferi-los para outros dispositivos, explorá-los com outros aplicativos e assim por diante. Se esta prática é legal na Rússia, nos Estados Unidos, é crime.
+
+Quando soube desta história, não pude deixar de associar a um outro desastrado Dmitry. Trata-se da personagem criada por Jô Soares, o bósnio Dimitri Borja Korozec, um anarquista que percorreu o mundo numa sucessão de aventuras hilariantes. Do assassinato do arquiduque Ferdinando à morte de Getúlio Vargas, passando por momentos importantes da história do último século. Nosso colega russo certamente desconhece a saga do seu quase xará. Mas, digamos que ele está no caminho.
+
+Os leitores poderiam pensar que a nossa vítima talvez não seja mesmo tão inocente. Afinal, quebrou um sofisticado esquema de segurança desenvolvido pela Adobe Systems. A desconfiança é mais do que legítima. Porém, o problema não para por aí.
+
+Na Rússia e em diversos países da Europa, é crime interferir no direito do consumidor de se fazer, por exemplo, as suas próprias cópias de segurança. Ou seja, segundo estas leis, Dmitry e seu patrão não só estão certos como possuem razões para processar a Adobe e o fabricante dos livros eletrônicos. Um verdadeiro nó jurídico!
+
+A mobilização da comunidade de informática foi suficiente para se levantar os 50 mil dólares de fiança e libertar Dmitry. Mas, a luta continua. Inúmeras organizações que defendem os direitos individuais aderiram à causa. O ponto chave é a proibição de se comercializar quaisquer produtos que driblem mecanismos de segurança que protegem a propriedade intelectual.
+
+Neste mundo novo, ainda é difícil dizer o que é certo e o que é errado. Há conflitos semelhantes como aquele da indústria fonográfica, do DVD e tantos outros. Enquanto o conhecimento vai se digitalizando e fluindo pela Internet, um conjunto de princípios e regras ainda precisa ser criado. Hoje, a inexistência de uma base legal homogênea que nos permita julgar os muitos Dmitrys é um fato.
+
+Por outro lado, uma boa lição vem dos empreendedores. Estes não se deixam influenciar por tais incertezas na hora de lançar produtos e desenvolver tecnologias. Aguardar um sistema legal definitivo num cenário tão dinâmico, isto sim, seria um crime.
+
+Situações absurdas como esta perdurarão por mais algum tempo. Um dia, de uma forma ou de outra, todas as partes envolvidas chegarão a um acordo, com ou sem leis adequadas.

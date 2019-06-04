@@ -1,0 +1,14 @@
+LeoKahn12
+575 575 282 474 278 31 208 5000000 5 0 0 0 0
+
+*** Résultat de la segmentation du fichier: LeoKahn12.TXT ***
+Délimiteurs .,:;!?/_-\"'()[]{}§$
+
+ 	nombre des occurrences :         474
+ 	nombre des formes      :         278
+ 	frequence maximale     :          31
+ 	nombre des hapax       :         208
+ 	nombre des clés(type)  :           0
+ 	nombre des clés(ctnu)  :           0
+
+*** Fin de la segmentation du fichier:      LeoKahn12.TXT ***
