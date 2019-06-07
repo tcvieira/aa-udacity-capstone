@@ -14,33 +14,7 @@ import matplotlib.patches as mpatches
 import numpy as np
 import pandas as pd
 from time import time
-from sklearn.metrics import f1_score, accuracy_score, confusion_matrix
-
-import seaborn as sns
-sns.set()
-sns.set_style("whitegrid")
-flatui = ["#9b59b6","#3498db","#95a5a6","#e74c3c","#34495e","#2ecc71"]
-sns.set_palette(flatui) 
-sns.set(font_scale=1.5)
-
-def conf_matrix(y_test, preds, classes, normalize_conf_mat=False):    
-    conf_mat = confusion_matrix(preds, y_test, labels=classes)
-    fig, ax = pl.subplots(figsize=(10,10))
-    
-    # normalize by row
-    if normalize_conf_mat:
-        conf_mat = conf_mat.astype('float') / conf_mat.sum(axis=1)[:, np.newaxis] #normalização dos valores 
-        df_cm = pd.DataFrame(conf_mat, index=classes, #cria um data frame para base ao gráfico
-                          columns=classes)        
-        sns.heatmap(df_cm, cmap='BuPu', annot=True, 
-                    xticklabels=classes, yticklabels=classes)
-    else: 
-        sns.heatmap(conf_mat, annot=True, fmt='d', cmap="BuPu",
-                xticklabels=classes, yticklabels=classes)
-        
-    pl.ylabel('Actual')
-    pl.xlabel('Predicted')
-    pl.show()
+from sklearn.metrics import f1_score, accuracy_score
 
 def evaluate(results, accuracy, f1):
     """
