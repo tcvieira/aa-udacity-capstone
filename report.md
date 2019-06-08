@@ -19,17 +19,44 @@ This problem is very relevant for my work since I'm developing several NLP class
 
 Authorship attribution can be defined as the task of inferring characteristics of a document's author from the textual attributes of the document itself. The challenge here is to estimate how similar two documents are from each other, based on patterns of linguistic behavior in documents of known and unknown authorship. This is known in the literature as authorship attribution or authorship analysis.
 
+The problem consist of given a text from some news article, classify it between 100 authors. As input, our classifier receives the text (in a certain format depending on the classification algorithm) and as output it gives the probability of been from certain author for all 100 candidates. 
+
+It's important to mentions that it's crucial to use algorithms that output probabilities for a better understanding and interpretability of the model. Especially, because of the metrics that's going to be analyzed.
+
 ### Metrics
 
 Based on the context of NLP and the multiclass problem property, I'll use the following metrics to compare models:
 
 - Accuracy [link](https://en.wikipedia.org/wiki/Accuracy_and_precision);
+
+<img src="https://imgur.com/Drs0OLN.png" alt="authors distribuition" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+
 - F1 score (trade-off between TP and FP) [link](https://en.wikipedia.org/wiki/F1_score);
+
+<img src="https://imgur.com/gUHEaYC.png" alt="authors distribuition" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+
+
 - Recall [link](https://en.wikipedia.org/wiki/Precision_and_recall);
+
+<img src="https://imgur.com/7qNXPvL.png" alt="authors distribuition" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+
+<img src="https://imgur.com/jc4x1Kx.png" alt="authors distribuition" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+
 - Precision [link](https://en.wikipedia.org/wiki/Precision_and_recall);
+
+
+<img src="https://imgur.com/QXDrwlO.png" alt="authors distribuition" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+
+<img src="https://imgur.com/jc4x1Kx.png" alt="authors distribuition" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+
 - Confusion Matrix [link](https://en.wikipedia.org/wiki/Confusion_matrix).
 
+<img src="https://cdn-images-1.medium.com/max/1600/1*Z54JgbS4DUwWSknhDCvNTQ.png" alt="authors distribuition" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+
+
 Given the context of the problem and to replicate the same metrics used in the base references, These set of metrics is suitable to the problem because it's the most used in the NLP field.
+
+For some models I could get all these metrics, but not all of them. Neverless, for comparison to the original word I only used the accuracy metrics because it's the only one provided by them.
 
 ## II. Analysis
 
@@ -40,6 +67,8 @@ The dataset used and proposed by [VJO2011](http://www.inf.ufpr.br/lesoliveira/do
 For each author it was chosen 30 short articles, thus summing up 3000 pieces of documents. The articles usually deal with polemic subjects and express the author's personal opinion. In average, the articles have 600 tokens (words) and 350 Hapax (words occurring once). One aspect worth of remark is that this kind of articles can go through some revision process, which can remove some personal characteristics of the texts. Besides, authorship attribution using short articles poses an extra challenge since the number of features that can be extracted is directly related to the size of the text.
 
 At first, it created a CSV file to store all the text from the initial dataset provided by the original work. The dataset was distributed in folders organized by subjects and authors in folder `data/raw/BASE DE DADOS - PAULO JR VARELA`. In notebook `notebooks/00-Make-Dataset.ipynb` this CSV file is built and stored at folder `data` as `data_raw.csv`.
+
+This dataset is very
 
 ### Exploratory Visualization
 
@@ -125,14 +154,74 @@ For the classical machine learning techniques tested like `Logistic Regression`,
 
 Basically, I tested the following classification algorithms and feature representation:
 
-- `Logistic Regression`;
-- `Stochastic Gradient Descendent`;
-- `Multi-Layer Perceptron`;
-- `Shallow Neural Network`;
-- `Deep Neural Network`;
-- `Convolutional Neural Network`;
-- `Recurrent Neural Network`;
-- `FastText`.
+- `Logistic Regression`:
+
+- Logistic Regression is very widely used in the case of binary classification problems in many fields like NLP and simple linear problems. [LR in NLP](https://medium.com/data-from-the-trenches/text-classification-the-first-step-toward-nlp-mastery-f5f95d525d73) 
+
+Strengths of the model: [Logistic Regression](https://towardsdatascience.com/real-world-implementation-of-logistic-regression-5136cefb8125)
+
+- It is very efficient;
+- It’s highly interpretable;
+- Can be implemented relatively easy and quick.
+
+Weaknesses of the model: [Logistic Regression](https://towardsdatascience.com/real-world-implementation-of-logistic-regression-5136cefb8125)
+
+- Can’t solve non-linear problems;
+- Will not perform well with independent variables that are not correlated to the target variable and are very similar or correlated to each other.
+
+Logistic Regression is a type of classification algorithm. The output of a Logistic Regression model is a probability that the given input point belongs to a certain class. The central premise of Logistic Regression is the assumption that your input space can be separated into two nice ‘regions’, one for each class, by a linear(read: straight) boundary.
+
+
+- `Stochastic Gradient Descendent`:
+
+- Used for NLP tasks, because works well with sparse data as a Logistic Regression; [Sentiment Analysis](https://dzone.com/articles/simple-sentiment-analysis-with-nlp)
+
+Strengths of the model: [Sklearn SGD](https://scikit-learn.org/stable/modules/sgd.html)
+
+- It is efficient and can get results as good as a Logistic Regression;
+- It is easy to implement and provides a lot of opportunities for code tuning.
+
+Weaknesses of the model: [Sklearn SGD](https://scikit-learn.org/stable/modules/sgd.html)
+
+- Can be difficult to tune hyperparameters;
+- It's sensitive to feature scaling, so data should be normalized.
+
+
+- `Multi-Layer Perceptron`,[link](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
+- `Shallow Neural Network`:
+
+These type of neural network are comprised of one or more layers of neurons. Data is fed to the input layer, there may be one or more hidden layers providing levels of abstraction, and predictions are made on the output layer, also called the visible layer. They are suitable for classification prediction problems where inputs are assigned a class or label.
+
+
+
+- `Deep Neural Network`: [link](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
+
+This type of neural network are comprised of multiple and big layers of neurons. Data is fed to the input layer, there may be one or more hidden layers providing levels of abstraction, and predictions are made on the output layer, also called the visible layer.
+
+- `Convolutional Neural Network`: [link](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
+
+Convolutional Neural Networks, or CNNs, were designed to map image data to an output variable. The CNN input is traditionally two-dimensional, a field or matrix, but can also be changed to be one-dimensional, allowing it to develop an internal representation of a one-dimensional sequence.
+
+Although not specifically developed for non-image data, CNNs achieve state-of-the-art results on problems such as `document classification` used in `sentiment analysis` and related problems.
+
+
+- `Recurrent Neural Network`: [link](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
+
+Recurrent Neural Networks, or RNNs, were designed to work with sequence prediction problems. Sequence prediction problems come in many forms and are best described by the types of inputs and outputs supported.
+
+The `Long Short-Term Memory`, or `LSTM`, network is perhaps the most successful RNN because it overcomes the problems of training a recurrent network and in turn has been used on a wide range of applications.
+
+RNNs and LSTMs have been tested on time series forecasting problems, but the results have been poor, to say the least. Autoregression methods, even linear methods often perform much better. LSTMs are often outperformed by simple MLPs applied on the same data.
+
+- `FastText`:
+
+[FastText](https://fasttext.cc/) is a library for efficient learning of word representations and sentence classification. It enable efficient learning of word representations and sentence classification. It is written in C++ and supports multiprocessing during training. FastText allows you to train supervised and unsupervised representations of words and sentences. These representations (embeddings) can be used for numerous applications from data compression, as features into additional models, for candidate selection, or as initializers for transfer learning.
+
+- `Word Embeddings`
+
+Word representations and sentence classification are fundamental to the field of Natural Language Processing (NLP). Word representation treats a corpus of text as an indiscriminate bag of words, aka, `BoW`. BoW cares about only 2 things: a) the list of known words; b) tally of word frequency. It does not care about the syntactic (structure) and semantic (meaning) relationships among the words in the sentence, sentences in the text. For some purposes, this treatment is good enough, for example, spam detection. For others, BoW falls short. Instead, word vectors becomes the state-of-the-art form of word representation.
+
+Word vectors represent words as multidimensional continuous floating point numbers where semantically similar words are mapped to proximate points in geometric space. In simpler terms, a word vector is a row of real valued numbers (as opposed to dummy numbers) where each point captures a dimension of the word’s meaning and where semantically similar words have similar vectors.[Word Embeddings](https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf).
 
 ### Benchmark
 
@@ -164,25 +253,27 @@ Let's summarize all the implementation done in this project in parts.
 
 #### Visualization
 
-- It was implemented some function to visualize data in `notebooks/02-EDA.ipynb`, like `generate_wordcloud`, `top_tfidf_feats`, `top_feats_in_doc`, `top_mean_feats` and `top_feats_by_class` used to show relevant words in wordcloud figures;
+- It was implemented some function to visualize data in `notebooks/02-EDA.ipynb`, like `generate_wordcloud`, `top_tfidf_feats`, `top_feats_in_doc`, `top_mean_feats` and `top_feats_by_class` used to show relevant words in wordcloud figures.
 
 #### Classic Machine Learning
 
-- It was implemented some function to train the model and show results in `notebooks/03-ML.ipynb`, like `conf_matrix`, `train`, `evaluate_`, `train_evaluate`, `show_roc`, `show_report` used to better organized the experimentation process;
+- It was implemented some function to train the model and show results in `notebooks/03-ML.ipynb`, like `conf_matrix`, `train`, `evaluate_`, `train_evaluate`, `show_roc`, `show_report` used to better organized the experimentation process.
 
 #### Neural Networks
 
 Here, the models were implemented using the framework [Keras](https://keras.io/).
 
-- It was implemented some function to train the model and show results in `notebooks/04-ML.ipynb` - `notebooks/05-DNN.ipynb` - `notebooks/06-CNN.ipynb` - `notebooks/07-RNN.ipynb` - `notebooks/04-ML.ipynb`, like `plot_history`, `Metrics`, `evaluate_`, `train_evaluate`, `show_roc`, `show_report` used to better organized the experimentation process and add metrics to traning process;
+- It was implemented some function to train the model and show results in `notebooks/04-ML.ipynb` - `notebooks/05-DNN.ipynb` - `notebooks/06-CNN.ipynb` - `notebooks/07-RNN.ipynb` - `notebooks/04-ML.ipynb`, like `plot_history`, `Metrics`, `evaluate_`, `train_evaluate`, `show_roc`, `show_report` used to better organized the experimentation process and add metrics to traning process. It was a challenge to create the class `Metrics` to try to track f1-score, but didn't work for every neural network.
 
 #### Word Embeddings
 
-Here, some implementations used the Glove Word Embeddings downloaded from [NILC](http://nilc.icmc.usp.br/embeddings). More precisely, the **GLOVE 100** that can be downloaded in this [link](http://143.107.183.175:22980/download.php?file=embeddings/glove/glove_s100.zip).
+Here, some implementations used the Glove Word Embeddings downloaded from [NILC](http://nilc.icmc.usp.br/embeddings). More precisely, the **GLOVE 100** that can be downloaded in this [link](http://143.107.183.175:22980/download.php?file=embeddings/glove/glove_s100.zip). This approach was difficult because of the size of the file and the preprocessing phase that was needed. By the end, didn't seems to be a good attempt.
 
 ### Refinement
 
-The best classical algorithms was applied to a GridSearch with cross validation to find a better hyperparameter setting as shown in `notebooks/03-ML.ipynb`.
+The best classical algorithms was applied to a `GridSearch` with cross validation to find a better hyperparameter setting as shown in `notebooks/03-ML.ipynb`.
+
+<img src="https://imgur.com/gPb5M61.png" alt="authors distribuition" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
 
 This process resulted in the best model in this project as shown below:
 
@@ -213,6 +304,8 @@ Train f1-score: 0.9895337773549001
 Text f1-score: 0.7280799112097669
 ```
 
+In the more complex models it was tested, in most cases, three types of features extractions: `TF-IDF`, `Word Embeddings` and `Glove Word Embeddings`. At the model level, I tested some layes with `Dropout`, `Max-Pooling`, `Global Max-Pooling` and keep the main layers (`Convolutional`, `LSTM`, and `Dense`) as simple as possible.
+
 ## IV. Results
 
 ### Model Evaluation and Validation
@@ -229,6 +322,10 @@ Test acc: 0.8423973362930077
 Train f1-score: 1.0
 Text f1-score: 0.8423973362930077
 ```
+
+With the following hyperparameters with `TF-IDF` and `Stochastic Gradient Descendent Classifier`:
+
+<img src="https://imgur.com/KLTi2YW.png" alt="authors distribuition" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
 
 #### Shallow Neural Network Evaluations - `notebooks/04-NN.ipynb`
 
